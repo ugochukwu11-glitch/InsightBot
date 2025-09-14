@@ -1,0 +1,1445 @@
+2025-09-14 14:07:52,611 [INFO] Starting scraper in mode=train
+2025-09-14 14:07:52,611 [INFO] SITE: https://www.cnn.com
+2025-09-14 14:07:53,669 [INFO]  -> trying: https://www.cnn.com/2025/09/13/world/india-secret-deportations-rohingya-myanmar-intl-hnk-dst
+2025-09-14 14:07:54,329 [INFO]    ✓ extracted (len=14202) https://www.cnn.com/2025/09/13/world/india-secret-deportations-rohingya-myanmar-intl-hnk-dst
+2025-09-14 14:07:55,549 [INFO]  -> trying: https://www.cnn.com/2025/09/14/style/breast-implant-removal-surgery-taboo
+2025-09-14 14:07:57,027 [INFO]    ✓ extracted (len=14607) https://www.cnn.com/2025/09/14/style/breast-implant-removal-surgery-taboo
+2025-09-14 14:07:58,245 [INFO]  -> trying: https://www.cnn.com/2025/09/14/entertainment/watch-emmy-awards-how-when-where
+2025-09-14 14:07:59,031 [INFO]    ✓ extracted (len=2410) https://www.cnn.com/2025/09/14/entertainment/watch-emmy-awards-how-when-where
+2025-09-14 14:08:00,078 [INFO] SITE: https://www.bbc.com
+2025-09-14 14:08:00,699 [INFO]  -> trying: https://www.bbc.com/news/war-in-ukraine
+2025-09-14 14:08:01,316 [INFO]    ✗ skipped https://www.bbc.com/news/war-in-ukraine
+2025-09-14 14:08:03,014 [INFO]  -> trying: https://www.bbc.com/news/us-canada
+2025-09-14 14:08:03,639 [INFO]    ✗ skipped https://www.bbc.com/news/us-canada
+2025-09-14 14:08:05,256 [INFO]  -> trying: https://www.bbc.com/news/politics
+2025-09-14 14:08:06,365 [INFO]    ✗ skipped https://www.bbc.com/news/politics
+2025-09-14 14:08:08,056 [INFO]  -> trying: https://www.bbc.com/news/england
+2025-09-14 14:08:20,065 [WARNING] Fetch error (HTTPSConnectionPool(host='www.bbc.com', port=443): Read timed out. (read timeout=12)) for https://www.bbc.com/news/england
+2025-09-14 14:08:23,335 [INFO]    ✗ skipped https://www.bbc.com/news/england
+2025-09-14 14:08:24,968 [INFO]  -> trying: https://www.bbc.com/news/northern_ireland
+2025-09-14 14:08:25,660 [INFO]    ✗ skipped https://www.bbc.com/news/northern_ireland
+2025-09-14 14:08:26,831 [INFO]  -> trying: https://www.bbc.com/news/northern_ireland/northern_ireland_politics
+2025-09-14 14:08:28,216 [INFO]    ✗ skipped https://www.bbc.com/news/northern_ireland/northern_ireland_politics
+2025-09-14 14:08:29,286 [INFO]  -> trying: https://www.bbc.com/news/scotland
+2025-09-14 14:08:30,648 [INFO]    ✗ skipped https://www.bbc.com/news/scotland
+2025-09-14 14:08:31,708 [INFO]  -> trying: https://www.bbc.com/news/scotland/scotland_politics
+2025-09-14 14:08:32,317 [INFO]    ✗ skipped https://www.bbc.com/news/scotland/scotland_politics
+2025-09-14 14:08:34,051 [INFO]  -> trying: https://www.bbc.com/news/wales
+2025-09-14 14:08:34,494 [INFO]    ✗ skipped https://www.bbc.com/news/wales
+2025-09-14 14:08:36,124 [INFO]  -> trying: https://www.bbc.com/news/wales/wales_politics
+2025-09-14 14:08:36,998 [INFO]    ✗ skipped https://www.bbc.com/news/wales/wales_politics
+2025-09-14 14:08:38,493 [INFO]  -> trying: https://www.bbc.com/news/world/africa
+2025-09-14 14:08:38,726 [INFO]    ✗ skipped https://www.bbc.com/news/world/africa
+2025-09-14 14:08:40,642 [INFO]  -> trying: https://www.bbc.com/news/world/asia
+2025-09-14 14:08:41,327 [INFO]    ✗ skipped https://www.bbc.com/news/world/asia
+2025-09-14 14:08:42,590 [INFO]  -> trying: https://www.bbc.com/news/world/asia/china
+2025-09-14 14:08:43,065 [INFO]    ✗ skipped https://www.bbc.com/news/world/asia/china
+2025-09-14 14:08:44,118 [INFO]  -> trying: https://www.bbc.com/news/world/asia/india
+2025-09-14 14:08:44,823 [INFO]    ✗ skipped https://www.bbc.com/news/world/asia/india
+2025-09-14 14:08:45,872 [INFO]  -> trying: https://www.bbc.com/news/world/australia
+2025-09-14 14:08:46,940 [INFO]    ✗ skipped https://www.bbc.com/news/world/australia
+2025-09-14 14:08:48,056 [INFO]  -> trying: https://www.bbc.com/news/world/europe
+2025-09-14 14:08:49,166 [INFO]    ✗ skipped https://www.bbc.com/news/world/europe
+2025-09-14 14:08:50,215 [INFO]  -> trying: https://www.bbc.com/news/world/latin_america
+2025-09-14 14:08:51,209 [INFO]    ✗ skipped https://www.bbc.com/news/world/latin_america
+2025-09-14 14:08:52,709 [INFO]  -> trying: https://www.bbc.com/news/world/middle_east
+2025-09-14 14:08:53,098 [INFO]    ✗ skipped https://www.bbc.com/news/world/middle_east
+2025-09-14 14:08:54,429 [INFO]  -> trying: https://www.bbc.com/news/in_pictures
+2025-09-14 14:08:54,887 [INFO]    ✗ skipped https://www.bbc.com/news/in_pictures
+2025-09-14 14:08:56,510 [INFO]  -> trying: https://www.bbc.com/news/bbcindepth
+2025-09-14 14:08:56,935 [INFO]    ✗ skipped https://www.bbc.com/news/bbcindepth
+2025-09-14 14:08:58,096 [INFO]  -> trying: https://www.bbc.com/news/bbcverify
+2025-09-14 14:08:58,852 [INFO]    ✗ skipped https://www.bbc.com/news/bbcverify
+2025-09-14 14:09:00,558 [INFO]  -> trying: https://www.bbc.com/news/articles/c80g7g5rmlno
+2025-09-14 14:09:01,116 [INFO]    ✓ extracted (len=3240) https://www.bbc.com/news/articles/c80g7g5rmlno
+2025-09-14 14:09:02,723 [INFO]  -> trying: https://www.bbc.com/news/articles/cnvr5782yp3o
+2025-09-14 14:09:02,893 [INFO]    ✓ extracted (len=2702) https://www.bbc.com/news/articles/cnvr5782yp3o
+2025-09-14 14:09:04,645 [INFO]  -> trying: https://www.bbc.com/news/live/c201x6891e8t
+2025-09-14 14:09:04,878 [INFO]    ✓ extracted (len=8764) https://www.bbc.com/news/live/c201x6891e8t
+2025-09-14 14:09:05,978 [INFO] SITE: https://www.nytimes.com
+2025-09-14 14:09:06,831 [INFO]  -> trying: https://www.nytimes.com/interactive/2023/10/27/arts/music/music-fivemins-collection.html
+2025-09-14 14:09:07,388 [INFO]    ✓ extracted (len=4869) https://www.nytimes.com/interactive/2023/10/27/arts/music/music-fivemins-collection.html
+2025-09-14 14:09:08,708 [INFO]  -> trying: https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-1.html
+2025-09-14 14:09:09,066 [WARNING] Non-200 403 for https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-1.html
+2025-09-14 14:09:10,691 [WARNING] Non-200 403 for https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-1.html
+2025-09-14 14:09:12,354 [WARNING] Non-200 403 for https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-1.html
+2025-09-14 14:09:14,173 [INFO]    ✗ skipped https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-1.html
+2025-09-14 14:09:15,796 [INFO]  -> trying: https://www.nytimes.com/athletic/5803046/2024/09/30/the-athletic-newsletters-sign-up/
+2025-09-14 14:09:17,863 [INFO]    ✓ extracted (len=2101) https://www.nytimes.com/athletic/5803046/2024/09/30/the-athletic-newsletters-sign-up/
+2025-09-14 14:09:19,550 [INFO]  -> trying: https://www.nytimes.com/2025/09/14/us/politics/trump-kirk-polarization-unity.html
+2025-09-14 14:09:19,857 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/14/us/politics/trump-kirk-polarization-unity.html
+2025-09-14 14:09:21,380 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/14/us/politics/trump-kirk-polarization-unity.html
+2025-09-14 14:09:22,884 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/14/us/politics/trump-kirk-polarization-unity.html
+2025-09-14 14:09:24,315 [INFO]    ✗ skipped https://www.nytimes.com/2025/09/14/us/politics/trump-kirk-polarization-unity.html
+2025-09-14 14:09:25,817 [INFO]  -> trying: https://www.nytimes.com/2025/09/13/us/kirk-killing-suspect-online-chat.html
+2025-09-14 14:09:26,162 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/13/us/kirk-killing-suspect-online-chat.html
+2025-09-14 14:09:27,913 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/13/us/kirk-killing-suspect-online-chat.html
+2025-09-14 14:09:30,231 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/13/us/kirk-killing-suspect-online-chat.html
+2025-09-14 14:09:31,326 [INFO]    ✗ skipped https://www.nytimes.com/2025/09/13/us/kirk-killing-suspect-online-chat.html
+2025-09-14 14:09:32,968 [INFO]  -> trying: https://www.nytimes.com/2025/09/13/style/erika-kirk-charlie-kirk-marriage.html
+2025-09-14 14:09:33,308 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/13/style/erika-kirk-charlie-kirk-marriage.html
+2025-09-14 14:09:35,281 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/13/style/erika-kirk-charlie-kirk-marriage.html
+2025-09-14 14:09:37,203 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/13/style/erika-kirk-charlie-kirk-marriage.html
+2025-09-14 14:09:38,482 [INFO]    ✗ skipped https://www.nytimes.com/2025/09/13/style/erika-kirk-charlie-kirk-marriage.html
+2025-09-14 14:09:39,789 [INFO]  -> trying: https://www.nytimes.com/2024/04/24/world/europe/images-ukraine-war-fourth-year.html
+2025-09-14 14:09:40,126 [WARNING] Non-200 403 for https://www.nytimes.com/2024/04/24/world/europe/images-ukraine-war-fourth-year.html
+2025-09-14 14:09:42,187 [WARNING] Non-200 403 for https://www.nytimes.com/2024/04/24/world/europe/images-ukraine-war-fourth-year.html
+2025-09-14 14:09:43,776 [WARNING] Non-200 403 for https://www.nytimes.com/2024/04/24/world/europe/images-ukraine-war-fourth-year.html
+2025-09-14 14:09:45,110 [INFO]    ✗ skipped https://www.nytimes.com/2024/04/24/world/europe/images-ukraine-war-fourth-year.html
+2025-09-14 14:09:46,608 [INFO]  -> trying: https://www.nytimes.com/2025/08/22/world/europe/ukraine-russia-deepstate-war-map.html
+2025-09-14 14:09:46,924 [WARNING] Non-200 403 for https://www.nytimes.com/2025/08/22/world/europe/ukraine-russia-deepstate-war-map.html
+2025-09-14 14:09:48,552 [WARNING] Non-200 403 for https://www.nytimes.com/2025/08/22/world/europe/ukraine-russia-deepstate-war-map.html
+2025-09-14 14:09:50,187 [WARNING] Non-200 403 for https://www.nytimes.com/2025/08/22/world/europe/ukraine-russia-deepstate-war-map.html
+2025-09-14 14:09:51,478 [INFO]    ✗ skipped https://www.nytimes.com/2025/08/22/world/europe/ukraine-russia-deepstate-war-map.html
+2025-09-14 14:09:52,688 [INFO]  -> trying: https://www.nytimes.com/2025/09/02/world/europe/ukraine-weapons-security.html
+2025-09-14 14:09:53,032 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/02/world/europe/ukraine-weapons-security.html
+2025-09-14 14:09:55,031 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/02/world/europe/ukraine-weapons-security.html
+2025-09-14 14:09:57,267 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/02/world/europe/ukraine-weapons-security.html
+2025-09-14 14:09:58,351 [INFO]    ✗ skipped https://www.nytimes.com/2025/09/02/world/europe/ukraine-weapons-security.html
+2025-09-14 14:09:59,657 [INFO]  -> trying: https://www.nytimes.com/2025/09/01/us/politics/ukraine-war-tnt-shortage.html
+2025-09-14 14:10:00,005 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/01/us/politics/ukraine-war-tnt-shortage.html
+2025-09-14 14:10:01,914 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/01/us/politics/ukraine-war-tnt-shortage.html
+2025-09-14 14:10:04,037 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/01/us/politics/ukraine-war-tnt-shortage.html
+2025-09-14 14:10:05,398 [INFO]    ✗ skipped https://www.nytimes.com/2025/09/01/us/politics/ukraine-war-tnt-shortage.html
+2025-09-14 14:10:06,723 [INFO]  -> trying: https://www.nytimes.com/2025/08/29/world/europe/donetsk-water-shortage-crisis.html
+2025-09-14 14:10:07,025 [WARNING] Non-200 403 for https://www.nytimes.com/2025/08/29/world/europe/donetsk-water-shortage-crisis.html
+2025-09-14 14:10:08,407 [WARNING] Non-200 403 for https://www.nytimes.com/2025/08/29/world/europe/donetsk-water-shortage-crisis.html
+2025-09-14 14:10:10,710 [WARNING] Non-200 403 for https://www.nytimes.com/2025/08/29/world/europe/donetsk-water-shortage-crisis.html
+2025-09-14 14:10:12,295 [INFO]    ✗ skipped https://www.nytimes.com/2025/08/29/world/europe/donetsk-water-shortage-crisis.html
+2025-09-14 14:10:13,454 [INFO]  -> trying: https://www.nytimes.com/2025/09/14/world/europe/russia-ukraine-drone-attacks-production.html
+2025-09-14 14:10:13,806 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/14/world/europe/russia-ukraine-drone-attacks-production.html
+2025-09-14 14:10:15,358 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/14/world/europe/russia-ukraine-drone-attacks-production.html
+2025-09-14 14:10:17,118 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/14/world/europe/russia-ukraine-drone-attacks-production.html
+2025-09-14 14:10:18,190 [INFO]    ✗ skipped https://www.nytimes.com/2025/09/14/world/europe/russia-ukraine-drone-attacks-production.html
+2025-09-14 14:10:19,910 [INFO]  -> trying: https://www.nytimes.com/2025/09/14/world/europe/romania-drone-russia-ukraine.html
+2025-09-14 14:10:20,270 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/14/world/europe/romania-drone-russia-ukraine.html
+2025-09-14 14:10:21,665 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/14/world/europe/romania-drone-russia-ukraine.html
+2025-09-14 14:10:23,884 [WARNING] Non-200 403 for https://www.nytimes.com/2025/09/14/world/europe/romania-drone-russia-ukraine.html
+2025-09-14 14:10:25,293 [INFO]    ✗ skipped https://www.nytimes.com/2025/09/14/world/europe/romania-drone-russia-ukraine.html
+2025-09-14 14:10:26,674 [INFO]  -> trying: https://www.nytimes.com/interactive/2025/07/28/business/economy/trump-tariff-tracker.html
+2025-09-14 14:10:27,707 [INFO]    ✓ extracted (len=10829) https://www.nytimes.com/interactive/2025/07/28/business/economy/trump-tariff-tracker.html
+2025-09-14 14:10:28,750 [INFO] SITE: https://www.theguardian.com
+2025-09-14 14:10:29,667 [INFO]  -> trying: https://www.theguardian.com/lifeandstyle/2025/sep/14/my-wife-and-i-had-couples-therapy-on-tv-it-nearly-wrecked-our-marriage
+2025-09-14 14:10:29,853 [INFO]    ✓ extracted (len=22295) https://www.theguardian.com/lifeandstyle/2025/sep/14/my-wife-and-i-had-couples-therapy-on-tv-it-nearly-wrecked-our-marriage
+2025-09-14 14:10:31,008 [INFO]  -> trying: https://www.theguardian.com/us-news/2025/sep/14/zohran-mamdani-success-what-can-labour-learn
+2025-09-14 14:10:31,206 [INFO]    ✓ extracted (len=9436) https://www.theguardian.com/us-news/2025/sep/14/zohran-mamdani-success-what-can-labour-learn
+2025-09-14 14:10:33,040 [INFO]  -> trying: https://www.theguardian.com/tv-and-radio/2025/sep/14/mawaan-rizwan-interview-juice-series-2-comedy-bbc-three
+2025-09-14 14:10:33,246 [INFO]    ✓ extracted (len=10189) https://www.theguardian.com/tv-and-radio/2025/sep/14/mawaan-rizwan-interview-juice-series-2-comedy-bbc-three
+2025-09-14 14:10:34,318 [INFO] SITE: https://www.reuters.com
+2025-09-14 14:10:34,682 [WARNING] Non-200 401 for https://www.reuters.com
+2025-09-14 14:10:35,950 [WARNING] Non-200 401 for https://www.reuters.com
+2025-09-14 14:10:37,774 [WARNING] Non-200 401 for https://www.reuters.com
+2025-09-14 14:10:39,155 [WARNING] Failed to fetch homepage https://www.reuters.com
+2025-09-14 14:10:39,156 [WARNING] No candidate links found for https://www.reuters.com
+2025-09-14 14:10:39,156 [WARNING] Extracted 0 articles for https://www.reuters.com
+2025-09-14 14:10:39,156 [INFO] SITE: https://www.washingtonpost.com
+2025-09-14 14:10:51,493 [WARNING] Fetch error (HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=12)) for https://www.washingtonpost.com
+2025-09-14 14:11:05,419 [WARNING] Fetch error (HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=12)) for https://www.washingtonpost.com
+2025-09-14 14:11:18,913 [WARNING] Fetch error (HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=12)) for https://www.washingtonpost.com
+2025-09-14 14:11:20,355 [WARNING] Failed to fetch homepage https://www.washingtonpost.com
+2025-09-14 14:11:20,356 [WARNING] No candidate links found for https://www.washingtonpost.com
+2025-09-14 14:11:20,356 [WARNING] Extracted 0 articles for https://www.washingtonpost.com
+2025-09-14 14:11:20,356 [INFO] SITE: https://www.forbes.com
+2025-09-14 14:11:20,973 [INFO]  -> trying: https://www.forbes.com/sites/forbesstaff/article/tips-and-confidential-sources/
+2025-09-14 14:11:21,257 [INFO]    ✓ extracted (len=3500) https://www.forbes.com/sites/forbesstaff/article/tips-and-confidential-sources/
+2025-09-14 14:11:23,241 [INFO]  -> trying: https://www.forbes.com/sites/theleukemialymphomasociety/2025/08/21/student-visionaries-celebrating-teen-leaders-raising-money-to-end-blood-cancers/
+2025-09-14 14:11:23,524 [INFO]    ✓ extracted (len=6691) https://www.forbes.com/sites/theleukemialymphomasociety/2025/08/21/student-visionaries-celebrating-teen-leaders-raising-money-to-end-blood-cancers/
+2025-09-14 14:11:25,464 [INFO]  -> trying: https://www.forbes.com/sites/forbes-research/2023/10/26/c-suite-data-reveals-ais-nuanced-impact--a-quest-to-quantify-it/
+2025-09-14 14:11:25,689 [INFO]    ✗ skipped https://www.forbes.com/sites/forbes-research/2023/10/26/c-suite-data-reveals-ais-nuanced-impact--a-quest-to-quantify-it/
+2025-09-14 14:11:26,971 [INFO]  -> trying: https://www.forbes.com/sites/forbesvideo/2023/11/01/dna-of-success-2023/
+2025-09-14 14:11:27,221 [INFO]    ✗ skipped https://www.forbes.com/sites/forbesvideo/2023/11/01/dna-of-success-2023/
+2025-09-14 14:11:28,860 [INFO]  -> trying: https://www.forbes.com/sites/forbes-research/2023/10/26/new-forbes-survey-reveals-how-executives-are-embracing---and-bracing-for---ai/
+2025-09-14 14:11:29,108 [INFO]    ✗ skipped https://www.forbes.com/sites/forbes-research/2023/10/26/new-forbes-survey-reveals-how-executives-are-embracing---and-bracing-for---ai/
+2025-09-14 14:11:30,402 [INFO]  -> trying: https://www.forbes.com/sites/forbes-research/2023/11/01/facing-a-volatile-market-c-suites-look-to-the-cfo-for-strategic-guidance/
+2025-09-14 14:11:30,645 [INFO]    ✓ extracted (len=612) https://www.forbes.com/sites/forbes-research/2023/11/01/facing-a-volatile-market-c-suites-look-to-the-cfo-for-strategic-guidance/
+2025-09-14 14:11:31,775 [INFO] SITE: https://techcrunch.com
+2025-09-14 14:11:32,548 [INFO]  -> trying: https://techcrunch.com/2025/09/13/california-lawmakers-pass-ai-safety-bill-sb-53-but-newsom-could-still-veto/
+2025-09-14 14:11:32,724 [INFO]    ✓ extracted (len=3637) https://techcrunch.com/2025/09/13/california-lawmakers-pass-ai-safety-bill-sb-53-but-newsom-could-still-veto/
+2025-09-14 14:11:34,472 [INFO]  -> trying: https://techcrunch.com/2025/09/12/why-the-oracle-openai-deal-caught-wall-street-by-surprise/
+2025-09-14 14:11:34,686 [INFO]    ✓ extracted (len=6470) https://techcrunch.com/2025/09/12/why-the-oracle-openai-deal-caught-wall-street-by-surprise/
+2025-09-14 14:11:36,383 [INFO]  -> trying: https://techcrunch.com/2025/09/13/hike-once-a-unicorn-shuts-down-as-india-cracks-down-on-real-money-gaming/
+2025-09-14 14:11:36,593 [INFO]    ✓ extracted (len=4141) https://techcrunch.com/2025/09/13/hike-once-a-unicorn-shuts-down-as-india-cracks-down-on-real-money-gaming/
+2025-09-14 14:11:37,968 [INFO] SITE: https://thenextweb.com
+2025-09-14 14:11:38,796 [INFO]  -> trying: https://thenextweb.com/news/big-business-innovation-needs-startup-leaders
+2025-09-14 14:11:38,930 [INFO]    ✓ extracted (len=4824) https://thenextweb.com/news/big-business-innovation-needs-startup-leaders
+2025-09-14 14:11:40,749 [INFO]  -> trying: https://thenextweb.com/news/founders-takes-on-ai-for-investing
+2025-09-14 14:11:40,911 [INFO]    ✓ extracted (len=4451) https://thenextweb.com/news/founders-takes-on-ai-for-investing
+2025-09-14 14:11:41,944 [INFO]  -> trying: https://thenextweb.com/news/europe-ready-self-driving-cars
+2025-09-14 14:11:42,113 [INFO]    ✓ extracted (len=7663) https://thenextweb.com/news/europe-ready-self-driving-cars
+2025-09-14 14:11:43,719 [INFO] SITE: https://medium.com
+2025-09-14 14:11:44,044 [INFO]  -> trying: https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e
+2025-09-14 14:11:44,141 [INFO]    ✓ extracted (len=2448) https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e
+2025-09-14 14:11:45,723 [INFO]  -> trying: https://policy.medium.com/medium-rules-30e5502c4eb4
+2025-09-14 14:11:46,770 [INFO]    ✗ skipped https://policy.medium.com/medium-rules-30e5502c4eb4
+2025-09-14 14:11:48,546 [INFO]  -> trying: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
+2025-09-14 14:11:48,690 [INFO]    ✓ extracted (len=18862) https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
+2025-09-14 14:11:50,171 [INFO]  -> trying: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
+2025-09-14 14:11:50,312 [INFO]    ✓ extracted (len=9946) https://policy.medium.com/medium-privacy-policy-f03bf92035c9
+2025-09-14 14:11:52,278 [INFO] SITE: https://dev.to
+2025-09-14 14:11:53,026 [INFO]  -> trying: https://dev.to/sharafon/rapidrelief-ai-2025-5x-faster-damage-assessment-rescue-guide-2lf9
+2025-09-14 14:11:53,374 [INFO]    ✓ extracted (len=11692) https://dev.to/sharafon/rapidrelief-ai-2025-5x-faster-damage-assessment-rescue-guide-2lf9
+2025-09-14 14:11:54,896 [INFO]  -> trying: https://dev.to/sagar/level-up-your-sprints-how-im-using-ai-to-plan-like-a-boss-1lj0
+2025-09-14 14:11:55,496 [INFO]    ✓ extracted (len=2405) https://dev.to/sagar/level-up-your-sprints-how-im-using-ai-to-plan-like-a-boss-1lj0
+2025-09-14 14:11:56,956 [INFO]  -> trying: https://dev.to/therealmrmumba/qwen-code-just-got-smarter-key-features-in-v0010-v0011-4j5h
+2025-09-14 14:11:57,564 [INFO]    ✓ extracted (len=4783) https://dev.to/therealmrmumba/qwen-code-just-got-smarter-key-features-in-v0010-v0011-4j5h
+2025-09-14 14:11:58,580 [INFO] SITE: https://mashable.com
+2025-09-14 14:11:59,207 [INFO]  -> trying: https://mashable.com/roundup/best-cheap-laptops
+2025-09-14 14:11:59,552 [INFO]    ✓ extracted (len=14078) https://mashable.com/roundup/best-cheap-laptops
+2025-09-14 14:12:00,921 [INFO]  -> trying: https://mashable.com/roundup/best-sexting-apps
+2025-09-14 14:12:01,202 [INFO]    ✓ extracted (len=23153) https://mashable.com/roundup/best-sexting-apps
+2025-09-14 14:12:02,345 [INFO]  -> trying: https://mashable.com/roundup/best-robot-vacuums
+2025-09-14 14:12:02,698 [INFO]    ✓ extracted (len=19445) https://mashable.com/roundup/best-robot-vacuums
+2025-09-14 14:12:04,041 [INFO] SITE: https://www.wsj.com
+2025-09-14 14:12:04,599 [WARNING] Non-200 401 for https://www.wsj.com
+2025-09-14 14:12:06,734 [WARNING] Non-200 401 for https://www.wsj.com
+2025-09-14 14:12:08,375 [WARNING] Non-200 401 for https://www.wsj.com
+2025-09-14 14:12:09,848 [WARNING] Failed to fetch homepage https://www.wsj.com
+2025-09-14 14:12:09,848 [WARNING] No candidate links found for https://www.wsj.com
+2025-09-14 14:12:09,849 [WARNING] Extracted 0 articles for https://www.wsj.com
+2025-09-14 14:12:09,849 [INFO] SITE: https://www.wired.com
+2025-09-14 14:12:10,273 [INFO]  -> trying: https://www.wired.com/2016/05/the-end-of-code/
+2025-09-14 14:12:10,657 [INFO]    ✓ extracted (len=18346) https://www.wired.com/2016/05/the-end-of-code/
+2025-09-14 14:12:12,551 [INFO]  -> trying: https://www.wired.com/video/watch/hacklab-we-digitally-cracked-a-high-security-safe
+2025-09-14 14:12:12,924 [INFO]    ✓ extracted (len=5097) https://www.wired.com/video/watch/hacklab-we-digitally-cracked-a-high-security-safe
+2025-09-14 14:12:14,433 [INFO]  -> trying: https://www.wired.com/video/watch/tech-support-jon-batiste-answers-piano-questions
+2025-09-14 14:12:14,857 [INFO]    ✓ extracted (len=5038) https://www.wired.com/video/watch/tech-support-jon-batiste-answers-piano-questions
+2025-09-14 14:12:15,870 [INFO] SITE: https://www.npr.org
+2025-09-14 14:12:16,605 [INFO]  -> trying: https://www.npr.org/sections/health-shots/126567525/your-health
+2025-09-14 14:12:17,418 [INFO]    ✗ skipped https://www.npr.org/sections/health-shots/126567525/your-health
+2025-09-14 14:12:19,280 [INFO]  -> trying: https://www.npr.org/sections/health-shots/133188449/public-health
+2025-09-14 14:12:20,079 [INFO]    ✗ skipped https://www.npr.org/sections/health-shots/133188449/public-health
+2025-09-14 14:12:21,200 [INFO]  -> trying: https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player
+2025-09-14 14:12:21,638 [WARNING] Fetch error (HTTPSConnectionPool(host='help.npr.org', port=443): Max retries exceeded with url: /contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))) for https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player
+2025-09-14 14:12:23,739 [WARNING] Fetch error (HTTPSConnectionPool(host='help.npr.org', port=443): Max retries exceeded with url: /contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))) for https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player
+2025-09-14 14:12:25,555 [WARNING] Fetch error (HTTPSConnectionPool(host='help.npr.org', port=443): Max retries exceeded with url: /contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))) for https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player
+2025-09-14 14:12:27,138 [INFO]    ✗ skipped https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player
+2025-09-14 14:12:28,208 [INFO]  -> trying: https://www.npr.org/sections/allsongs/606254804/new-music-friday
+2025-09-14 14:12:29,618 [INFO]    ✓ extracted (len=5505) https://www.npr.org/sections/allsongs/606254804/new-music-friday
+2025-09-14 14:12:31,271 [INFO]  -> trying: https://www.npr.org/podcasts/510310/npr-politics-podcast
+2025-09-14 14:12:31,971 [INFO]    ✓ extracted (len=5323) https://www.npr.org/podcasts/510310/npr-politics-podcast
+2025-09-14 14:12:33,357 [INFO]  -> trying: https://www.npr.org/2025/09/14/nx-s1-5496445/trump-uk-state-visit-mother-scotland-outer-hebrides
+2025-09-14 14:12:34,113 [INFO]    ✓ extracted (len=10715) https://www.npr.org/2025/09/14/nx-s1-5496445/trump-uk-state-visit-mother-scotland-outer-hebrides
+2025-09-14 14:12:36,047 [INFO] SITE: https://www.vox.com
+2025-09-14 14:12:36,608 [INFO]  -> trying: https://www.vox.com/21523212/crossword-puzzles-free-daily-printable
+2025-09-14 14:12:36,726 [INFO]    ✓ extracted (len=1482) https://www.vox.com/21523212/crossword-puzzles-free-daily-printable
+2025-09-14 14:12:37,952 [INFO]  -> trying: https://www.vox.com/politics/461498/charlie-kirk-remade-gen-z-transform-conservative-youth-politics-legacy
+2025-09-14 14:12:38,119 [INFO]    ✓ extracted (len=10424) https://www.vox.com/politics/461498/charlie-kirk-remade-gen-z-transform-conservative-youth-politics-legacy
+2025-09-14 14:12:39,358 [INFO]  -> trying: https://www.vox.com/politics/461408/charlie-kirk-shooting-killed-right-way-suspect
+2025-09-14 14:12:39,532 [INFO]    ✓ extracted (len=9810) https://www.vox.com/politics/461408/charlie-kirk-shooting-killed-right-way-suspect
+2025-09-14 14:12:41,102 [INFO] SITE: https://www.bloomberg.com
+2025-09-14 14:12:43,836 [INFO]  -> trying: https://www.bloomberg.com/professional/support/customer-support/software-updates/?utm_source=bloomberg-menu&utm_medium=bcom
+2025-09-14 14:12:45,403 [INFO]    ✗ skipped https://www.bloomberg.com/professional/support/customer-support/software-updates/?utm_source=bloomberg-menu&utm_medium=bcom
+2025-09-14 14:12:46,719 [INFO]  -> trying: https://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu&utm_medium=bcom
+2025-09-14 14:12:47,976 [INFO]    ✗ skipped https://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu&utm_medium=bcom
+2025-09-14 14:12:49,297 [INFO]  -> trying: https://www.bloomberg.com/company/values/tech-at-bloomberg/?utm_source=bloomberg-menu&utm_medium=bcom
+2025-09-14 14:12:49,958 [INFO]    ✓ extracted (len=3150) https://www.bloomberg.com/company/values/tech-at-bloomberg/?utm_source=bloomberg-menu&utm_medium=bcom
+2025-09-14 14:12:51,436 [INFO]  -> trying: https://www.bloomberg.com/company/values/tech-at-bloomberg/bloomberg-beta/?utm_source=bloomberg-menu&utm_medium=bcom
+2025-09-14 14:12:52,330 [INFO]    ✗ skipped https://www.bloomberg.com/company/values/tech-at-bloomberg/bloomberg-beta/?utm_source=bloomberg-menu&utm_medium=bcom
+2025-09-14 14:12:53,588 [INFO]  -> trying: https://www.bloomberg.com/quote/SPX:IND
+2025-09-14 14:12:54,418 [INFO]    ✗ skipped https://www.bloomberg.com/quote/SPX:IND
+2025-09-14 14:12:55,686 [INFO]  -> trying: https://www.bloomberg.com/quote/CCMP:IND
+2025-09-14 14:12:56,513 [INFO]    ✗ skipped https://www.bloomberg.com/quote/CCMP:IND
+2025-09-14 14:12:58,481 [INFO]  -> trying: https://www.bloomberg.com/quote/B500:IND
+2025-09-14 14:12:58,634 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/B500:IND
+2025-09-14 14:13:00,267 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/B500:IND
+2025-09-14 14:13:02,502 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/B500:IND
+2025-09-14 14:13:03,870 [INFO]    ✗ skipped https://www.bloomberg.com/quote/B500:IND
+2025-09-14 14:13:05,527 [INFO]  -> trying: https://www.bloomberg.com/quote/GT10:GOV
+2025-09-14 14:13:05,886 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/GT10:GOV
+2025-09-14 14:13:07,462 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/GT10:GOV
+2025-09-14 14:13:09,522 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/GT10:GOV
+2025-09-14 14:13:10,613 [INFO]    ✗ skipped https://www.bloomberg.com/quote/GT10:GOV
+2025-09-14 14:13:12,404 [INFO]  -> trying: https://www.bloomberg.com/quote/CL1:COM
+2025-09-14 14:13:12,759 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/CL1:COM
+2025-09-14 14:13:14,146 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/CL1:COM
+2025-09-14 14:13:16,385 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/CL1:COM
+2025-09-14 14:13:18,022 [INFO]    ✗ skipped https://www.bloomberg.com/quote/CL1:COM
+2025-09-14 14:13:19,318 [INFO]  -> trying: https://www.bloomberg.com/quote/UKX:IND
+2025-09-14 14:13:19,669 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/UKX:IND
+2025-09-14 14:13:21,408 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/UKX:IND
+2025-09-14 14:13:23,074 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/UKX:IND
+2025-09-14 14:13:24,605 [INFO]    ✗ skipped https://www.bloomberg.com/quote/UKX:IND
+2025-09-14 14:13:25,784 [INFO]  -> trying: https://www.bloomberg.com/quote/GC1:COM
+2025-09-14 14:13:26,140 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/GC1:COM
+2025-09-14 14:13:27,937 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/GC1:COM
+2025-09-14 14:13:30,107 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/GC1:COM
+2025-09-14 14:13:31,843 [INFO]    ✗ skipped https://www.bloomberg.com/quote/GC1:COM
+2025-09-14 14:13:33,061 [INFO]  -> trying: https://www.bloomberg.com/quote/EURUSD:CUR
+2025-09-14 14:13:33,412 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/EURUSD:CUR
+2025-09-14 14:13:35,509 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/EURUSD:CUR
+2025-09-14 14:13:37,009 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/EURUSD:CUR
+2025-09-14 14:13:38,583 [INFO]    ✗ skipped https://www.bloomberg.com/quote/EURUSD:CUR
+2025-09-14 14:13:39,594 [INFO]  -> trying: https://www.bloomberg.com/quote/GBPUSD:CUR
+2025-09-14 14:13:39,977 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/GBPUSD:CUR
+2025-09-14 14:13:41,839 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/GBPUSD:CUR
+2025-09-14 14:13:44,118 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/GBPUSD:CUR
+2025-09-14 14:13:45,589 [INFO]    ✗ skipped https://www.bloomberg.com/quote/GBPUSD:CUR
+2025-09-14 14:13:46,819 [INFO]  -> trying: https://www.bloomberg.com/news/articles/2025-09-13/lesotho-sends-trade-delegation-to-us-to-plead-for-lower-tariffs?srnd=homepage-africa
+2025-09-14 14:13:47,177 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-13/lesotho-sends-trade-delegation-to-us-to-plead-for-lower-tariffs?srnd=homepage-africa
+2025-09-14 14:13:48,787 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-13/lesotho-sends-trade-delegation-to-us-to-plead-for-lower-tariffs?srnd=homepage-africa
+2025-09-14 14:13:51,104 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-13/lesotho-sends-trade-delegation-to-us-to-plead-for-lower-tariffs?srnd=homepage-africa
+2025-09-14 14:13:52,592 [INFO]    ✗ skipped https://www.bloomberg.com/news/articles/2025-09-13/lesotho-sends-trade-delegation-to-us-to-plead-for-lower-tariffs?srnd=homepage-africa
+2025-09-14 14:13:54,347 [INFO]  -> trying: https://www.bloomberg.com/news/articles/2025-09-13/us-allies-propose-transitional-plan-to-end-sudan-conflict?srnd=homepage-africa
+2025-09-14 14:13:54,706 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-13/us-allies-propose-transitional-plan-to-end-sudan-conflict?srnd=homepage-africa
+2025-09-14 14:13:56,871 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-13/us-allies-propose-transitional-plan-to-end-sudan-conflict?srnd=homepage-africa
+2025-09-14 14:13:58,771 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-13/us-allies-propose-transitional-plan-to-end-sudan-conflict?srnd=homepage-africa
+2025-09-14 14:13:59,871 [INFO]    ✗ skipped https://www.bloomberg.com/news/articles/2025-09-13/us-allies-propose-transitional-plan-to-end-sudan-conflict?srnd=homepage-africa
+2025-09-14 14:14:01,334 [INFO]  -> trying: https://www.bloomberg.com/news/articles/2025-05-09/sudan-civil-war-why-conflict-began-and-how-it-s-escalated?srnd=homepage-africa
+2025-09-14 14:14:01,693 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-05-09/sudan-civil-war-why-conflict-began-and-how-it-s-escalated?srnd=homepage-africa
+2025-09-14 14:14:03,194 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-05-09/sudan-civil-war-why-conflict-began-and-how-it-s-escalated?srnd=homepage-africa
+2025-09-14 14:14:04,761 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-05-09/sudan-civil-war-why-conflict-began-and-how-it-s-escalated?srnd=homepage-africa
+2025-09-14 14:14:06,530 [INFO]    ✗ skipped https://www.bloomberg.com/news/articles/2025-05-09/sudan-civil-war-why-conflict-began-and-how-it-s-escalated?srnd=homepage-africa
+2025-09-14 14:14:07,635 [INFO]  -> trying: https://www.bloomberg.com/news/articles/2025-09-13/botswana-has-credit-rating-cut-by-s-p-on-diamond-slump?srnd=homepage-africa
+2025-09-14 14:14:07,983 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-13/botswana-has-credit-rating-cut-by-s-p-on-diamond-slump?srnd=homepage-africa
+2025-09-14 14:14:09,445 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-13/botswana-has-credit-rating-cut-by-s-p-on-diamond-slump?srnd=homepage-africa
+2025-09-14 14:14:11,617 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-13/botswana-has-credit-rating-cut-by-s-p-on-diamond-slump?srnd=homepage-africa
+2025-09-14 14:14:12,670 [INFO]    ✗ skipped https://www.bloomberg.com/news/articles/2025-09-13/botswana-has-credit-rating-cut-by-s-p-on-diamond-slump?srnd=homepage-africa
+2025-09-14 14:14:14,647 [INFO]  -> trying: https://www.bloomberg.com/news/articles/2025-09-12/the-ai-doomers-are-losing-the-argument?srnd=homepage-africa
+2025-09-14 14:14:15,015 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/the-ai-doomers-are-losing-the-argument?srnd=homepage-africa
+2025-09-14 14:14:16,977 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/the-ai-doomers-are-losing-the-argument?srnd=homepage-africa
+2025-09-14 14:14:18,743 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/the-ai-doomers-are-losing-the-argument?srnd=homepage-africa
+2025-09-14 14:14:20,409 [INFO]    ✗ skipped https://www.bloomberg.com/news/articles/2025-09-12/the-ai-doomers-are-losing-the-argument?srnd=homepage-africa
+2025-09-14 14:14:21,961 [INFO]  -> trying: https://www.bloomberg.com/news/articles/2025-09-12/building-a-smart-city-from-scratch-is-easier-said-than-done?srnd=homepage-africa
+2025-09-14 14:14:22,948 [INFO]    ✓ extracted (len=566) https://www.bloomberg.com/news/articles/2025-09-12/building-a-smart-city-from-scratch-is-easier-said-than-done?srnd=homepage-africa
+2025-09-14 14:14:24,395 [INFO]  -> trying: https://www.bloomberg.com/news/articles/2025-09-12/what-the-trump-administration-wants-from-the-federal-reserve?srnd=homepage-africa
+2025-09-14 14:14:24,587 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/what-the-trump-administration-wants-from-the-federal-reserve?srnd=homepage-africa
+2025-09-14 14:14:26,941 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/what-the-trump-administration-wants-from-the-federal-reserve?srnd=homepage-africa
+2025-09-14 14:14:28,820 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/what-the-trump-administration-wants-from-the-federal-reserve?srnd=homepage-africa
+2025-09-14 14:14:29,958 [INFO]    ✗ skipped https://www.bloomberg.com/news/articles/2025-09-12/what-the-trump-administration-wants-from-the-federal-reserve?srnd=homepage-africa
+2025-09-14 14:14:31,889 [INFO]  -> trying: https://www.bloomberg.com/news/articles/2025-09-12/mary-roach-s-new-book-tackles-the-quest-to-rebuild-the-human-body?srnd=homepage-africa
+2025-09-14 14:14:32,243 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/mary-roach-s-new-book-tackles-the-quest-to-rebuild-the-human-body?srnd=homepage-africa
+2025-09-14 14:14:33,966 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/mary-roach-s-new-book-tackles-the-quest-to-rebuild-the-human-body?srnd=homepage-africa
+2025-09-14 14:14:35,933 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/mary-roach-s-new-book-tackles-the-quest-to-rebuild-the-human-body?srnd=homepage-africa
+2025-09-14 14:14:37,230 [INFO]    ✗ skipped https://www.bloomberg.com/news/articles/2025-09-12/mary-roach-s-new-book-tackles-the-quest-to-rebuild-the-human-body?srnd=homepage-africa
+2025-09-14 14:14:38,489 [INFO]  -> trying: https://www.bloomberg.com/opinion/articles/2025-09-12/us-uk-relationship-is-about-to-become-more-explosive?srnd=homepage-africa
+2025-09-14 14:14:38,830 [WARNING] Non-200 403 for https://www.bloomberg.com/opinion/articles/2025-09-12/us-uk-relationship-is-about-to-become-more-explosive?srnd=homepage-africa
+2025-09-14 14:14:40,581 [WARNING] Non-200 403 for https://www.bloomberg.com/opinion/articles/2025-09-12/us-uk-relationship-is-about-to-become-more-explosive?srnd=homepage-africa
+2025-09-14 14:14:42,824 [WARNING] Non-200 403 for https://www.bloomberg.com/opinion/articles/2025-09-12/us-uk-relationship-is-about-to-become-more-explosive?srnd=homepage-africa
+2025-09-14 14:14:44,400 [INFO]    ✗ skipped https://www.bloomberg.com/opinion/articles/2025-09-12/us-uk-relationship-is-about-to-become-more-explosive?srnd=homepage-africa
+2025-09-14 14:14:46,032 [INFO]  -> trying: https://www.bloomberg.com/news/articles/2025-09-12/at-world-cup-2026-the-us-risks-a-diplomatic-own-goal?srnd=homepage-africa
+2025-09-14 14:14:46,397 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/at-world-cup-2026-the-us-risks-a-diplomatic-own-goal?srnd=homepage-africa
+2025-09-14 14:14:48,350 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/at-world-cup-2026-the-us-risks-a-diplomatic-own-goal?srnd=homepage-africa
+2025-09-14 14:14:50,029 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/at-world-cup-2026-the-us-risks-a-diplomatic-own-goal?srnd=homepage-africa
+2025-09-14 14:14:51,874 [INFO]    ✗ skipped https://www.bloomberg.com/news/articles/2025-09-12/at-world-cup-2026-the-us-risks-a-diplomatic-own-goal?srnd=homepage-africa
+2025-09-14 14:14:53,423 [INFO]  -> trying: https://www.bloomberg.com/news/features/2025-09-08/how-australia-s-mushroom-murders-became-true-crime-s-latest-obsession?srnd=homepage-africa
+2025-09-14 14:14:53,781 [WARNING] Non-200 403 for https://www.bloomberg.com/news/features/2025-09-08/how-australia-s-mushroom-murders-became-true-crime-s-latest-obsession?srnd=homepage-africa
+2025-09-14 14:14:55,682 [WARNING] Non-200 403 for https://www.bloomberg.com/news/features/2025-09-08/how-australia-s-mushroom-murders-became-true-crime-s-latest-obsession?srnd=homepage-africa
+2025-09-14 14:14:58,034 [WARNING] Non-200 403 for https://www.bloomberg.com/news/features/2025-09-08/how-australia-s-mushroom-murders-became-true-crime-s-latest-obsession?srnd=homepage-africa
+2025-09-14 14:14:59,274 [INFO]    ✗ skipped https://www.bloomberg.com/news/features/2025-09-08/how-australia-s-mushroom-murders-became-true-crime-s-latest-obsession?srnd=homepage-africa
+2025-09-14 14:15:00,882 [INFO] SITE: https://seekingalpha.com
+2025-09-14 14:15:01,572 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets
+2025-09-14 14:15:01,929 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets
+2025-09-14 14:15:03,448 [INFO]  -> trying: https://seekingalpha.com/basic-search
+2025-09-14 14:15:03,855 [WARNING] Non-200 403 for https://seekingalpha.com/basic-search
+2025-09-14 14:15:05,597 [WARNING] Non-200 403 for https://seekingalpha.com/basic-search
+2025-09-14 14:15:07,131 [WARNING] Non-200 403 for https://seekingalpha.com/basic-search
+2025-09-14 14:15:08,688 [INFO]    ✗ skipped https://seekingalpha.com/basic-search
+2025-09-14 14:15:10,053 [INFO]  -> trying: https://seekingalpha.com/subscriptions/premium-virtual-analyst-report#source=virtual_analyst_report%3Aexpanded%3Anavbar_left
+2025-09-14 14:15:10,408 [WARNING] Non-200 403 for https://seekingalpha.com/subscriptions/premium-virtual-analyst-report#source=virtual_analyst_report%3Aexpanded%3Anavbar_left
+2025-09-14 14:15:12,046 [WARNING] Non-200 403 for https://seekingalpha.com/subscriptions/premium-virtual-analyst-report#source=virtual_analyst_report%3Aexpanded%3Anavbar_left
+2025-09-14 14:15:14,094 [WARNING] Non-200 403 for https://seekingalpha.com/subscriptions/premium-virtual-analyst-report#source=virtual_analyst_report%3Aexpanded%3Anavbar_left
+2025-09-14 14:15:15,504 [INFO]    ✗ skipped https://seekingalpha.com/subscriptions/premium-virtual-analyst-report#source=virtual_analyst_report%3Aexpanded%3Anavbar_left
+2025-09-14 14:15:17,220 [INFO]  -> trying: https://seekingalpha.com/market-news/notable-calls#source=notable_calls%3Anavbar_left
+2025-09-14 14:15:17,526 [WARNING] Non-200 403 for https://seekingalpha.com/market-news/notable-calls#source=notable_calls%3Anavbar_left
+2025-09-14 14:15:19,107 [WARNING] Non-200 403 for https://seekingalpha.com/market-news/notable-calls#source=notable_calls%3Anavbar_left
+2025-09-14 14:15:21,062 [WARNING] Non-200 403 for https://seekingalpha.com/market-news/notable-calls#source=notable_calls%3Anavbar_left
+2025-09-14 14:15:23,033 [INFO]    ✗ skipped https://seekingalpha.com/market-news/notable-calls#source=notable_calls%3Anavbar_left
+2025-09-14 14:15:24,356 [INFO]  -> trying: https://seekingalpha.com/market-news/ai-tech-stocks#source=ai-tech-stocks%3Anavbar_left
+2025-09-14 14:15:24,745 [WARNING] Non-200 403 for https://seekingalpha.com/market-news/ai-tech-stocks#source=ai-tech-stocks%3Anavbar_left
+2025-09-14 14:15:26,695 [WARNING] Non-200 403 for https://seekingalpha.com/market-news/ai-tech-stocks#source=ai-tech-stocks%3Anavbar_left
+2025-09-14 14:15:28,943 [WARNING] Non-200 403 for https://seekingalpha.com/market-news/ai-tech-stocks#source=ai-tech-stocks%3Anavbar_left
+2025-09-14 14:15:30,420 [INFO]    ✗ skipped https://seekingalpha.com/market-news/ai-tech-stocks#source=ai-tech-stocks%3Anavbar_left
+2025-09-14 14:15:32,262 [INFO]  -> trying: https://seekingalpha.com/market-news/budget-regulation#source=budget-regulation%3Anavbar_left
+2025-09-14 14:15:32,836 [WARNING] Non-200 403 for https://seekingalpha.com/market-news/budget-regulation#source=budget-regulation%3Anavbar_left
+2025-09-14 14:15:34,156 [WARNING] Non-200 403 for https://seekingalpha.com/market-news/budget-regulation#source=budget-regulation%3Anavbar_left
+2025-09-14 14:15:36,629 [WARNING] Non-200 403 for https://seekingalpha.com/market-news/budget-regulation#source=budget-regulation%3Anavbar_left
+2025-09-14 14:15:38,094 [INFO]    ✗ skipped https://seekingalpha.com/market-news/budget-regulation#source=budget-regulation%3Anavbar_left
+2025-09-14 14:15:39,367 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets#source=market_performance%3Anavbar_left
+2025-09-14 14:15:39,590 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets#source=market_performance%3Anavbar_left
+2025-09-14 14:15:40,963 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets#source=key_markets%3Anavbar_left
+2025-09-14 14:15:41,172 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets#source=key_markets%3Anavbar_left
+2025-09-14 14:15:42,788 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/currencies#source=currencies%3Anavbar_left
+2025-09-14 14:15:43,176 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/currencies#source=currencies%3Anavbar_left
+2025-09-14 14:15:44,817 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/currencies#source=currencies%3Anavbar_left
+2025-09-14 14:15:47,068 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/currencies#source=currencies%3Anavbar_left
+2025-09-14 14:15:48,104 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/currencies#source=currencies%3Anavbar_left
+2025-09-14 14:15:49,390 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/cryptocurrency#source=cryptocurrency_prices%3Anavbar_left
+2025-09-14 14:15:49,732 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/cryptocurrency#source=cryptocurrency_prices%3Anavbar_left
+2025-09-14 14:15:51,165 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/cryptocurrency#source=cryptocurrency_prices%3Anavbar_left
+2025-09-14 14:15:52,803 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/cryptocurrency#source=cryptocurrency_prices%3Anavbar_left
+2025-09-14 14:15:54,525 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/cryptocurrency#source=cryptocurrency_prices%3Anavbar_left
+2025-09-14 14:15:56,454 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/sectors#source=sectors%3Anavbar_left
+2025-09-14 14:15:56,795 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/sectors#source=sectors%3Anavbar_left
+2025-09-14 14:15:58,750 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/sectors#source=sectors%3Anavbar_left
+2025-09-14 14:16:00,790 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/sectors#source=sectors%3Anavbar_left
+2025-09-14 14:16:02,486 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/sectors#source=sectors%3Anavbar_left
+2025-09-14 14:16:04,448 [INFO]  -> trying: https://seekingalpha.com/screeners/9679329c-Top-Dividend-Stocks#source=top_dividend_stocks%3Anavbar_left
+2025-09-14 14:16:04,786 [WARNING] Non-200 403 for https://seekingalpha.com/screeners/9679329c-Top-Dividend-Stocks#source=top_dividend_stocks%3Anavbar_left
+2025-09-14 14:16:06,223 [WARNING] Non-200 403 for https://seekingalpha.com/screeners/9679329c-Top-Dividend-Stocks#source=top_dividend_stocks%3Anavbar_left
+2025-09-14 14:16:07,958 [WARNING] Non-200 403 for https://seekingalpha.com/screeners/9679329c-Top-Dividend-Stocks#source=top_dividend_stocks%3Anavbar_left
+2025-09-14 14:16:09,508 [INFO]    ✗ skipped https://seekingalpha.com/screeners/9679329c-Top-Dividend-Stocks#source=top_dividend_stocks%3Anavbar_left
+2025-09-14 14:16:11,421 [INFO]  -> trying: https://seekingalpha.com/screeners/9408317dce-Top-Quant-Dividend-Stocks#source=top_quant_dividend_stocks%3Anavbar_left
+2025-09-14 14:16:11,745 [WARNING] Non-200 403 for https://seekingalpha.com/screeners/9408317dce-Top-Quant-Dividend-Stocks#source=top_quant_dividend_stocks%3Anavbar_left
+2025-09-14 14:16:13,896 [WARNING] Non-200 403 for https://seekingalpha.com/screeners/9408317dce-Top-Quant-Dividend-Stocks#source=top_quant_dividend_stocks%3Anavbar_left
+2025-09-14 14:16:15,848 [WARNING] Non-200 403 for https://seekingalpha.com/screeners/9408317dce-Top-Quant-Dividend-Stocks#source=top_quant_dividend_stocks%3Anavbar_left
+2025-09-14 14:16:16,925 [INFO]    ✗ skipped https://seekingalpha.com/screeners/9408317dce-Top-Quant-Dividend-Stocks#source=top_quant_dividend_stocks%3Anavbar_left
+2025-09-14 14:16:18,166 [INFO]  -> trying: https://seekingalpha.com/dividends/dividend-quick-picks#source=dividend_quick_picks%3Anavbar_left
+2025-09-14 14:16:18,455 [WARNING] Non-200 403 for https://seekingalpha.com/dividends/dividend-quick-picks#source=dividend_quick_picks%3Anavbar_left
+2025-09-14 14:16:20,348 [WARNING] Non-200 403 for https://seekingalpha.com/dividends/dividend-quick-picks#source=dividend_quick_picks%3Anavbar_left
+2025-09-14 14:16:22,003 [WARNING] Non-200 403 for https://seekingalpha.com/dividends/dividend-quick-picks#source=dividend_quick_picks%3Anavbar_left
+2025-09-14 14:16:23,714 [INFO]    ✗ skipped https://seekingalpha.com/dividends/dividend-quick-picks#source=dividend_quick_picks%3Anavbar_left
+2025-09-14 14:16:24,812 [INFO]  -> trying: https://seekingalpha.com/market-news/dividend-funds#source=dividend_news_funds%3Anavbar_left
+2025-09-14 14:16:25,102 [WARNING] Non-200 403 for https://seekingalpha.com/market-news/dividend-funds#source=dividend_news_funds%3Anavbar_left
+2025-09-14 14:16:27,014 [WARNING] Non-200 403 for https://seekingalpha.com/market-news/dividend-funds#source=dividend_news_funds%3Anavbar_left
+2025-09-14 14:16:28,784 [WARNING] Non-200 403 for https://seekingalpha.com/market-news/dividend-funds#source=dividend_news_funds%3Anavbar_left
+2025-09-14 14:16:30,772 [INFO]    ✗ skipped https://seekingalpha.com/market-news/dividend-funds#source=dividend_news_funds%3Anavbar_left
+2025-09-14 14:16:31,905 [INFO]  -> trying: https://seekingalpha.com/market-news/dividend-stocks#source=dividend_news_stocks%3Anavbar_left
+2025-09-14 14:16:32,335 [INFO]    ✗ skipped https://seekingalpha.com/market-news/dividend-stocks#source=dividend_news_stocks%3Anavbar_left
+2025-09-14 14:16:33,635 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/dividends#source=etf_dividends%3Anavbar_left
+2025-09-14 14:16:33,956 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/dividends#source=etf_dividends%3Anavbar_left
+2025-09-14 14:16:35,813 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/dividends#source=etf_dividends%3Anavbar_left
+2025-09-14 14:16:38,097 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/dividends#source=etf_dividends%3Anavbar_left
+2025-09-14 14:16:39,885 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/dividends#source=etf_dividends%3Anavbar_left
+2025-09-14 14:16:40,917 [INFO]  -> trying: https://seekingalpha.com/screeners/etfs/922b797269-Top-Rated-ETFs#source=top_rated_etfs%3Anavbar_left
+2025-09-14 14:16:41,228 [WARNING] Non-200 403 for https://seekingalpha.com/screeners/etfs/922b797269-Top-Rated-ETFs#source=top_rated_etfs%3Anavbar_left
+2025-09-14 14:16:42,911 [WARNING] Non-200 403 for https://seekingalpha.com/screeners/etfs/922b797269-Top-Rated-ETFs#source=top_rated_etfs%3Anavbar_left
+2025-09-14 14:16:45,079 [WARNING] Non-200 403 for https://seekingalpha.com/screeners/etfs/922b797269-Top-Rated-ETFs#source=top_rated_etfs%3Anavbar_left
+2025-09-14 14:16:46,346 [INFO]    ✗ skipped https://seekingalpha.com/screeners/etfs/922b797269-Top-Rated-ETFs#source=top_rated_etfs%3Anavbar_left
+2025-09-14 14:16:48,105 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/strategies#source=etf_strategies%3Anavbar_left
+2025-09-14 14:16:48,481 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/strategies#source=etf_strategies%3Anavbar_left
+2025-09-14 14:16:49,803 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate#source=reits_real_estate_etfs%3Anavbar_left
+2025-09-14 14:16:50,114 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate#source=reits_real_estate_etfs%3Anavbar_left
+2025-09-14 14:16:51,617 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate#source=reits_real_estate_etfs%3Anavbar_left
+2025-09-14 14:16:53,518 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate#source=reits_real_estate_etfs%3Anavbar_left
+2025-09-14 14:16:55,125 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate#source=reits_real_estate_etfs%3Anavbar_left
+2025-09-14 14:16:56,782 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/commodities#source=commodity_etfs%3Anavbar_left
+2025-09-14 14:16:57,090 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/commodities#source=commodity_etfs%3Anavbar_left
+2025-09-14 14:16:58,570 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/commodities#source=commodity_etfs%3Anavbar_left
+2025-09-14 14:17:00,480 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/commodities#source=commodity_etfs%3Anavbar_left
+2025-09-14 14:17:01,607 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/commodities#source=commodity_etfs%3Anavbar_left
+2025-09-14 14:17:03,211 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets#source=emerging_markets_etfs%3Anavbar_left
+2025-09-14 14:17:03,527 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets#source=emerging_markets_etfs%3Anavbar_left
+2025-09-14 14:17:05,213 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets#source=emerging_markets_etfs%3Anavbar_left
+2025-09-14 14:17:07,042 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets#source=emerging_markets_etfs%3Anavbar_left
+2025-09-14 14:17:08,676 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets#source=emerging_markets_etfs%3Anavbar_left
+2025-09-14 14:17:10,246 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value#source=growth_vs_value_etfs%3Anavbar_left
+2025-09-14 14:17:10,575 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value#source=growth_vs_value_etfs%3Anavbar_left
+2025-09-14 14:17:12,572 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value#source=growth_vs_value_etfs%3Anavbar_left
+2025-09-14 14:17:14,825 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value#source=growth_vs_value_etfs%3Anavbar_left
+2025-09-14 14:17:16,305 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value#source=growth_vs_value_etfs%3Anavbar_left
+2025-09-14 14:17:17,874 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/bonds#source=bonds%3Anavbar_left
+2025-09-14 14:17:18,207 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/bonds#source=bonds%3Anavbar_left
+2025-09-14 14:17:20,181 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/bonds#source=bonds%3Anavbar_left
+2025-09-14 14:17:22,110 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/bonds#source=bonds%3Anavbar_left
+2025-09-14 14:17:23,816 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/bonds#source=bonds%3Anavbar_left
+2025-09-14 14:17:25,390 [WARNING] Extracted 0 articles for https://seekingalpha.com
+2025-09-14 14:17:25,390 [INFO] SITE: https://www.engadget.com
+2025-09-14 14:17:26,562 [INFO]  -> trying: https://www.engadget.com/gaming/nintendo/metroid-prime-4-will-be-released-on-december-4-for-switch-1-and-2-134718933.html
+2025-09-14 14:17:27,980 [INFO]    ✓ extracted (len=1577) https://www.engadget.com/gaming/nintendo/metroid-prime-4-will-be-released-on-december-4-for-switch-1-and-2-134718933.html
+2025-09-14 14:17:29,015 [INFO]  -> trying: https://www.engadget.com/about/editors/lawrence-bonk-01/
+2025-09-14 14:17:29,577 [INFO]    ✗ skipped https://www.engadget.com/about/editors/lawrence-bonk-01/
+2025-09-14 14:17:31,019 [INFO]  -> trying: https://www.engadget.com/gaming/cozy-detectives-urban-disc-golf-and-other-new-indie-games-worth-checking-out-110029695.html
+2025-09-14 14:17:32,216 [INFO]    ✓ extracted (len=7745) https://www.engadget.com/gaming/cozy-detectives-urban-disc-golf-and-other-new-indie-games-worth-checking-out-110029695.html
+2025-09-14 14:17:33,749 [INFO]  -> trying: https://www.engadget.com/gaming/nintendo/mario-metroid-virtual-boy-and-more-all-the-biggest-announcements-from-todays-nintendo-direct-165722897.html
+2025-09-14 14:17:34,409 [INFO]    ✓ extracted (len=8737) https://www.engadget.com/gaming/nintendo/mario-metroid-virtual-boy-and-more-all-the-biggest-announcements-from-todays-nintendo-direct-165722897.html
+2025-09-14 14:17:35,992 [INFO] SITE: https://www.theverge.com
+2025-09-14 14:17:36,669 [INFO]  -> trying: https://www.theverge.com/ai-artificial-intelligence
+2025-09-14 14:17:36,876 [INFO]    ✗ skipped https://www.theverge.com/ai-artificial-intelligence
+2025-09-14 14:17:38,590 [INFO]  -> trying: https://www.theverge.com/decoder-podcast-with-nilay-patel
+2025-09-14 14:17:38,866 [INFO]    ✗ skipped https://www.theverge.com/decoder-podcast-with-nilay-patel
+2025-09-14 14:17:39,909 [INFO]  -> trying: https://www.theverge.com/pages/sign-up-for-verge-daily
+2025-09-14 14:17:40,104 [INFO]    ✓ extracted (len=452) https://www.theverge.com/pages/sign-up-for-verge-daily
+2025-09-14 14:17:41,192 [INFO]  -> trying: https://www.theverge.com/pages/installer-newsletter-sign-up
+2025-09-14 14:17:41,386 [INFO]    ✓ extracted (len=872) https://www.theverge.com/pages/installer-newsletter-sign-up
+2025-09-14 14:17:43,125 [INFO]  -> trying: https://www.theverge.com/2024/9/20/24249294/verge-deals-newsletter-subscribe-tech-discounts
+2025-09-14 14:17:43,355 [INFO]    ✓ extracted (len=2661) https://www.theverge.com/2024/9/20/24249294/verge-deals-newsletter-subscribe-tech-discounts
+2025-09-14 14:17:44,641 [INFO] SITE: https://www.ft.com
+2025-09-14 14:17:45,448 [WARNING] No candidate links found for https://www.ft.com
+2025-09-14 14:17:45,448 [WARNING] Extracted 0 articles for https://www.ft.com
+2025-09-14 14:17:45,448 [INFO] SITE: https://arstechnica.com
+2025-09-14 14:17:47,020 [INFO]  -> trying: https://arstechnica.com/gadgets/2025/09/jef-raskins-cul-de-sac-and-the-quest-for-the-humane-computer/
+2025-09-14 14:17:47,786 [INFO]    ✓ extracted (len=48478) https://arstechnica.com/gadgets/2025/09/jef-raskins-cul-de-sac-and-the-quest-for-the-humane-computer/
+2025-09-14 14:17:49,536 [INFO]  -> trying: https://arstechnica.com/science/2025/09/the-us-is-trying-to-kick-start-a-nuclear-energy-renaissance/
+2025-09-14 14:17:50,017 [INFO]    ✓ extracted (len=11280) https://arstechnica.com/science/2025/09/the-us-is-trying-to-kick-start-a-nuclear-energy-renaissance/
+2025-09-14 14:17:51,729 [INFO]  -> trying: https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/
+2025-09-14 14:17:52,225 [INFO]    ✓ extracted (len=11868) https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/
+2025-09-14 14:17:53,330 [INFO] SITE: https://www.cnet.com
+2025-09-14 14:17:54,270 [INFO]  -> trying: https://www.cnet.com/tech/mobile/apple-debuts-the-iphone-air-airpods-3-and-much-more-at-its-awe-dropping-event/
+2025-09-14 14:17:54,855 [INFO]    ✓ extracted (len=9128) https://www.cnet.com/tech/mobile/apple-debuts-the-iphone-air-airpods-3-and-much-more-at-its-awe-dropping-event/
+2025-09-14 14:17:55,903 [INFO]  -> trying: https://www.cnet.com/tech/services-and-software/i-tested-ios-26-for-3-months-and-liquid-glass-isnt-the-only-game-changing-feature/
+2025-09-14 14:17:56,268 [INFO]    ✓ extracted (len=14663) https://www.cnet.com/tech/services-and-software/i-tested-ios-26-for-3-months-and-liquid-glass-isnt-the-only-game-changing-feature/
+2025-09-14 14:17:57,718 [INFO]  -> trying: https://www.cnet.com/tech/gaming/super-mario-galaxy-movie-mario-tennis-fever-and-more-coming-for-marios-40th-anniversary/
+2025-09-14 14:17:58,162 [INFO]    ✓ extracted (len=2872) https://www.cnet.com/tech/gaming/super-mario-galaxy-movie-mario-tennis-fever-and-more-coming-for-marios-40th-anniversary/
+2025-09-14 14:17:59,961 [INFO] SITE: https://slashdot.org
+2025-09-14 14:18:00,885 [INFO]  -> trying: https://tech.slashdot.org/story/25/09/14/031203/facebook-begins-sending-settlement-payments-from-cambridge-analytica-scandal-soon
+2025-09-14 14:18:01,829 [INFO]    ✓ extracted (len=1061) https://tech.slashdot.org/story/25/09/14/031203/facebook-begins-sending-settlement-payments-from-cambridge-analytica-scandal-soon
+2025-09-14 14:18:03,549 [INFO]  -> trying: https://it.slashdot.org/story/25/09/14/0357239/thieves-busted-after-stealing-a-cellphone-from-a-security-experts-wife
+2025-09-14 14:18:04,457 [INFO]    ✓ extracted (len=3430) https://it.slashdot.org/story/25/09/14/0357239/thieves-busted-after-stealing-a-cellphone-from-a-security-experts-wife
+2025-09-14 14:18:05,559 [INFO]  -> trying: https://developers.slashdot.org/story/25/09/14/0134239/is-perl-the-worlds-10th-most-popular-programming-language
+2025-09-14 14:18:07,040 [INFO]    ✓ extracted (len=7252) https://developers.slashdot.org/story/25/09/14/0134239/is-perl-the-worlds-10th-most-popular-programming-language
+2025-09-14 14:18:08,793 [INFO] SITE: https://www.huffpost.com
+2025-09-14 14:18:09,452 [INFO]  -> trying: https://www.huffpost.com/news/us-news
+2025-09-14 14:18:09,696 [INFO]    ✗ skipped https://www.huffpost.com/news/us-news
+2025-09-14 14:18:11,098 [INFO]  -> trying: https://www.huffpost.com/news/world-news
+2025-09-14 14:18:11,351 [INFO]    ✗ skipped https://www.huffpost.com/news/world-news
+2025-09-14 14:18:13,276 [INFO]  -> trying: https://www.huffpost.com/news/crime
+2025-09-14 14:18:13,520 [INFO]    ✗ skipped https://www.huffpost.com/news/crime
+2025-09-14 14:18:15,265 [INFO]  -> trying: https://www.huffpost.com/news/politics
+2025-09-14 14:18:15,520 [INFO]    ✗ skipped https://www.huffpost.com/news/politics
+2025-09-14 14:18:16,857 [INFO]  -> trying: https://www.huffpost.com/news/media
+2025-09-14 14:18:17,107 [INFO]    ✗ skipped https://www.huffpost.com/news/media
+2025-09-14 14:18:18,160 [INFO]  -> trying: https://www.huffpost.com/entry/venezuela-us-tensions-tuna-boat_n_68c62989e4b0254a6c644f47?origin=top-ad-recirc
+2025-09-14 14:18:18,443 [INFO]    ✓ extracted (len=4341) https://www.huffpost.com/entry/venezuela-us-tensions-tuna-boat_n_68c62989e4b0254a6c644f47?origin=top-ad-recirc
+2025-09-14 14:18:19,894 [INFO]  -> trying: https://www.huffpost.com/entry/brian-kilmeade-homeless-just-kill-em_n_68c595abe4b0efc9da5fe3d0?origin=top-ad-recirc
+2025-09-14 14:18:20,180 [INFO]    ✓ extracted (len=2746) https://www.huffpost.com/entry/brian-kilmeade-homeless-just-kill-em_n_68c595abe4b0efc9da5fe3d0?origin=top-ad-recirc
+2025-09-14 14:18:21,826 [INFO]  -> trying: https://www.huffpost.com/entry/maggie-haberman-trump-struggling-charlie-kirk-death_n_68c59b93e4b0254a6c644211?origin=top-ad-recirc
+2025-09-14 14:18:21,997 [INFO]    ✓ extracted (len=3871) https://www.huffpost.com/entry/maggie-haberman-trump-struggling-charlie-kirk-death_n_68c59b93e4b0254a6c644211?origin=top-ad-recirc
+2025-09-14 14:18:23,437 [INFO] SITE: https://www.aljazeera.net
+2025-09-14 14:18:24,277 [INFO]  -> trying: https://www.aljazeera.net/news/liveblog/2025/9/14/%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%b9%d9%84%d9%89-%d8%ba%d8%b2%d8%a9-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%81%d9%8a-8
+2025-09-14 14:18:24,454 [INFO]    ✗ skipped https://www.aljazeera.net/news/liveblog/2025/9/14/%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%b9%d9%84%d9%89-%d8%ba%d8%b2%d8%a9-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%81%d9%8a-8
+2025-09-14 14:18:25,498 [INFO]  -> trying: https://www.aljazeera.net/news/liveblog/2025/9/14/%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%b9%d9%84%d9%89-%d8%ba%d8%b2%d8%a9-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%81%d9%8a-8?update=8009472
+2025-09-14 14:18:25,675 [INFO]    ✗ skipped https://www.aljazeera.net/news/liveblog/2025/9/14/%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%b9%d9%84%d9%89-%d8%ba%d8%b2%d8%a9-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%81%d9%8a-8?update=8009472
+2025-09-14 14:18:27,607 [INFO]  -> trying: https://www.aljazeera.net/news/liveblog/2025/9/14/%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%b9%d9%84%d9%89-%d8%ba%d8%b2%d8%a9-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%81%d9%8a-8?update=8009459
+2025-09-14 14:18:27,787 [INFO]    ✗ skipped https://www.aljazeera.net/news/liveblog/2025/9/14/%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%b9%d9%84%d9%89-%d8%ba%d8%b2%d8%a9-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%81%d9%8a-8?update=8009459
+2025-09-14 14:18:28,883 [INFO]  -> trying: https://www.aljazeera.net/news/2025/9/14/%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d9%88%d8%b2%d8%a7%d8%b1%d9%8a-%d8%aa%d8%ad%d8%b6%d9%8a%d8%b1%d9%8a-%d9%84%d9%84%d9%82%d9%85%d8%a9-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9
+2025-09-14 14:18:29,105 [INFO]    ✓ extracted (len=2407) https://www.aljazeera.net/news/2025/9/14/%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d9%88%d8%b2%d8%a7%d8%b1%d9%8a-%d8%aa%d8%ad%d8%b6%d9%8a%d8%b1%d9%8a-%d9%84%d9%84%d9%82%d9%85%d8%a9-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9
+2025-09-14 14:18:30,225 [INFO]  -> trying: https://www.aljazeera.net/news/2025/9/14/%d8%b1%d8%b3%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%af%d9%8a%d9%86-%d9%84%d9%84%d9%82%d8%a7%d8%af%d8%a9-%d9%83%d9%81%d9%89-%d8%a5%d8%af%d8%a7%d9%86%d8%a9-%d9%88%d9%86%d8%b1%d9%8a%d8%af
+2025-09-14 14:18:30,453 [INFO]    ✓ extracted (len=3828) https://www.aljazeera.net/news/2025/9/14/%d8%b1%d8%b3%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%af%d9%8a%d9%86-%d9%84%d9%84%d9%82%d8%a7%d8%af%d8%a9-%d9%83%d9%81%d9%89-%d8%a5%d8%af%d8%a7%d9%86%d8%a9-%d9%88%d9%86%d8%b1%d9%8a%d8%af
+2025-09-14 14:18:32,104 [INFO]  -> trying: https://www.aljazeera.net/news/2025/9/14/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d9%8a%d9%82%d9%88%d8%af-%d8%ab%d9%88%d8%b1%d8%a9-%d9%88%d9%8a%d9%86%d8%aa%d8%ae%d8%a8-%d8%b1%d8%a6%d9%8a%d8%b3
+2025-09-14 14:18:32,373 [INFO]    ✓ extracted (len=6328) https://www.aljazeera.net/news/2025/9/14/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d9%8a%d9%82%d9%88%d8%af-%d8%ab%d9%88%d8%b1%d8%a9-%d9%88%d9%8a%d9%86%d8%aa%d8%ae%d8%a8-%d8%b1%d8%a6%d9%8a%d8%b3
+2025-09-14 14:18:34,321 [INFO] SITE: https://www.skynewsarabia.com
+2025-09-14 14:18:34,819 [INFO]  -> trying: https://www.skynewsarabia.com/most-popular-تفضيلات-القراء
+2025-09-14 14:18:35,010 [INFO]    ✗ skipped https://www.skynewsarabia.com/most-popular-تفضيلات-القراء
+2025-09-14 14:18:36,450 [INFO]  -> trying: https://www.skynewsarabia.com/radio-راديو-سكاي-نيوز-عربية
+2025-09-14 14:18:36,659 [INFO]    ✗ skipped https://www.skynewsarabia.com/radio-راديو-سكاي-نيوز-عربية
+2025-09-14 14:18:37,734 [INFO]  -> trying: https://www.skynewsarabia.com/breaking-news-الأخبار-العاجلة
+2025-09-14 14:18:37,935 [INFO]    ✗ skipped https://www.skynewsarabia.com/breaking-news-الأخبار-العاجلة
+2025-09-14 14:18:39,783 [INFO]  -> trying: https://www.snapchat.com/discover/Sky-News-Arabia/7252097831
+2025-09-14 14:18:41,710 [INFO]    ✗ skipped https://www.snapchat.com/discover/Sky-News-Arabia/7252097831
+2025-09-14 14:18:43,008 [INFO]  -> trying: https://www.skynewsarabia.com/middle-east/1820202-انطلاق-الاجتماع-التحضيري-للقمة-العربية-الإسلامية-الدوحة
+2025-09-14 14:18:43,237 [INFO]    ✓ extracted (len=3318) https://www.skynewsarabia.com/middle-east/1820202-انطلاق-الاجتماع-التحضيري-للقمة-العربية-الإسلامية-الدوحة
+2025-09-14 14:18:45,004 [INFO]  -> trying: https://www.skynewsarabia.com/middle-east/1820216-فيديو-لحظة-اعتراض-إسرائيل-لطائرة-مسيرة-محيط-مطار-رامون
+2025-09-14 14:18:45,218 [INFO]    ✓ extracted (len=1734) https://www.skynewsarabia.com/middle-east/1820216-فيديو-لحظة-اعتراض-إسرائيل-لطائرة-مسيرة-محيط-مطار-رامون
+2025-09-14 14:18:47,115 [INFO]  -> trying: https://www.skynewsarabia.com/middle-east/1820224-الجيش-الإسرائيلي-يدمر-برجا-سكنيا-بغزة-والقتلى-65-ألفا
+2025-09-14 14:18:47,354 [INFO]    ✓ extracted (len=4942) https://www.skynewsarabia.com/middle-east/1820224-الجيش-الإسرائيلي-يدمر-برجا-سكنيا-بغزة-والقتلى-65-ألفا
+2025-09-14 14:18:49,232 [INFO] SITE: https://www.alarabiya.net
+2025-09-14 14:18:49,581 [WARNING] Non-200 403 for https://www.alarabiya.net
+2025-09-14 14:18:51,038 [WARNING] Non-200 403 for https://www.alarabiya.net
+2025-09-14 14:18:52,329 [WARNING] Non-200 403 for https://www.alarabiya.net
+2025-09-14 14:18:54,177 [WARNING] Failed to fetch homepage https://www.alarabiya.net
+2025-09-14 14:18:54,178 [WARNING] No candidate links found for https://www.alarabiya.net
+2025-09-14 14:18:54,178 [WARNING] Extracted 0 articles for https://www.alarabiya.net
+2025-09-14 14:18:54,178 [INFO] SITE: https://www.akhbaar24.com
+2025-09-14 14:18:55,422 [INFO]  -> trying: https://www.akhbaar24.com/محليات/يومان-على-موعد-الالتزام-ببرنامج-حماية-الأجور-95565
+2025-09-14 14:18:55,811 [INFO]    ✓ extracted (len=843) https://www.akhbaar24.com/محليات/يومان-على-موعد-الالتزام-ببرنامج-حماية-الأجور-95565
+2025-09-14 14:18:57,317 [INFO]  -> trying: https://www.akhbaar24.com/حوادث/مكافحة-المخدرات-تضبط-142-كيلوجراما-من-الشبو-بالمدينة-المنورة-95573
+2025-09-14 14:18:57,723 [INFO]    ✓ extracted (len=619) https://www.akhbaar24.com/حوادث/مكافحة-المخدرات-تضبط-142-كيلوجراما-من-الشبو-بالمدينة-المنورة-95573
+2025-09-14 14:18:59,553 [INFO]  -> trying: https://www.akhbaar24.com/حوادث/شرطة-الرياض-تضبط-متورطين-في-اعتداء-على-شخص-95582
+2025-09-14 14:19:00,047 [INFO]    ✓ extracted (len=464) https://www.akhbaar24.com/حوادث/شرطة-الرياض-تضبط-متورطين-في-اعتداء-على-شخص-95582
+2025-09-14 14:19:01,248 [INFO] SITE: https://www.middle-east-online.com
+2025-09-14 14:19:01,922 [INFO]  -> trying: https://www.middle-east-online.com/%D8%A7%D9%84%D9%82%D8%B1%D9%86-%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A/%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7
+2025-09-14 14:19:02,288 [INFO]    ✗ skipped https://www.middle-east-online.com/%D8%A7%D9%84%D9%82%D8%B1%D9%86-%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A/%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7
+2025-09-14 14:19:04,280 [INFO]  -> trying: https://www.middle-east-online.com/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%85%D8%AB%D9%8A%D8%B1-%D9%84%D9%84%D8%AC%D8%AF%D9%84-%D9%8A%D9%85%D9%86%D8%AD-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D8%B5%D9%84%D8%A7%D8%AD%D9%8A%D8%A9-%D8%B6%D8%A8%D8%B7-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A9
+2025-09-14 14:19:04,480 [INFO]    ✓ extracted (len=3550) https://www.middle-east-online.com/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%85%D8%AB%D9%8A%D8%B1-%D9%84%D9%84%D8%AC%D8%AF%D9%84-%D9%8A%D9%85%D9%86%D8%AD-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D8%B5%D9%84%D8%A7%D8%AD%D9%8A%D8%A9-%D8%B6%D8%A8%D8%B7-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A9
+2025-09-14 14:19:06,142 [INFO]  -> trying: https://www.middle-east-online.com/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%8A%D9%82%D9%88%D8%AF-%D8%AB%D9%88%D8%B1%D8%A9-%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1-%D9%86%D8%AD%D9%88-%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D9%85%D8%AC%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D8%A3%D9%85%D9%86-%D8%A8%D9%8A%D8%A6%D9%8A-%D9%81%D9%8A-%D8%A3%D9%81%D9%82-2030
+2025-09-14 14:19:06,373 [INFO]    ✓ extracted (len=2415) https://www.middle-east-online.com/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%8A%D9%82%D9%88%D8%AF-%D8%AB%D9%88%D8%B1%D8%A9-%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1-%D9%86%D8%AD%D9%88-%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D9%85%D8%AC%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D8%A3%D9%85%D9%86-%D8%A8%D9%8A%D8%A6%D9%8A-%D9%81%D9%8A-%D8%A3%D9%81%D9%82-2030
+2025-09-14 14:19:07,513 [INFO]  -> trying: https://www.middle-east-online.com/%D8%B3%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%AA%D9%85%D8%B3%D9%85%D8%A7%D9%86%D9%8A-369
+2025-09-14 14:19:08,016 [INFO]    ✗ skipped https://www.middle-east-online.com/%D8%B3%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%AA%D9%85%D8%B3%D9%85%D8%A7%D9%86%D9%8A-369
+2025-09-14 14:19:09,467 [INFO]  -> trying: https://www.middle-east-online.com/%D8%B1%D9%88%D8%A8%D9%8A%D9%88-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%81%D9%8A-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AE%D8%B7%D8%A9-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D8%AD%D8%A9
+2025-09-14 14:19:09,734 [INFO]    ✓ extracted (len=4846) https://www.middle-east-online.com/%D8%B1%D9%88%D8%A8%D9%8A%D9%88-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%81%D9%8A-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AE%D8%B7%D8%A9-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D8%AD%D8%A9
+2025-09-14 14:19:11,036 [INFO] SITE: https://www.thenationalnews.com
+2025-09-14 14:19:11,822 [INFO]  -> trying: https://www.thenationalnews.com/news/us/2025/09/12/the-capital-soldiers-on-but-washingtonians-are-growing-weary-of-trumps-military-presence/
+2025-09-14 14:19:12,083 [INFO]    ✓ extracted (len=11807) https://www.thenationalnews.com/news/us/2025/09/12/the-capital-soldiers-on-but-washingtonians-are-growing-weary-of-trumps-military-presence/
+2025-09-14 14:19:13,843 [INFO]  -> trying: https://www.thenationalnews.com/opinion/2025/09/12/iraq-energy-electricity-middle-east/
+2025-09-14 14:19:14,118 [INFO]    ✓ extracted (len=13102) https://www.thenationalnews.com/opinion/2025/09/12/iraq-energy-electricity-middle-east/
+2025-09-14 14:19:15,609 [INFO]  -> trying: https://www.thenationalnews.com/lifestyle/wellbeing/2025/09/12/layan-life-wellness-centre-phuket-wellbeing-fitness/
+2025-09-14 14:19:15,889 [INFO]    ✓ extracted (len=11401) https://www.thenationalnews.com/lifestyle/wellbeing/2025/09/12/layan-life-wellness-centre-phuket-wellbeing-fitness/
+2025-09-14 14:19:17,254 [INFO] SITE: https://arabic.cnn.com
+2025-09-14 14:19:17,693 [INFO]  -> trying: https://arabic.cnn.com/middle-east/article/2025/09/14/satellite-images-destruction-gaza-city-israel-infographic
+2025-09-14 14:19:17,826 [INFO]    ✓ extracted (len=3746) https://arabic.cnn.com/middle-east/article/2025/09/14/satellite-images-destruction-gaza-city-israel-infographic
+2025-09-14 14:19:18,840 [INFO]  -> trying: https://arabic.cnn.com/middle-east/article/2025/09/14/circulating-video-israeli-fighter-jet-yemeni-missile
+2025-09-14 14:19:19,181 [INFO]    ✓ extracted (len=847) https://arabic.cnn.com/middle-east/article/2025/09/14/circulating-video-israeli-fighter-jet-yemeni-missile
+2025-09-14 14:19:21,127 [INFO]  -> trying: https://arabic.cnn.com/middle-east/video/2025/09/14/v180675-amanpour-wael-al-dahdouh-intv1
+2025-09-14 14:19:21,354 [INFO]    ✓ extracted (len=1088) https://arabic.cnn.com/middle-east/video/2025/09/14/v180675-amanpour-wael-al-dahdouh-intv1
+2025-09-14 14:19:22,452 [INFO] SITE: https://www.bbc.com/arabic
+2025-09-14 14:19:23,258 [INFO]  -> trying: https://tinyurl.com/5ewab7av
+2025-09-14 14:19:23,972 [INFO]    ✓ extracted (len=182) https://tinyurl.com/5ewab7av
+2025-09-14 14:19:25,316 [INFO]  -> trying: https://tinyurl.com/yc5fxtfe
+2025-09-14 14:19:25,954 [INFO]    ✗ skipped https://tinyurl.com/yc5fxtfe
+2025-09-14 14:19:26,978 [INFO]  -> trying: https://www.bbc.co.uk/arabic/send/u50853203
+2025-09-14 14:19:27,874 [INFO]    ✓ extracted (len=1027) https://www.bbc.co.uk/arabic/send/u50853203
+2025-09-14 14:19:29,238 [INFO]  -> trying: https://www.bbc.com/editorialguidelines/guidance/links-and-feeds
+2025-09-14 14:19:29,535 [INFO]    ✓ extracted (len=8015) https://www.bbc.com/editorialguidelines/guidance/links-and-feeds
+2025-09-14 14:19:31,459 [INFO] SITE: https://www.masaar.com
+2025-09-14 14:19:34,143 [INFO]  -> trying: https://www.masaar.com/technical
+2025-09-14 14:19:34,935 [INFO]    ✓ extracted (len=178) https://www.masaar.com/technical
+2025-09-14 14:19:36,621 [INFO] SITE: https://9elp.com
+2025-09-14 14:19:36,799 [WARNING] Fetch error (HTTPSConnectionPool(host='9elp.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1248bb320>: Failed to resolve '9elp.com' ([Errno 8] nodename nor servname provided, or not known)"))) for https://9elp.com
+2025-09-14 14:19:38,288 [WARNING] Fetch error (HTTPSConnectionPool(host='9elp.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x121f64050>: Failed to resolve '9elp.com' ([Errno 8] nodename nor servname provided, or not known)"))) for https://9elp.com
+2025-09-14 14:19:40,044 [WARNING] Fetch error (HTTPSConnectionPool(host='9elp.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x126c63c80>: Failed to resolve '9elp.com' ([Errno 8] nodename nor servname provided, or not known)"))) for https://9elp.com
+2025-09-14 14:19:41,473 [WARNING] Failed to fetch homepage https://9elp.com
+2025-09-14 14:19:41,474 [WARNING] No candidate links found for https://9elp.com
+2025-09-14 14:19:41,474 [WARNING] Extracted 0 articles for https://9elp.com
+2025-09-14 14:19:41,474 [INFO] SITE: https://www.rt.com
+2025-09-14 14:19:43,348 [INFO]  -> trying: https://www.rt.com/trends/russia-ukraine-conflict/
+2025-09-14 14:19:44,012 [INFO]    ✗ skipped https://www.rt.com/trends/russia-ukraine-conflict/
+2025-09-14 14:19:45,593 [INFO]  -> trying: https://www.rt.com/russia/624633-russian-toddler-ukrainian-kill-list/
+2025-09-14 14:19:46,308 [INFO]    ✓ extracted (len=2378) https://www.rt.com/russia/624633-russian-toddler-ukrainian-kill-list/
+2025-09-14 14:19:47,661 [INFO]  -> trying: https://www.rt.com/russia/624641-ukraine-funding-gap-imf/
+2025-09-14 14:19:48,400 [INFO]    ✓ extracted (len=2169) https://www.rt.com/russia/624641-ukraine-funding-gap-imf/
+2025-09-14 14:19:50,019 [INFO]  -> trying: https://www.rt.com/news/624626-grok-run-a-country/
+2025-09-14 14:19:50,532 [INFO]    ✓ extracted (len=7071) https://www.rt.com/news/624626-grok-run-a-country/
+2025-09-14 14:19:52,391 [INFO] SITE: https://tass.com
+2025-09-14 14:19:53,126 [INFO]  -> trying: https://cdn.tass.ru/data/files/ru/politika-obrabotki-dannyh-tassru.docx
+2025-09-14 14:19:55,422 [INFO]    ✗ skipped https://cdn.tass.ru/data/files/ru/politika-obrabotki-dannyh-tassru.docx
+2025-09-14 14:19:56,829 [INFO]  -> trying: https://tass.com/world/2016587
+2025-09-14 14:19:57,401 [INFO]    ✓ extracted (len=854) https://tass.com/world/2016587
+2025-09-14 14:19:59,380 [INFO]  -> trying: https://tass.com/politics/2016577
+2025-09-14 14:19:59,770 [INFO]    ✓ extracted (len=1915) https://tass.com/politics/2016577
+2025-09-14 14:20:01,512 [INFO]  -> trying: https://tass.com/politics/2016589
+2025-09-14 14:20:02,010 [INFO]    ✓ extracted (len=473) https://tass.com/politics/2016589
+2025-09-14 14:20:04,006 [INFO] SITE: https://www.rbc.ru
+2025-09-14 14:20:04,991 [INFO]  -> trying: https://www.rbc.ru/story/68822f889a79475439ba67bb?from=topline
+2025-09-14 14:20:05,602 [INFO]    ✗ skipped https://www.rbc.ru/story/68822f889a79475439ba67bb?from=topline
+2025-09-14 14:20:07,160 [INFO]  -> trying: https://www.rbc.ru/story/68822f889a79475439ba67bb
+2025-09-14 14:20:07,909 [INFO]    ✗ skipped https://www.rbc.ru/story/68822f889a79475439ba67bb
+2025-09-14 14:20:09,518 [INFO]  -> trying: https://www.rbc.ru/story/647591c69a79473807ed34f0
+2025-09-14 14:20:10,346 [INFO]    ✓ extracted (len=4730) https://www.rbc.ru/story/647591c69a79473807ed34f0
+2025-09-14 14:20:12,208 [INFO]  -> trying: https://www.rbc.ru/story/61ee7c0f9a7947051824f535
+2025-09-14 14:20:12,667 [INFO]    ✗ skipped https://www.rbc.ru/story/61ee7c0f9a7947051824f535
+2025-09-14 14:20:13,958 [INFO]  -> trying: https://www.rbc.ru/story/5d6fda159a79479756104497
+2025-09-14 14:20:14,709 [INFO]    ✗ skipped https://www.rbc.ru/story/5d6fda159a79479756104497
+2025-09-14 14:20:16,116 [INFO]  -> trying: https://www.rbc.ru/story/68c0206c9a7947a8c37541c6
+2025-09-14 14:20:16,786 [INFO]    ✓ extracted (len=468) https://www.rbc.ru/story/68c0206c9a7947a8c37541c6
+2025-09-14 14:20:18,747 [INFO]  -> trying: https://www.rbc.ru/story/65214c3c9a794755045e4232
+2025-09-14 14:20:19,496 [INFO]    ✓ extracted (len=1123) https://www.rbc.ru/story/65214c3c9a794755045e4232
+2025-09-14 14:20:21,227 [INFO] SITE: https://meduza.io
+2025-09-14 14:20:21,819 [INFO]  -> trying: https://meduza.io/news/2025/09/14/ukrainskaya-razvedka-utverzhdaet-chto-ustroila-vzryvy-na-zheleznoy-doroge-v-rossii-i-narushila-snabzhenie-vs-rf-v-ukraine
+2025-09-14 14:20:22,010 [INFO]    ✓ extracted (len=2464) https://meduza.io/news/2025/09/14/ukrainskaya-razvedka-utverzhdaet-chto-ustroila-vzryvy-na-zheleznoy-doroge-v-rossii-i-narushila-snabzhenie-vs-rf-v-ukraine
+2025-09-14 14:20:23,188 [INFO]  -> trying: https://meduza.io/news/2025/09/14/konsulstvo-ispanii-v-moskve-po-tehnicheskim-prichinam-perestalo-prinimat-zayavleniya-na-vizy
+2025-09-14 14:20:23,397 [INFO]    ✓ extracted (len=1364) https://meduza.io/news/2025/09/14/konsulstvo-ispanii-v-moskve-po-tehnicheskim-prichinam-perestalo-prinimat-zayavleniya-na-vizy
+2025-09-14 14:20:25,239 [INFO]  -> trying: https://meduza.io/news/2025/09/14/izdatel-rolling-stone-i-variety-podal-v-sud-na-google-iz-za-togo-chto-na-poiskovye-zaprosy-otvechaet-iskusstvennyy-intellekt
+2025-09-14 14:20:25,439 [INFO]    ✓ extracted (len=1577) https://meduza.io/news/2025/09/14/izdatel-rolling-stone-i-variety-podal-v-sud-na-google-iz-za-togo-chto-na-poiskovye-zaprosy-otvechaet-iskusstvennyy-intellekt
+2025-09-14 14:20:26,477 [INFO] SITE: https://echo.msk.ru
+2025-09-14 14:20:28,794 [INFO]  -> trying: https://echo.msk.ru/news/data-vyhoda/bolshaya-malenkaya-lozh-3-sezon-data-vyhoda-i-chto-ozhidat-ot-novyh-seriy/
+2025-09-14 14:20:29,351 [INFO]    ✓ extracted (len=1233) https://echo.msk.ru/news/data-vyhoda/bolshaya-malenkaya-lozh-3-sezon-data-vyhoda-i-chto-ozhidat-ot-novyh-seriy/
+2025-09-14 14:20:30,729 [INFO]  -> trying: https://echo.msk.ru/news/data-vyhoda/bessmertnyy-3-sezon-data-vyhoda-grafik-seriy-i-vse-chto-nuzhno-znat-fanatam/
+2025-09-14 14:20:31,310 [INFO]    ✓ extracted (len=1413) https://echo.msk.ru/news/data-vyhoda/bessmertnyy-3-sezon-data-vyhoda-grafik-seriy-i-vse-chto-nuzhno-znat-fanatam/
+2025-09-14 14:20:33,243 [INFO]  -> trying: https://echo.msk.ru/news/data-vyhoda/chetvertyy-sezon-osnovanie-na-apple-tv-data-vyhoda-i-podrobnosti/
+2025-09-14 14:20:33,947 [INFO]    ✓ extracted (len=1388) https://echo.msk.ru/news/data-vyhoda/chetvertyy-sezon-osnovanie-na-apple-tv-data-vyhoda-i-podrobnosti/
+2025-09-14 14:20:35,931 [INFO] Saved 96 articles to news_hybrid_training.csv and news_hybrid_training.json
+2025-09-14 14:20:36,004 [ERROR] DB save error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(url(255)))
+    ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4' at line 10
+Traceback (most recent call last):
+  File "/Users/kelvinanowu/Desktop/PROJECT1/DataScienceDominionProject/.venv/lib/python3.12/site-packages/mysql/connector/connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(url(255)))
+    ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4' at line 10
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/kelvinanowu/Desktop/PROJECT1/DataScienceDominionProject/insightbot_hybrid_scraper.py", line 460, in save_to_mysql
+    ensure_table(cursor)
+  File "/Users/kelvinanowu/Desktop/PROJECT1/DataScienceDominionProject/insightbot_hybrid_scraper.py", line 439, in ensure_table
+    cursor.execute("""
+  File "/Users/kelvinanowu/Desktop/PROJECT1/DataScienceDominionProject/.venv/lib/python3.12/site-packages/mysql/connector/cursor_cext.py", line 353, in execute
+    self._connection.cmd_query(
+  File "/Users/kelvinanowu/Desktop/PROJECT1/DataScienceDominionProject/.venv/lib/python3.12/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kelvinanowu/Desktop/PROJECT1/DataScienceDominionProject/.venv/lib/python3.12/site-packages/mysql/connector/connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(url(255)))
+    ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4' at line 10
+2025-09-14 15:28:11,000 [INFO] Starting scraper (mode=train, per-site=3)
+2025-09-14 15:28:11,001 [INFO] SITE: https://www.cnn.com
+2025-09-14 15:28:12,507 [INFO]  -> trying: https://edition.cnn.com/world/europe/ukraine
+2025-09-14 15:28:13,036 [INFO]    ✗ skipped https://edition.cnn.com/world/europe/ukraine
+2025-09-14 15:28:14,156 [INFO]  -> trying: https://edition.cnn.com/world/middleeast/israel
+2025-09-14 15:28:14,714 [INFO]    ✗ skipped https://edition.cnn.com/world/middleeast/israel
+2025-09-14 15:28:15,747 [INFO]  -> trying: https://edition.cnn.com/world/africa
+2025-09-14 15:28:16,901 [INFO]    ✗ skipped https://edition.cnn.com/world/africa
+2025-09-14 15:28:18,249 [INFO]  -> trying: https://edition.cnn.com/world/americas
+2025-09-14 15:28:18,850 [INFO]    ✗ skipped https://edition.cnn.com/world/americas
+2025-09-14 15:28:20,096 [INFO]  -> trying: https://edition.cnn.com/world/asia
+2025-09-14 15:28:20,998 [INFO]    ✗ skipped https://edition.cnn.com/world/asia
+2025-09-14 15:28:22,893 [INFO]  -> trying: https://edition.cnn.com/world/australia
+2025-09-14 15:28:23,789 [INFO]    ✗ skipped https://edition.cnn.com/world/australia
+2025-09-14 15:28:25,767 [INFO]  -> trying: https://edition.cnn.com/world/china
+2025-09-14 15:28:26,431 [INFO]    ✗ skipped https://edition.cnn.com/world/china
+2025-09-14 15:28:28,166 [INFO]  -> trying: https://edition.cnn.com/world/europe
+2025-09-14 15:28:28,931 [INFO]    ✗ skipped https://edition.cnn.com/world/europe
+2025-09-14 15:28:30,859 [INFO]  -> trying: https://edition.cnn.com/world/india
+2025-09-14 15:28:31,475 [INFO]    ✗ skipped https://edition.cnn.com/world/india
+2025-09-14 15:28:32,953 [INFO]  -> trying: https://edition.cnn.com/world/middle-east
+2025-09-14 15:28:33,749 [INFO]    ✗ skipped https://edition.cnn.com/world/middle-east
+2025-09-14 15:28:35,418 [INFO]  -> trying: https://edition.cnn.com/world/united-kingdom
+2025-09-14 15:28:36,039 [INFO]    ✗ skipped https://edition.cnn.com/world/united-kingdom
+2025-09-14 15:28:37,673 [INFO]  -> trying: https://edition.cnn.com/politics/president-donald-trump-47
+2025-09-14 15:28:42,228 [INFO]    ✗ skipped https://edition.cnn.com/politics/president-donald-trump-47
+2025-09-14 15:28:43,869 [INFO]  -> trying: https://www.cnn.com/politics/fact-check
+2025-09-14 15:28:44,799 [INFO]    ✗ skipped https://www.cnn.com/politics/fact-check
+2025-09-14 15:28:46,117 [INFO]  -> trying: https://www.cnn.com/election/2025
+2025-09-14 15:28:47,301 [INFO]    ✗ skipped https://www.cnn.com/election/2025
+2025-09-14 15:28:49,294 [INFO]  -> trying: https://edition.cnn.com/business/tech
+2025-09-14 15:28:49,866 [INFO]    ✗ skipped https://edition.cnn.com/business/tech
+2025-09-14 15:28:51,441 [INFO]  -> trying: https://edition.cnn.com/business/media
+2025-09-14 15:28:52,048 [INFO]    ✗ skipped https://edition.cnn.com/business/media
+2025-09-14 15:28:53,113 [INFO]  -> trying: https://edition.cnn.com/business/financial-calculators
+2025-09-14 15:28:53,697 [INFO]    ✗ skipped https://edition.cnn.com/business/financial-calculators
+2025-09-14 15:28:54,724 [INFO]  -> trying: https://edition.cnn.com/business/videos
+2025-09-14 15:28:55,382 [INFO]    ✗ skipped https://edition.cnn.com/business/videos
+2025-09-14 15:28:56,996 [INFO]  -> trying: https://edition.cnn.com/business/investing
+2025-09-14 15:28:58,667 [INFO]    ✗ skipped https://edition.cnn.com/business/investing
+2025-09-14 15:29:00,610 [INFO]  -> trying: https://edition.cnn.com/business/markets-now
+2025-09-14 15:29:01,391 [INFO]    ✗ skipped https://edition.cnn.com/business/markets-now
+2025-09-14 15:29:03,096 [INFO]  -> trying: https://edition.cnn.com/business/markets/nightcap
+2025-09-14 15:29:08,255 [INFO]    ✗ skipped https://edition.cnn.com/business/markets/nightcap
+2025-09-14 15:29:09,657 [INFO]  -> trying: https://edition.cnn.com/health/life-but-better/fitness
+2025-09-14 15:29:10,568 [INFO]    ✗ skipped https://edition.cnn.com/health/life-but-better/fitness
+2025-09-14 15:29:12,512 [INFO]  -> trying: https://edition.cnn.com/health/life-but-better/food
+2025-09-14 15:29:13,141 [INFO]    ✗ skipped https://edition.cnn.com/health/life-but-better/food
+2025-09-14 15:29:14,477 [INFO]  -> trying: https://edition.cnn.com/health/life-but-better/sleep
+2025-09-14 15:29:15,115 [INFO]    ✗ skipped https://edition.cnn.com/health/life-but-better/sleep
+2025-09-14 15:29:16,423 [WARNING] Extracted 0 articles for https://www.cnn.com
+2025-09-14 15:29:16,423 [INFO] SITE: https://www.bbc.com
+2025-09-14 15:29:17,030 [INFO]  -> trying: https://www.bbc.com/news/war-in-ukraine
+2025-09-14 15:29:17,195 [INFO]    ✓ extracted (len=3094) https://www.bbc.com/news/war-in-ukraine
+2025-09-14 15:29:18,703 [INFO]  -> trying: https://www.bbc.com/news/us-canada
+2025-09-14 15:29:19,581 [INFO]    ✓ extracted (len=3772) https://www.bbc.com/news/us-canada
+2025-09-14 15:29:21,174 [INFO]  -> trying: https://www.bbc.com/news/uk
+2025-09-14 15:29:21,924 [INFO]    ✓ extracted (len=3714) https://www.bbc.com/news/uk
+2025-09-14 15:29:23,035 [INFO] SITE: https://www.nytimes.com
+2025-09-14 15:29:25,054 [INFO]  -> trying: https://www.nytimes.com/news-event/immigration-us
+2025-09-14 15:29:25,747 [INFO]    ✓ extracted (len=1879) https://www.nytimes.com/news-event/immigration-us
+2025-09-14 15:29:27,747 [INFO]  -> trying: https://www.nytimes.com/newsletters/morning-briefing
+2025-09-14 15:29:28,295 [INFO]    ✗ skipped https://www.nytimes.com/newsletters/morning-briefing
+2025-09-14 15:29:29,545 [INFO]  -> trying: https://www.nytimes.com/newsletters/evening-briefing
+2025-09-14 15:29:30,064 [INFO]    ✗ skipped https://www.nytimes.com/newsletters/evening-briefing
+2025-09-14 15:29:31,200 [INFO]  -> trying: https://www.nytimes.com/column/the-daily
+2025-09-14 15:29:32,000 [INFO]    ✓ extracted (len=2589) https://www.nytimes.com/column/the-daily
+2025-09-14 15:29:33,730 [INFO]  -> trying: https://www.nytimes.com/news-event/israel-hamas-gaza
+2025-09-14 15:29:34,516 [INFO]    ✓ extracted (len=2452) https://www.nytimes.com/news-event/israel-hamas-gaza
+2025-09-14 15:29:35,804 [INFO] SITE: https://www.theguardian.com
+2025-09-14 15:29:36,773 [INFO]  -> trying: https://www.theguardian.com/lifeandstyle/2025/sep/14/my-wife-and-i-had-couples-therapy-on-tv-it-nearly-wrecked-our-marriage
+2025-09-14 15:29:36,990 [INFO]    ✓ extracted (len=22295) https://www.theguardian.com/lifeandstyle/2025/sep/14/my-wife-and-i-had-couples-therapy-on-tv-it-nearly-wrecked-our-marriage
+2025-09-14 15:29:38,043 [INFO]  -> trying: https://www.theguardian.com/us-news/2025/sep/14/zohran-mamdani-success-what-can-labour-learn
+2025-09-14 15:29:38,371 [INFO]    ✓ extracted (len=9397) https://www.theguardian.com/us-news/2025/sep/14/zohran-mamdani-success-what-can-labour-learn
+2025-09-14 15:29:39,704 [INFO]  -> trying: https://www.theguardian.com/tv-and-radio/2025/sep/14/mawaan-rizwan-interview-juice-series-2-comedy-bbc-three
+2025-09-14 15:29:39,911 [INFO]    ✓ extracted (len=10189) https://www.theguardian.com/tv-and-radio/2025/sep/14/mawaan-rizwan-interview-juice-series-2-comedy-bbc-three
+2025-09-14 15:29:41,593 [INFO] SITE: https://www.reuters.com
+2025-09-14 15:29:41,947 [WARNING] Non-200 401 for https://www.reuters.com
+2025-09-14 15:29:43,234 [WARNING] Non-200 401 for https://www.reuters.com
+2025-09-14 15:29:45,106 [WARNING] Non-200 401 for https://www.reuters.com
+2025-09-14 15:29:46,290 [WARNING] Failed to fetch homepage https://www.reuters.com
+2025-09-14 15:29:46,291 [WARNING] No candidate links found for https://www.reuters.com
+2025-09-14 15:29:46,291 [WARNING] Extracted 0 articles for https://www.reuters.com
+2025-09-14 15:29:46,291 [INFO] SITE: https://www.washingtonpost.com
+2025-09-14 15:29:58,690 [WARNING] Fetch error (HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=12)) for https://www.washingtonpost.com
+2025-09-14 15:30:12,781 [WARNING] Fetch error (HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=12)) for https://www.washingtonpost.com
+2025-09-14 15:30:26,845 [WARNING] Fetch error (HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=12)) for https://www.washingtonpost.com
+2025-09-14 15:30:28,674 [WARNING] Failed to fetch homepage https://www.washingtonpost.com
+2025-09-14 15:30:28,675 [WARNING] No candidate links found for https://www.washingtonpost.com
+2025-09-14 15:30:28,675 [WARNING] Extracted 0 articles for https://www.washingtonpost.com
+2025-09-14 15:30:28,675 [INFO] SITE: https://www.forbes.com
+2025-09-14 15:30:29,378 [INFO]  -> trying: https://www.forbes.com/sites/forbesstaff/article/tips-and-confidential-sources/
+2025-09-14 15:30:29,850 [INFO]    ✓ extracted (len=3500) https://www.forbes.com/sites/forbesstaff/article/tips-and-confidential-sources/
+2025-09-14 15:30:31,174 [INFO]  -> trying: https://www.forbes.com/sites/theleukemialymphomasociety/2025/08/21/student-visionaries-celebrating-teen-leaders-raising-money-to-end-blood-cancers/
+2025-09-14 15:30:31,496 [INFO]    ✓ extracted (len=6691) https://www.forbes.com/sites/theleukemialymphomasociety/2025/08/21/student-visionaries-celebrating-teen-leaders-raising-money-to-end-blood-cancers/
+2025-09-14 15:30:32,830 [INFO]  -> trying: https://www.forbes.com/sites/forbes-research/2023/10/26/c-suite-data-reveals-ais-nuanced-impact--a-quest-to-quantify-it/
+2025-09-14 15:30:33,104 [INFO]    ✗ skipped https://www.forbes.com/sites/forbes-research/2023/10/26/c-suite-data-reveals-ais-nuanced-impact--a-quest-to-quantify-it/
+2025-09-14 15:30:35,016 [INFO]  -> trying: https://www.forbes.com/sites/forbesvideo/2023/11/01/dna-of-success-2023/
+2025-09-14 15:30:35,261 [INFO]    ✗ skipped https://www.forbes.com/sites/forbesvideo/2023/11/01/dna-of-success-2023/
+2025-09-14 15:30:36,816 [INFO]  -> trying: https://www.forbes.com/sites/forbes-research/2023/10/26/new-forbes-survey-reveals-how-executives-are-embracing---and-bracing-for---ai/
+2025-09-14 15:30:37,054 [INFO]    ✗ skipped https://www.forbes.com/sites/forbes-research/2023/10/26/new-forbes-survey-reveals-how-executives-are-embracing---and-bracing-for---ai/
+2025-09-14 15:30:38,496 [INFO]  -> trying: https://www.forbes.com/sites/forbes-research/2023/11/01/facing-a-volatile-market-c-suites-look-to-the-cfo-for-strategic-guidance/
+2025-09-14 15:30:38,754 [INFO]    ✓ extracted (len=612) https://www.forbes.com/sites/forbes-research/2023/11/01/facing-a-volatile-market-c-suites-look-to-the-cfo-for-strategic-guidance/
+2025-09-14 15:30:39,834 [INFO] SITE: https://techcrunch.com
+2025-09-14 15:30:40,601 [INFO]  -> trying: https://techcrunch.com/2025/09/13/california-lawmakers-pass-ai-safety-bill-sb-53-but-newsom-could-still-veto/
+2025-09-14 15:30:40,808 [INFO]    ✓ extracted (len=3637) https://techcrunch.com/2025/09/13/california-lawmakers-pass-ai-safety-bill-sb-53-but-newsom-could-still-veto/
+2025-09-14 15:30:42,584 [INFO]  -> trying: https://techcrunch.com/2025/09/12/why-the-oracle-openai-deal-caught-wall-street-by-surprise/
+2025-09-14 15:30:42,820 [INFO]    ✓ extracted (len=6470) https://techcrunch.com/2025/09/12/why-the-oracle-openai-deal-caught-wall-street-by-surprise/
+2025-09-14 15:30:44,096 [INFO]  -> trying: https://techcrunch.com/2025/09/13/hike-once-a-unicorn-shuts-down-as-india-cracks-down-on-real-money-gaming/
+2025-09-14 15:30:44,334 [INFO]    ✓ extracted (len=4141) https://techcrunch.com/2025/09/13/hike-once-a-unicorn-shuts-down-as-india-cracks-down-on-real-money-gaming/
+2025-09-14 15:30:45,993 [INFO] SITE: https://thenextweb.com
+2025-09-14 15:30:46,891 [INFO]  -> trying: https://thenextweb.com/news/big-business-innovation-needs-startup-leaders
+2025-09-14 15:30:47,063 [INFO]    ✓ extracted (len=4824) https://thenextweb.com/news/big-business-innovation-needs-startup-leaders
+2025-09-14 15:30:48,170 [INFO]  -> trying: https://thenextweb.com/news/founders-takes-on-ai-for-investing
+2025-09-14 15:30:48,566 [INFO]    ✓ extracted (len=4451) https://thenextweb.com/news/founders-takes-on-ai-for-investing
+2025-09-14 15:30:50,020 [INFO]  -> trying: https://thenextweb.com/news/europe-ready-self-driving-cars
+2025-09-14 15:30:50,204 [INFO]    ✓ extracted (len=7663) https://thenextweb.com/news/europe-ready-self-driving-cars
+2025-09-14 15:30:51,283 [INFO] SITE: https://medium.com
+2025-09-14 15:30:51,554 [INFO]  -> trying: https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e
+2025-09-14 15:30:52,215 [INFO]    ✓ extracted (len=2448) https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e
+2025-09-14 15:30:53,991 [INFO]  -> trying: https://policy.medium.com/medium-rules-30e5502c4eb4
+2025-09-14 15:30:54,561 [INFO]    ✗ skipped https://policy.medium.com/medium-rules-30e5502c4eb4
+2025-09-14 15:30:56,148 [INFO]  -> trying: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
+2025-09-14 15:30:56,299 [INFO]    ✓ extracted (len=18862) https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
+2025-09-14 15:30:58,012 [INFO]  -> trying: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
+2025-09-14 15:30:58,361 [INFO]    ✓ extracted (len=9946) https://policy.medium.com/medium-privacy-policy-f03bf92035c9
+2025-09-14 15:30:59,781 [INFO] SITE: https://dev.to
+2025-09-14 15:31:00,508 [INFO]  -> trying: https://dev.to/sharafon/rapidrelief-ai-2025-5x-faster-damage-assessment-rescue-guide-2lf9
+2025-09-14 15:31:01,202 [INFO]    ✓ extracted (len=11692) https://dev.to/sharafon/rapidrelief-ai-2025-5x-faster-damage-assessment-rescue-guide-2lf9
+2025-09-14 15:31:02,822 [INFO]  -> trying: https://dev.to/sagar/level-up-your-sprints-how-im-using-ai-to-plan-like-a-boss-1lj0
+2025-09-14 15:31:02,987 [INFO]    ✓ extracted (len=2405) https://dev.to/sagar/level-up-your-sprints-how-im-using-ai-to-plan-like-a-boss-1lj0
+2025-09-14 15:31:04,272 [INFO]  -> trying: https://dev.to/therealmrmumba/qwen-code-just-got-smarter-key-features-in-v0010-v0011-4j5h
+2025-09-14 15:31:04,471 [INFO]    ✓ extracted (len=4783) https://dev.to/therealmrmumba/qwen-code-just-got-smarter-key-features-in-v0010-v0011-4j5h
+2025-09-14 15:31:05,749 [INFO] SITE: https://mashable.com
+2025-09-14 15:31:06,477 [INFO]  -> trying: https://mashable.com/roundup/best-cheap-laptops
+2025-09-14 15:31:06,897 [INFO]    ✓ extracted (len=14078) https://mashable.com/roundup/best-cheap-laptops
+2025-09-14 15:31:08,470 [INFO]  -> trying: https://mashable.com/roundup/best-sexting-apps
+2025-09-14 15:31:08,814 [INFO]    ✓ extracted (len=23153) https://mashable.com/roundup/best-sexting-apps
+2025-09-14 15:31:10,282 [INFO]  -> trying: https://mashable.com/roundup/best-robot-vacuums
+2025-09-14 15:31:10,691 [INFO]    ✓ extracted (len=19445) https://mashable.com/roundup/best-robot-vacuums
+2025-09-14 15:31:12,413 [INFO] SITE: https://www.wsj.com
+2025-09-14 15:31:12,834 [WARNING] Non-200 401 for https://www.wsj.com
+2025-09-14 15:31:14,192 [WARNING] Non-200 401 for https://www.wsj.com
+2025-09-14 15:31:15,498 [WARNING] Non-200 401 for https://www.wsj.com
+2025-09-14 15:31:16,618 [WARNING] Failed to fetch homepage https://www.wsj.com
+2025-09-14 15:31:16,619 [WARNING] No candidate links found for https://www.wsj.com
+2025-09-14 15:31:16,619 [WARNING] Extracted 0 articles for https://www.wsj.com
+2025-09-14 15:31:16,619 [INFO] SITE: https://www.wired.com
+2025-09-14 15:31:17,009 [INFO]  -> trying: https://www.wired.com/2016/05/the-end-of-code/
+2025-09-14 15:31:17,289 [INFO]    ✓ extracted (len=18346) https://www.wired.com/2016/05/the-end-of-code/
+2025-09-14 15:31:18,741 [INFO]  -> trying: https://www.wired.com/video/watch/hacklab-we-digitally-cracked-a-high-security-safe
+2025-09-14 15:31:18,932 [INFO]    ✓ extracted (len=6102) https://www.wired.com/video/watch/hacklab-we-digitally-cracked-a-high-security-safe
+2025-09-14 15:31:20,349 [INFO]  -> trying: https://www.wired.com/video/watch/tech-support-jon-batiste-answers-piano-questions
+2025-09-14 15:31:20,661 [INFO]    ✓ extracted (len=6041) https://www.wired.com/video/watch/tech-support-jon-batiste-answers-piano-questions
+2025-09-14 15:31:22,460 [INFO] SITE: https://www.npr.org
+2025-09-14 15:31:23,830 [INFO]  -> trying: https://www.npr.org/sections/health-shots/126567525/your-health
+2025-09-14 15:31:24,688 [INFO]    ✗ skipped https://www.npr.org/sections/health-shots/126567525/your-health
+2025-09-14 15:31:26,097 [INFO]  -> trying: https://www.npr.org/sections/health-shots/133188449/public-health
+2025-09-14 15:31:26,848 [INFO]    ✗ skipped https://www.npr.org/sections/health-shots/133188449/public-health
+2025-09-14 15:31:28,616 [INFO]  -> trying: https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player
+2025-09-14 15:31:29,072 [WARNING] Fetch error (HTTPSConnectionPool(host='help.npr.org', port=443): Max retries exceeded with url: /contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))) for https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player
+2025-09-14 15:31:30,811 [WARNING] Fetch error (HTTPSConnectionPool(host='help.npr.org', port=443): Max retries exceeded with url: /contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))) for https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player
+2025-09-14 15:31:32,788 [WARNING] Fetch error (HTTPSConnectionPool(host='help.npr.org', port=443): Max retries exceeded with url: /contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))) for https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player
+2025-09-14 15:31:33,813 [INFO]    ✗ skipped https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player
+2025-09-14 15:31:35,668 [INFO]  -> trying: https://www.npr.org/sections/allsongs/606254804/new-music-friday
+2025-09-14 15:31:36,426 [INFO]    ✓ extracted (len=5505) https://www.npr.org/sections/allsongs/606254804/new-music-friday
+2025-09-14 15:31:37,919 [INFO]  -> trying: https://www.npr.org/podcasts/510310/npr-politics-podcast
+2025-09-14 15:31:38,639 [INFO]    ✓ extracted (len=5323) https://www.npr.org/podcasts/510310/npr-politics-podcast
+2025-09-14 15:31:39,982 [INFO]  -> trying: https://www.npr.org/2025/09/14/nx-s1-5496445/trump-uk-state-visit-mother-scotland-outer-hebrides
+2025-09-14 15:31:40,672 [INFO]    ✓ extracted (len=10715) https://www.npr.org/2025/09/14/nx-s1-5496445/trump-uk-state-visit-mother-scotland-outer-hebrides
+2025-09-14 15:31:42,192 [INFO] SITE: https://www.vox.com
+2025-09-14 15:31:42,842 [INFO]  -> trying: https://www.vox.com/21523212/crossword-puzzles-free-daily-printable
+2025-09-14 15:31:42,988 [INFO]    ✓ extracted (len=1482) https://www.vox.com/21523212/crossword-puzzles-free-daily-printable
+2025-09-14 15:31:44,647 [INFO]  -> trying: https://www.vox.com/politics/461357/charlie-kirk-government-shutdown-filibuster-ezra-klein
+2025-09-14 15:31:44,928 [INFO]    ✓ extracted (len=10992) https://www.vox.com/politics/461357/charlie-kirk-government-shutdown-filibuster-ezra-klein
+2025-09-14 15:31:46,067 [INFO]  -> trying: https://www.vox.com/future-perfect/461208/moral-scrupulosity-religious-obsession-being-good
+2025-09-14 15:31:46,263 [INFO]    ✓ extracted (len=10404) https://www.vox.com/future-perfect/461208/moral-scrupulosity-religious-obsession-being-good
+2025-09-14 15:31:47,301 [INFO] SITE: https://www.bloomberg.com
+2025-09-14 15:31:50,287 [INFO]  -> trying: https://www.bloomberg.com/professional/support/customer-support/software-updates/?utm_source=bloomberg-menu&utm_medium=bcom
+2025-09-14 15:31:51,979 [INFO]    ✗ skipped https://www.bloomberg.com/professional/support/customer-support/software-updates/?utm_source=bloomberg-menu&utm_medium=bcom
+2025-09-14 15:31:53,296 [INFO]  -> trying: https://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu&utm_medium=bcom
+2025-09-14 15:31:54,694 [INFO]    ✗ skipped https://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu&utm_medium=bcom
+2025-09-14 15:31:56,259 [INFO]  -> trying: https://www.bloomberg.com/company/values/tech-at-bloomberg/?utm_source=bloomberg-menu&utm_medium=bcom
+2025-09-14 15:31:57,258 [INFO]    ✓ extracted (len=3150) https://www.bloomberg.com/company/values/tech-at-bloomberg/?utm_source=bloomberg-menu&utm_medium=bcom
+2025-09-14 15:31:59,228 [INFO]  -> trying: https://www.bloomberg.com/company/values/tech-at-bloomberg/bloomberg-beta/?utm_source=bloomberg-menu&utm_medium=bcom
+2025-09-14 15:32:00,453 [INFO]    ✗ skipped https://www.bloomberg.com/company/values/tech-at-bloomberg/bloomberg-beta/?utm_source=bloomberg-menu&utm_medium=bcom
+2025-09-14 15:32:02,397 [INFO]  -> trying: https://www.bloomberg.com/quote/SPX:IND
+2025-09-14 15:32:02,596 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/SPX:IND
+2025-09-14 15:32:03,994 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/SPX:IND
+2025-09-14 15:32:05,634 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/SPX:IND
+2025-09-14 15:32:07,529 [INFO]    ✗ skipped https://www.bloomberg.com/quote/SPX:IND
+2025-09-14 15:32:08,930 [INFO]  -> trying: https://www.bloomberg.com/quote/CCMP:IND
+2025-09-14 15:32:09,294 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/CCMP:IND
+2025-09-14 15:32:11,466 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/CCMP:IND
+2025-09-14 15:32:12,872 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/CCMP:IND
+2025-09-14 15:32:14,243 [INFO]    ✗ skipped https://www.bloomberg.com/quote/CCMP:IND
+2025-09-14 15:32:16,035 [INFO]  -> trying: https://www.bloomberg.com/quote/B500:IND
+2025-09-14 15:32:16,398 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/B500:IND
+2025-09-14 15:32:20,501 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/B500:IND
+2025-09-14 15:32:22,333 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/B500:IND
+2025-09-14 15:32:24,131 [INFO]    ✗ skipped https://www.bloomberg.com/quote/B500:IND
+2025-09-14 15:32:26,025 [INFO]  -> trying: https://www.bloomberg.com/quote/GT10:GOV
+2025-09-14 15:32:26,389 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/GT10:GOV
+2025-09-14 15:32:28,245 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/GT10:GOV
+2025-09-14 15:32:30,031 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/GT10:GOV
+2025-09-14 15:32:31,054 [INFO]    ✗ skipped https://www.bloomberg.com/quote/GT10:GOV
+2025-09-14 15:32:32,326 [INFO]  -> trying: https://www.bloomberg.com/quote/CL1:COM
+2025-09-14 15:32:32,702 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/CL1:COM
+2025-09-14 15:32:34,800 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/CL1:COM
+2025-09-14 15:32:36,942 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/CL1:COM
+2025-09-14 15:32:38,741 [INFO]    ✗ skipped https://www.bloomberg.com/quote/CL1:COM
+2025-09-14 15:32:39,988 [INFO]  -> trying: https://www.bloomberg.com/quote/UKX:IND
+2025-09-14 15:32:40,345 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/UKX:IND
+2025-09-14 15:32:42,673 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/UKX:IND
+2025-09-14 15:32:44,069 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/UKX:IND
+2025-09-14 15:32:45,213 [INFO]    ✗ skipped https://www.bloomberg.com/quote/UKX:IND
+2025-09-14 15:32:46,564 [INFO]  -> trying: https://www.bloomberg.com/quote/GC1:COM
+2025-09-14 15:32:46,922 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/GC1:COM
+2025-09-14 15:32:49,292 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/GC1:COM
+2025-09-14 15:32:51,484 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/GC1:COM
+2025-09-14 15:32:53,260 [INFO]    ✗ skipped https://www.bloomberg.com/quote/GC1:COM
+2025-09-14 15:32:54,407 [INFO]  -> trying: https://www.bloomberg.com/quote/EURUSD:CUR
+2025-09-14 15:32:54,769 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/EURUSD:CUR
+2025-09-14 15:32:56,580 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/EURUSD:CUR
+2025-09-14 15:32:58,933 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/EURUSD:CUR
+2025-09-14 15:33:00,661 [INFO]    ✗ skipped https://www.bloomberg.com/quote/EURUSD:CUR
+2025-09-14 15:33:02,507 [INFO]  -> trying: https://www.bloomberg.com/quote/GBPUSD:CUR
+2025-09-14 15:33:02,875 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/GBPUSD:CUR
+2025-09-14 15:33:04,762 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/GBPUSD:CUR
+2025-09-14 15:33:06,987 [WARNING] Non-200 403 for https://www.bloomberg.com/quote/GBPUSD:CUR
+2025-09-14 15:33:08,001 [INFO]    ✗ skipped https://www.bloomberg.com/quote/GBPUSD:CUR
+2025-09-14 15:33:09,063 [INFO]  -> trying: https://www.bloomberg.com/news/articles/2025-09-13/lesotho-sends-trade-delegation-to-us-to-plead-for-lower-tariffs?srnd=homepage-africa
+2025-09-14 15:33:09,438 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-13/lesotho-sends-trade-delegation-to-us-to-plead-for-lower-tariffs?srnd=homepage-africa
+2025-09-14 15:33:10,952 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-13/lesotho-sends-trade-delegation-to-us-to-plead-for-lower-tariffs?srnd=homepage-africa
+2025-09-14 15:33:12,718 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-13/lesotho-sends-trade-delegation-to-us-to-plead-for-lower-tariffs?srnd=homepage-africa
+2025-09-14 15:33:14,314 [INFO]    ✗ skipped https://www.bloomberg.com/news/articles/2025-09-13/lesotho-sends-trade-delegation-to-us-to-plead-for-lower-tariffs?srnd=homepage-africa
+2025-09-14 15:33:15,794 [INFO]  -> trying: https://www.bloomberg.com/news/articles/2025-09-13/us-allies-propose-transitional-plan-to-end-sudan-conflict?srnd=homepage-africa
+2025-09-14 15:33:16,175 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-13/us-allies-propose-transitional-plan-to-end-sudan-conflict?srnd=homepage-africa
+2025-09-14 15:33:18,147 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-13/us-allies-propose-transitional-plan-to-end-sudan-conflict?srnd=homepage-africa
+2025-09-14 15:33:20,119 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-13/us-allies-propose-transitional-plan-to-end-sudan-conflict?srnd=homepage-africa
+2025-09-14 15:33:21,848 [INFO]    ✗ skipped https://www.bloomberg.com/news/articles/2025-09-13/us-allies-propose-transitional-plan-to-end-sudan-conflict?srnd=homepage-africa
+2025-09-14 15:33:23,301 [INFO]  -> trying: https://www.bloomberg.com/news/articles/2025-05-09/sudan-civil-war-why-conflict-began-and-how-it-s-escalated?srnd=homepage-africa
+2025-09-14 15:33:23,692 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-05-09/sudan-civil-war-why-conflict-began-and-how-it-s-escalated?srnd=homepage-africa
+2025-09-14 15:33:25,420 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-05-09/sudan-civil-war-why-conflict-began-and-how-it-s-escalated?srnd=homepage-africa
+2025-09-14 15:33:27,137 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-05-09/sudan-civil-war-why-conflict-began-and-how-it-s-escalated?srnd=homepage-africa
+2025-09-14 15:33:28,831 [INFO]    ✗ skipped https://www.bloomberg.com/news/articles/2025-05-09/sudan-civil-war-why-conflict-began-and-how-it-s-escalated?srnd=homepage-africa
+2025-09-14 15:33:29,979 [INFO]  -> trying: https://www.bloomberg.com/news/articles/2025-09-13/botswana-has-credit-rating-cut-by-s-p-on-diamond-slump?srnd=homepage-africa
+2025-09-14 15:33:30,364 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-13/botswana-has-credit-rating-cut-by-s-p-on-diamond-slump?srnd=homepage-africa
+2025-09-14 15:33:31,825 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-13/botswana-has-credit-rating-cut-by-s-p-on-diamond-slump?srnd=homepage-africa
+2025-09-14 15:33:33,761 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-13/botswana-has-credit-rating-cut-by-s-p-on-diamond-slump?srnd=homepage-africa
+2025-09-14 15:33:35,378 [INFO]    ✗ skipped https://www.bloomberg.com/news/articles/2025-09-13/botswana-has-credit-rating-cut-by-s-p-on-diamond-slump?srnd=homepage-africa
+2025-09-14 15:33:36,401 [INFO]  -> trying: https://www.bloomberg.com/account/newsletters/weekend-edition
+2025-09-14 15:33:36,765 [WARNING] Non-200 403 for https://www.bloomberg.com/account/newsletters/weekend-edition
+2025-09-14 15:33:38,809 [WARNING] Non-200 403 for https://www.bloomberg.com/account/newsletters/weekend-edition
+2025-09-14 15:33:40,755 [WARNING] Non-200 403 for https://www.bloomberg.com/account/newsletters/weekend-edition
+2025-09-14 15:33:41,812 [INFO]    ✗ skipped https://www.bloomberg.com/account/newsletters/weekend-edition
+2025-09-14 15:33:42,994 [INFO]  -> trying: https://www.bloomberg.com/news/articles/2025-09-12/the-ai-doomers-are-losing-the-argument?srnd=homepage-africa
+2025-09-14 15:33:43,379 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/the-ai-doomers-are-losing-the-argument?srnd=homepage-africa
+2025-09-14 15:33:45,182 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/the-ai-doomers-are-losing-the-argument?srnd=homepage-africa
+2025-09-14 15:33:46,687 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/the-ai-doomers-are-losing-the-argument?srnd=homepage-africa
+2025-09-14 15:33:47,704 [INFO]    ✗ skipped https://www.bloomberg.com/news/articles/2025-09-12/the-ai-doomers-are-losing-the-argument?srnd=homepage-africa
+2025-09-14 15:33:48,745 [INFO]  -> trying: https://www.bloomberg.com/news/articles/2025-09-12/building-a-smart-city-from-scratch-is-easier-said-than-done?srnd=homepage-africa
+2025-09-14 15:33:49,790 [INFO]    ✓ extracted (len=566) https://www.bloomberg.com/news/articles/2025-09-12/building-a-smart-city-from-scratch-is-easier-said-than-done?srnd=homepage-africa
+2025-09-14 15:33:51,305 [INFO]  -> trying: https://www.bloomberg.com/news/articles/2025-09-12/what-the-trump-administration-wants-from-the-federal-reserve?srnd=homepage-africa
+2025-09-14 15:33:51,481 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/what-the-trump-administration-wants-from-the-federal-reserve?srnd=homepage-africa
+2025-09-14 15:33:53,099 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/what-the-trump-administration-wants-from-the-federal-reserve?srnd=homepage-africa
+2025-09-14 15:33:54,827 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/what-the-trump-administration-wants-from-the-federal-reserve?srnd=homepage-africa
+2025-09-14 15:33:56,030 [INFO]    ✗ skipped https://www.bloomberg.com/news/articles/2025-09-12/what-the-trump-administration-wants-from-the-federal-reserve?srnd=homepage-africa
+2025-09-14 15:33:57,894 [INFO]  -> trying: https://www.bloomberg.com/news/articles/2025-09-12/mary-roach-s-new-book-tackles-the-quest-to-rebuild-the-human-body?srnd=homepage-africa
+2025-09-14 15:33:58,279 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/mary-roach-s-new-book-tackles-the-quest-to-rebuild-the-human-body?srnd=homepage-africa
+2025-09-14 15:33:59,938 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/mary-roach-s-new-book-tackles-the-quest-to-rebuild-the-human-body?srnd=homepage-africa
+2025-09-14 15:34:01,417 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/mary-roach-s-new-book-tackles-the-quest-to-rebuild-the-human-body?srnd=homepage-africa
+2025-09-14 15:34:03,146 [INFO]    ✗ skipped https://www.bloomberg.com/news/articles/2025-09-12/mary-roach-s-new-book-tackles-the-quest-to-rebuild-the-human-body?srnd=homepage-africa
+2025-09-14 15:34:05,038 [INFO]  -> trying: https://www.bloomberg.com/opinion/articles/2025-09-12/us-uk-relationship-is-about-to-become-more-explosive?srnd=homepage-africa
+2025-09-14 15:34:05,514 [WARNING] Non-200 403 for https://www.bloomberg.com/opinion/articles/2025-09-12/us-uk-relationship-is-about-to-become-more-explosive?srnd=homepage-africa
+2025-09-14 15:34:07,802 [WARNING] Non-200 403 for https://www.bloomberg.com/opinion/articles/2025-09-12/us-uk-relationship-is-about-to-become-more-explosive?srnd=homepage-africa
+2025-09-14 15:34:09,744 [WARNING] Non-200 403 for https://www.bloomberg.com/opinion/articles/2025-09-12/us-uk-relationship-is-about-to-become-more-explosive?srnd=homepage-africa
+2025-09-14 15:34:10,839 [INFO]    ✗ skipped https://www.bloomberg.com/opinion/articles/2025-09-12/us-uk-relationship-is-about-to-become-more-explosive?srnd=homepage-africa
+2025-09-14 15:34:12,017 [INFO]  -> trying: https://www.bloomberg.com/news/articles/2025-09-12/at-world-cup-2026-the-us-risks-a-diplomatic-own-goal?srnd=homepage-africa
+2025-09-14 15:34:12,390 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/at-world-cup-2026-the-us-risks-a-diplomatic-own-goal?srnd=homepage-africa
+2025-09-14 15:34:14,701 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/at-world-cup-2026-the-us-risks-a-diplomatic-own-goal?srnd=homepage-africa
+2025-09-14 15:34:16,320 [WARNING] Non-200 403 for https://www.bloomberg.com/news/articles/2025-09-12/at-world-cup-2026-the-us-risks-a-diplomatic-own-goal?srnd=homepage-africa
+2025-09-14 15:34:17,371 [INFO]    ✗ skipped https://www.bloomberg.com/news/articles/2025-09-12/at-world-cup-2026-the-us-risks-a-diplomatic-own-goal?srnd=homepage-africa
+2025-09-14 15:34:18,421 [INFO] SITE: https://seekingalpha.com
+2025-09-14 15:34:19,263 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets
+2025-09-14 15:34:19,645 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets
+2025-09-14 15:34:20,812 [INFO]  -> trying: https://seekingalpha.com/basic-search
+2025-09-14 15:34:21,131 [INFO]    ✗ skipped https://seekingalpha.com/basic-search
+2025-09-14 15:34:22,824 [INFO]  -> trying: https://about.seekingalpha.com/become-a-contributor
+2025-09-14 15:34:24,635 [INFO]    ✓ extracted (len=3218) https://about.seekingalpha.com/become-a-contributor
+2025-09-14 15:34:25,953 [INFO]  -> trying: https://seekingalpha.com/subscriptions/premium-virtual-analyst-report#source=virtual_analyst_report%3Aexpanded%3Anavbar_left
+2025-09-14 15:34:26,402 [WARNING] Non-200 403 for https://seekingalpha.com/subscriptions/premium-virtual-analyst-report#source=virtual_analyst_report%3Aexpanded%3Anavbar_left
+2025-09-14 15:34:28,553 [WARNING] Non-200 403 for https://seekingalpha.com/subscriptions/premium-virtual-analyst-report#source=virtual_analyst_report%3Aexpanded%3Anavbar_left
+2025-09-14 15:34:30,344 [WARNING] Non-200 403 for https://seekingalpha.com/subscriptions/premium-virtual-analyst-report#source=virtual_analyst_report%3Aexpanded%3Anavbar_left
+2025-09-14 15:34:32,101 [INFO]    ✗ skipped https://seekingalpha.com/subscriptions/premium-virtual-analyst-report#source=virtual_analyst_report%3Aexpanded%3Anavbar_left
+2025-09-14 15:34:33,831 [INFO]  -> trying: https://seekingalpha.com/market-news/notable-calls#source=notable_calls%3Anavbar_left
+2025-09-14 15:34:34,228 [INFO]    ✗ skipped https://seekingalpha.com/market-news/notable-calls#source=notable_calls%3Anavbar_left
+2025-09-14 15:34:36,162 [INFO]  -> trying: https://seekingalpha.com/market-news/ai-tech-stocks#source=ai-tech-stocks%3Anavbar_left
+2025-09-14 15:34:36,576 [INFO]    ✗ skipped https://seekingalpha.com/market-news/ai-tech-stocks#source=ai-tech-stocks%3Anavbar_left
+2025-09-14 15:34:37,782 [INFO]  -> trying: https://seekingalpha.com/market-news/budget-regulation#source=budget-regulation%3Anavbar_left
+2025-09-14 15:34:38,130 [WARNING] Non-200 403 for https://seekingalpha.com/market-news/budget-regulation#source=budget-regulation%3Anavbar_left
+2025-09-14 15:34:39,628 [WARNING] Non-200 403 for https://seekingalpha.com/market-news/budget-regulation#source=budget-regulation%3Anavbar_left
+2025-09-14 15:34:41,788 [WARNING] Non-200 403 for https://seekingalpha.com/market-news/budget-regulation#source=budget-regulation%3Anavbar_left
+2025-09-14 15:34:43,383 [INFO]    ✗ skipped https://seekingalpha.com/market-news/budget-regulation#source=budget-regulation%3Anavbar_left
+2025-09-14 15:34:45,243 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets#source=market_performance%3Anavbar_left
+2025-09-14 15:34:45,734 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets#source=market_performance%3Anavbar_left
+2025-09-14 15:34:47,437 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets#source=key_markets%3Anavbar_left
+2025-09-14 15:34:47,723 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/key_markets#source=key_markets%3Anavbar_left
+2025-09-14 15:34:48,735 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/currencies#source=currencies%3Anavbar_left
+2025-09-14 15:34:49,029 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/currencies#source=currencies%3Anavbar_left
+2025-09-14 15:34:50,378 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/currencies#source=currencies%3Anavbar_left
+2025-09-14 15:34:52,204 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/currencies#source=currencies%3Anavbar_left
+2025-09-14 15:34:53,518 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/currencies#source=currencies%3Anavbar_left
+2025-09-14 15:34:55,194 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/cryptocurrency#source=cryptocurrency_prices%3Anavbar_left
+2025-09-14 15:34:55,586 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/cryptocurrency#source=cryptocurrency_prices%3Anavbar_left
+2025-09-14 15:34:57,433 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/cryptocurrency#source=cryptocurrency_prices%3Anavbar_left
+2025-09-14 15:34:59,386 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/cryptocurrency#source=cryptocurrency_prices%3Anavbar_left
+2025-09-14 15:35:00,635 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/cryptocurrency#source=cryptocurrency_prices%3Anavbar_left
+2025-09-14 15:35:02,138 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/sectors#source=sectors%3Anavbar_left
+2025-09-14 15:35:02,571 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/sectors#source=sectors%3Anavbar_left
+2025-09-14 15:35:04,395 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/sectors#source=sectors%3Anavbar_left
+2025-09-14 15:35:06,036 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/sectors#source=sectors%3Anavbar_left
+2025-09-14 15:35:07,287 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/sectors#source=sectors%3Anavbar_left
+2025-09-14 15:35:08,431 [INFO]  -> trying: https://seekingalpha.com/screeners/9679329c-Top-Dividend-Stocks#source=top_dividend_stocks%3Anavbar_left
+2025-09-14 15:35:08,797 [WARNING] Non-200 403 for https://seekingalpha.com/screeners/9679329c-Top-Dividend-Stocks#source=top_dividend_stocks%3Anavbar_left
+2025-09-14 15:35:10,431 [WARNING] Non-200 403 for https://seekingalpha.com/screeners/9679329c-Top-Dividend-Stocks#source=top_dividend_stocks%3Anavbar_left
+2025-09-14 15:35:12,379 [WARNING] Non-200 403 for https://seekingalpha.com/screeners/9679329c-Top-Dividend-Stocks#source=top_dividend_stocks%3Anavbar_left
+2025-09-14 15:35:14,146 [INFO]    ✗ skipped https://seekingalpha.com/screeners/9679329c-Top-Dividend-Stocks#source=top_dividend_stocks%3Anavbar_left
+2025-09-14 15:35:15,745 [INFO]  -> trying: https://seekingalpha.com/screeners/9408317dce-Top-Quant-Dividend-Stocks#source=top_quant_dividend_stocks%3Anavbar_left
+2025-09-14 15:35:16,168 [WARNING] Non-200 403 for https://seekingalpha.com/screeners/9408317dce-Top-Quant-Dividend-Stocks#source=top_quant_dividend_stocks%3Anavbar_left
+2025-09-14 15:35:17,709 [WARNING] Non-200 403 for https://seekingalpha.com/screeners/9408317dce-Top-Quant-Dividend-Stocks#source=top_quant_dividend_stocks%3Anavbar_left
+2025-09-14 15:35:19,246 [WARNING] Non-200 403 for https://seekingalpha.com/screeners/9408317dce-Top-Quant-Dividend-Stocks#source=top_quant_dividend_stocks%3Anavbar_left
+2025-09-14 15:35:20,713 [INFO]    ✗ skipped https://seekingalpha.com/screeners/9408317dce-Top-Quant-Dividend-Stocks#source=top_quant_dividend_stocks%3Anavbar_left
+2025-09-14 15:35:22,109 [INFO]  -> trying: https://seekingalpha.com/dividends/dividend-quick-picks#source=dividend_quick_picks%3Anavbar_left
+2025-09-14 15:35:22,598 [INFO]    ✗ skipped https://seekingalpha.com/dividends/dividend-quick-picks#source=dividend_quick_picks%3Anavbar_left
+2025-09-14 15:35:23,878 [INFO]  -> trying: https://seekingalpha.com/market-news/dividend-funds#source=dividend_news_funds%3Anavbar_left
+2025-09-14 15:35:24,365 [WARNING] Non-200 403 for https://seekingalpha.com/market-news/dividend-funds#source=dividend_news_funds%3Anavbar_left
+2025-09-14 15:35:26,328 [WARNING] Non-200 403 for https://seekingalpha.com/market-news/dividend-funds#source=dividend_news_funds%3Anavbar_left
+2025-09-14 15:35:28,072 [WARNING] Non-200 403 for https://seekingalpha.com/market-news/dividend-funds#source=dividend_news_funds%3Anavbar_left
+2025-09-14 15:35:29,271 [INFO]    ✗ skipped https://seekingalpha.com/market-news/dividend-funds#source=dividend_news_funds%3Anavbar_left
+2025-09-14 15:35:30,653 [INFO]  -> trying: https://seekingalpha.com/market-news/dividend-stocks#source=dividend_news_stocks%3Anavbar_left
+2025-09-14 15:35:31,109 [INFO]    ✗ skipped https://seekingalpha.com/market-news/dividend-stocks#source=dividend_news_stocks%3Anavbar_left
+2025-09-14 15:35:33,000 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/dividends#source=etf_dividends%3Anavbar_left
+2025-09-14 15:35:33,370 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/dividends#source=etf_dividends%3Anavbar_left
+2025-09-14 15:35:35,546 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/dividends#source=etf_dividends%3Anavbar_left
+2025-09-14 15:35:37,401 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/dividends#source=etf_dividends%3Anavbar_left
+2025-09-14 15:35:39,128 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/dividends#source=etf_dividends%3Anavbar_left
+2025-09-14 15:35:40,404 [INFO]  -> trying: https://seekingalpha.com/screeners/etfs/922b797269-Top-Rated-ETFs#source=top_rated_etfs%3Anavbar_left
+2025-09-14 15:35:40,744 [WARNING] Non-200 403 for https://seekingalpha.com/screeners/etfs/922b797269-Top-Rated-ETFs#source=top_rated_etfs%3Anavbar_left
+2025-09-14 15:35:42,212 [WARNING] Non-200 403 for https://seekingalpha.com/screeners/etfs/922b797269-Top-Rated-ETFs#source=top_rated_etfs%3Anavbar_left
+2025-09-14 15:35:44,534 [WARNING] Non-200 403 for https://seekingalpha.com/screeners/etfs/922b797269-Top-Rated-ETFs#source=top_rated_etfs%3Anavbar_left
+2025-09-14 15:35:46,364 [INFO]    ✗ skipped https://seekingalpha.com/screeners/etfs/922b797269-Top-Rated-ETFs#source=top_rated_etfs%3Anavbar_left
+2025-09-14 15:35:47,556 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/strategies#source=etf_strategies%3Anavbar_left
+2025-09-14 15:35:47,911 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/strategies#source=etf_strategies%3Anavbar_left
+2025-09-14 15:35:49,758 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/strategies#source=etf_strategies%3Anavbar_left
+2025-09-14 15:35:51,371 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/strategies#source=etf_strategies%3Anavbar_left
+2025-09-14 15:35:52,731 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/strategies#source=etf_strategies%3Anavbar_left
+2025-09-14 15:35:54,063 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate#source=reits_real_estate_etfs%3Anavbar_left
+2025-09-14 15:35:54,468 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate#source=reits_real_estate_etfs%3Anavbar_left
+2025-09-14 15:35:56,320 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate#source=reits_real_estate_etfs%3Anavbar_left
+2025-09-14 15:35:58,018 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate#source=reits_real_estate_etfs%3Anavbar_left
+2025-09-14 15:35:59,673 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/real_estate#source=reits_real_estate_etfs%3Anavbar_left
+2025-09-14 15:36:00,755 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/commodities#source=commodity_etfs%3Anavbar_left
+2025-09-14 15:36:01,130 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/commodities#source=commodity_etfs%3Anavbar_left
+2025-09-14 15:36:02,571 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/commodities#source=commodity_etfs%3Anavbar_left
+2025-09-14 15:36:04,313 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/commodities#source=commodity_etfs%3Anavbar_left
+2025-09-14 15:36:05,879 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/commodities#source=commodity_etfs%3Anavbar_left
+2025-09-14 15:36:07,304 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets#source=emerging_markets_etfs%3Anavbar_left
+2025-09-14 15:36:07,602 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets#source=emerging_markets_etfs%3Anavbar_left
+2025-09-14 15:36:09,236 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets#source=emerging_markets_etfs%3Anavbar_left
+2025-09-14 15:36:11,362 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets#source=emerging_markets_etfs%3Anavbar_left
+2025-09-14 15:36:13,054 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets#source=emerging_markets_etfs%3Anavbar_left
+2025-09-14 15:36:14,471 [INFO]  -> trying: https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value#source=growth_vs_value_etfs%3Anavbar_left
+2025-09-14 15:36:14,845 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value#source=growth_vs_value_etfs%3Anavbar_left
+2025-09-14 15:36:16,895 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value#source=growth_vs_value_etfs%3Anavbar_left
+2025-09-14 15:36:18,993 [WARNING] Non-200 403 for https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value#source=growth_vs_value_etfs%3Anavbar_left
+2025-09-14 15:36:20,524 [INFO]    ✗ skipped https://seekingalpha.com/etfs-and-funds/etf-tables/growth_vs_value#source=growth_vs_value_etfs%3Anavbar_left
+2025-09-14 15:36:22,263 [INFO] SITE: https://www.engadget.com
+2025-09-14 15:36:23,591 [INFO]  -> trying: https://www.engadget.com/gaming/nintendo/metroid-prime-4-will-be-released-on-december-4-for-switch-1-and-2-134718933.html
+2025-09-14 15:36:24,332 [INFO]    ✓ extracted (len=1577) https://www.engadget.com/gaming/nintendo/metroid-prime-4-will-be-released-on-december-4-for-switch-1-and-2-134718933.html
+2025-09-14 15:36:25,692 [INFO]  -> trying: https://www.engadget.com/about/editors/lawrence-bonk-01/
+2025-09-14 15:36:26,473 [INFO]    ✗ skipped https://www.engadget.com/about/editors/lawrence-bonk-01/
+2025-09-14 15:36:28,451 [INFO]  -> trying: https://www.engadget.com/gaming/cozy-detectives-urban-disc-golf-and-other-new-indie-games-worth-checking-out-110029695.html
+2025-09-14 15:36:29,483 [INFO]    ✓ extracted (len=7745) https://www.engadget.com/gaming/cozy-detectives-urban-disc-golf-and-other-new-indie-games-worth-checking-out-110029695.html
+2025-09-14 15:36:30,700 [INFO]  -> trying: https://www.engadget.com/gaming/nintendo/mario-metroid-virtual-boy-and-more-all-the-biggest-announcements-from-todays-nintendo-direct-165722897.html
+2025-09-14 15:36:31,535 [INFO]    ✓ extracted (len=8737) https://www.engadget.com/gaming/nintendo/mario-metroid-virtual-boy-and-more-all-the-biggest-announcements-from-todays-nintendo-direct-165722897.html
+2025-09-14 15:36:33,532 [INFO] SITE: https://www.theverge.com
+2025-09-14 15:36:34,295 [INFO]  -> trying: https://www.theverge.com/ai-artificial-intelligence
+2025-09-14 15:36:34,496 [INFO]    ✗ skipped https://www.theverge.com/ai-artificial-intelligence
+2025-09-14 15:36:35,732 [INFO]  -> trying: https://www.theverge.com/decoder-podcast-with-nilay-patel
+2025-09-14 15:36:35,937 [INFO]    ✗ skipped https://www.theverge.com/decoder-podcast-with-nilay-patel
+2025-09-14 15:36:37,757 [INFO]  -> trying: https://www.theverge.com/pages/sign-up-for-verge-daily
+2025-09-14 15:36:37,938 [INFO]    ✓ extracted (len=452) https://www.theverge.com/pages/sign-up-for-verge-daily
+2025-09-14 15:36:39,489 [INFO]  -> trying: https://www.theverge.com/pages/installer-newsletter-sign-up
+2025-09-14 15:36:39,692 [INFO]    ✓ extracted (len=872) https://www.theverge.com/pages/installer-newsletter-sign-up
+2025-09-14 15:36:41,667 [INFO]  -> trying: https://www.theverge.com/2024/9/20/24249294/verge-deals-newsletter-subscribe-tech-discounts
+2025-09-14 15:36:41,926 [INFO]    ✓ extracted (len=2661) https://www.theverge.com/2024/9/20/24249294/verge-deals-newsletter-subscribe-tech-discounts
+2025-09-14 15:36:43,038 [INFO] SITE: https://www.ft.com
+2025-09-14 15:36:43,724 [WARNING] No candidate links found for https://www.ft.com
+2025-09-14 15:36:43,724 [WARNING] Extracted 0 articles for https://www.ft.com
+2025-09-14 15:36:43,724 [INFO] SITE: https://arstechnica.com
+2025-09-14 15:36:45,313 [INFO]  -> trying: https://arstechnica.com/gadgets/2025/09/jef-raskins-cul-de-sac-and-the-quest-for-the-humane-computer/
+2025-09-14 15:36:45,657 [INFO]    ✓ extracted (len=49156) https://arstechnica.com/gadgets/2025/09/jef-raskins-cul-de-sac-and-the-quest-for-the-humane-computer/
+2025-09-14 15:36:47,074 [INFO]  -> trying: https://arstechnica.com/science/2025/09/the-us-is-trying-to-kick-start-a-nuclear-energy-renaissance/
+2025-09-14 15:36:47,387 [INFO]    ✓ extracted (len=11280) https://arstechnica.com/science/2025/09/the-us-is-trying-to-kick-start-a-nuclear-energy-renaissance/
+2025-09-14 15:36:48,897 [INFO]  -> trying: https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/
+2025-09-14 15:36:49,412 [INFO]    ✓ extracted (len=11868) https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/
+2025-09-14 15:36:50,897 [INFO] SITE: https://www.cnet.com
+2025-09-14 15:36:51,917 [INFO]  -> trying: https://www.cnet.com/tech/mobile/apple-debuts-the-iphone-air-airpods-3-and-much-more-at-its-awe-dropping-event/
+2025-09-14 15:36:52,941 [INFO]    ✓ extracted (len=9128) https://www.cnet.com/tech/mobile/apple-debuts-the-iphone-air-airpods-3-and-much-more-at-its-awe-dropping-event/
+2025-09-14 15:36:54,295 [INFO]  -> trying: https://www.cnet.com/tech/services-and-software/i-tested-ios-26-for-3-months-and-liquid-glass-isnt-the-only-game-changing-feature/
+2025-09-14 15:36:54,790 [INFO]    ✓ extracted (len=14663) https://www.cnet.com/tech/services-and-software/i-tested-ios-26-for-3-months-and-liquid-glass-isnt-the-only-game-changing-feature/
+2025-09-14 15:36:56,657 [INFO]  -> trying: https://www.cnet.com/tech/gaming/super-mario-galaxy-movie-mario-tennis-fever-and-more-coming-for-marios-40th-anniversary/
+2025-09-14 15:36:57,998 [INFO]    ✓ extracted (len=2872) https://www.cnet.com/tech/gaming/super-mario-galaxy-movie-mario-tennis-fever-and-more-coming-for-marios-40th-anniversary/
+2025-09-14 15:36:59,492 [INFO] SITE: https://slashdot.org
+2025-09-14 15:37:00,387 [INFO]  -> trying: https://science.slashdot.org/story/25/09/13/0553219/most-earth-like-planet-yet-may-have-been-found-just-40-light-years-away
+2025-09-14 15:37:01,213 [INFO]    ✓ extracted (len=273) https://science.slashdot.org/story/25/09/13/0553219/most-earth-like-planet-yet-may-have-been-found-just-40-light-years-away
+2025-09-14 15:37:02,519 [INFO]  -> trying: https://tech.slashdot.org/story/25/09/14/031203/facebook-begins-sending-settlement-payments-from-cambridge-analytica-scandal-soon
+2025-09-14 15:37:03,359 [INFO]    ✓ extracted (len=1458) https://tech.slashdot.org/story/25/09/14/031203/facebook-begins-sending-settlement-payments-from-cambridge-analytica-scandal-soon
+2025-09-14 15:37:04,895 [INFO]  -> trying: https://it.slashdot.org/story/25/09/14/0357239/thieves-busted-after-stealing-a-cellphone-from-a-security-experts-wife
+2025-09-14 15:37:06,020 [INFO]    ✓ extracted (len=4174) https://it.slashdot.org/story/25/09/14/0357239/thieves-busted-after-stealing-a-cellphone-from-a-security-experts-wife
+2025-09-14 15:37:07,692 [INFO] SITE: https://www.huffpost.com
+2025-09-14 15:37:08,343 [INFO]  -> trying: https://www.huffpost.com/news/us-news
+2025-09-14 15:37:08,577 [INFO]    ✗ skipped https://www.huffpost.com/news/us-news
+2025-09-14 15:37:09,790 [INFO]  -> trying: https://www.huffpost.com/news/world-news
+2025-09-14 15:37:10,090 [INFO]    ✗ skipped https://www.huffpost.com/news/world-news
+2025-09-14 15:37:11,310 [INFO]  -> trying: https://www.huffpost.com/news/crime
+2025-09-14 15:37:11,561 [INFO]    ✗ skipped https://www.huffpost.com/news/crime
+2025-09-14 15:37:12,839 [INFO]  -> trying: https://www.huffpost.com/news/politics
+2025-09-14 15:37:13,081 [INFO]    ✗ skipped https://www.huffpost.com/news/politics
+2025-09-14 15:37:14,161 [INFO]  -> trying: https://www.huffpost.com/news/media
+2025-09-14 15:37:14,303 [INFO]    ✗ skipped https://www.huffpost.com/news/media
+2025-09-14 15:37:15,490 [INFO]  -> trying: https://www.huffpost.com/entry/venezuela-us-tensions-tuna-boat_n_68c62989e4b0254a6c644f47?origin=top-ad-recirc
+2025-09-14 15:37:15,704 [INFO]    ✓ extracted (len=4341) https://www.huffpost.com/entry/venezuela-us-tensions-tuna-boat_n_68c62989e4b0254a6c644f47?origin=top-ad-recirc
+2025-09-14 15:37:17,361 [INFO]  -> trying: https://www.huffpost.com/entry/maggie-haberman-trump-struggling-charlie-kirk-death_n_68c59b93e4b0254a6c644211?origin=top-ad-recirc
+2025-09-14 15:37:17,581 [INFO]    ✓ extracted (len=3871) https://www.huffpost.com/entry/maggie-haberman-trump-struggling-charlie-kirk-death_n_68c59b93e4b0254a6c644211?origin=top-ad-recirc
+2025-09-14 15:37:19,325 [INFO]  -> trying: https://www.huffpost.com/entry/brian-kilmeade-homeless-just-kill-em_n_68c595abe4b0efc9da5fe3d0?origin=top-ad-recirc
+2025-09-14 15:37:19,506 [INFO]    ✓ extracted (len=2746) https://www.huffpost.com/entry/brian-kilmeade-homeless-just-kill-em_n_68c595abe4b0efc9da5fe3d0?origin=top-ad-recirc
+2025-09-14 15:37:21,488 [INFO] SITE: https://www.aljazeera.net
+2025-09-14 15:37:22,523 [INFO]  -> trying: https://www.aljazeera.net/news/liveblog/2025/9/14/%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%b9%d9%84%d9%89-%d8%ba%d8%b2%d8%a9-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%81%d9%8a-8
+2025-09-14 15:37:22,734 [INFO]    ✓ extracted (len=220) https://www.aljazeera.net/news/liveblog/2025/9/14/%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%b9%d9%84%d9%89-%d8%ba%d8%b2%d8%a9-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%81%d9%8a-8
+2025-09-14 15:37:24,023 [INFO]  -> trying: https://www.aljazeera.net/news/liveblog/2025/9/14/%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%b9%d9%84%d9%89-%d8%ba%d8%b2%d8%a9-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%81%d9%8a-8?update=8010033
+2025-09-14 15:37:24,235 [INFO]    ✓ extracted (len=220) https://www.aljazeera.net/news/liveblog/2025/9/14/%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%b9%d9%84%d9%89-%d8%ba%d8%b2%d8%a9-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%81%d9%8a-8?update=8010033
+2025-09-14 15:37:25,782 [INFO]  -> trying: https://www.aljazeera.net/news/liveblog/2025/9/14/%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%b9%d9%84%d9%89-%d8%ba%d8%b2%d8%a9-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%81%d9%8a-8?update=8010028
+2025-09-14 15:37:25,990 [INFO]    ✓ extracted (len=220) https://www.aljazeera.net/news/liveblog/2025/9/14/%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%b9%d9%84%d9%89-%d8%ba%d8%b2%d8%a9-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%81%d9%8a-8?update=8010028
+2025-09-14 15:37:27,011 [INFO] SITE: https://www.skynewsarabia.com
+2025-09-14 15:37:27,511 [INFO]  -> trying: https://www.skynewsarabia.com/most-popular-تفضيلات-القراء
+2025-09-14 15:37:27,727 [INFO]    ✗ skipped https://www.skynewsarabia.com/most-popular-تفضيلات-القراء
+2025-09-14 15:37:28,917 [INFO]  -> trying: https://www.skynewsarabia.com/radio-راديو-سكاي-نيوز-عربية
+2025-09-14 15:37:29,497 [INFO]    ✗ skipped https://www.skynewsarabia.com/radio-راديو-سكاي-نيوز-عربية
+2025-09-14 15:37:30,519 [INFO]  -> trying: https://www.skynewsarabia.com/breaking-news-الأخبار-العاجلة
+2025-09-14 15:37:30,775 [INFO]    ✗ skipped https://www.skynewsarabia.com/breaking-news-الأخبار-العاجلة
+2025-09-14 15:37:32,643 [INFO]  -> trying: https://www.snapchat.com/discover/Sky-News-Arabia/7252097831
+2025-09-14 15:37:33,750 [INFO]    ✗ skipped https://www.snapchat.com/discover/Sky-News-Arabia/7252097831
+2025-09-14 15:37:35,559 [INFO]  -> trying: https://www.skynewsarabia.com/middle-east/1820202-وزراء-خارجية-أمن-قطر-جزء-الأمن-القومي-العربي-والإسلامي
+2025-09-14 15:37:35,852 [INFO]    ✓ extracted (len=4056) https://www.skynewsarabia.com/middle-east/1820202-وزراء-خارجية-أمن-قطر-جزء-الأمن-القومي-العربي-والإسلامي
+2025-09-14 15:37:37,597 [INFO]  -> trying: https://www.skynewsarabia.com/middle-east/1820232-قمة-الدوحة-الاستثنائية-رسالة-قوية-للسلام-والسيادة-الخليجية
+2025-09-14 15:37:37,906 [INFO]    ✓ extracted (len=11804) https://www.skynewsarabia.com/middle-east/1820232-قمة-الدوحة-الاستثنائية-رسالة-قوية-للسلام-والسيادة-الخليجية
+2025-09-14 15:37:38,960 [INFO]  -> trying: https://www.skynewsarabia.com/sport/1820237-حكمة-إسبانية-تخطف-الأضواء-الدوري-السعودي
+2025-09-14 15:37:40,576 [INFO]    ✗ skipped https://www.skynewsarabia.com/sport/1820237-حكمة-إسبانية-تخطف-الأضواء-الدوري-السعودي
+2025-09-14 15:37:42,471 [INFO]  -> trying: https://www.skynewsarabia.com/middle-east/1820239-نتنياهو-يحتفي-بـوحدة-اليمام-لا-يوجد-أفضل-منها-بالعالم
+2025-09-14 15:37:43,031 [INFO]    ✓ extracted (len=1851) https://www.skynewsarabia.com/middle-east/1820239-نتنياهو-يحتفي-بـوحدة-اليمام-لا-يوجد-أفضل-منها-بالعالم
+2025-09-14 15:37:44,840 [INFO] SITE: https://www.alarabiya.net
+2025-09-14 15:37:45,861 [WARNING] Non-200 403 for https://www.alarabiya.net
+2025-09-14 15:37:47,142 [WARNING] Non-200 403 for https://www.alarabiya.net
+2025-09-14 15:37:48,822 [WARNING] Non-200 403 for https://www.alarabiya.net
+2025-09-14 15:37:50,029 [WARNING] Failed to fetch homepage https://www.alarabiya.net
+2025-09-14 15:37:50,030 [WARNING] No candidate links found for https://www.alarabiya.net
+2025-09-14 15:37:50,030 [WARNING] Extracted 0 articles for https://www.alarabiya.net
+2025-09-14 15:37:50,030 [INFO] SITE: https://www.akhbaar24.com
+2025-09-14 15:37:51,040 [INFO]  -> trying: https://www.akhbaar24.com/حوادث/مكافحة-المخدرات-تضبط-142-كيلوجراما-من-الشبو-بالمدينة-المنورة-95573
+2025-09-14 15:37:51,469 [INFO]    ✓ extracted (len=619) https://www.akhbaar24.com/حوادث/مكافحة-المخدرات-تضبط-142-كيلوجراما-من-الشبو-بالمدينة-المنورة-95573
+2025-09-14 15:37:53,066 [INFO]  -> trying: https://www.akhbaar24.com/حوادث/شرطة-الرياض-تضبط-متورطين-في-اعتداء-على-شخص-95582
+2025-09-14 15:37:53,475 [INFO]    ✓ extracted (len=464) https://www.akhbaar24.com/حوادث/شرطة-الرياض-تضبط-متورطين-في-اعتداء-على-شخص-95582
+2025-09-14 15:37:55,223 [INFO]  -> trying: https://www.akhbaar24.com/محليات/المملكة-تدين-الهجوم-الإرهابي-الذي-استهدف-جنود-باكستانيين-95567
+2025-09-14 15:37:55,726 [INFO]    ✓ extracted (len=584) https://www.akhbaar24.com/محليات/المملكة-تدين-الهجوم-الإرهابي-الذي-استهدف-جنود-باكستانيين-95567
+2025-09-14 15:37:57,099 [INFO] SITE: https://www.middle-east-online.com
+2025-09-14 15:37:57,874 [INFO]  -> trying: https://www.middle-east-online.com/%D8%A7%D9%84%D9%82%D8%B1%D9%86-%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A/%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7
+2025-09-14 15:37:58,101 [INFO]    ✗ skipped https://www.middle-east-online.com/%D8%A7%D9%84%D9%82%D8%B1%D9%86-%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A/%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7
+2025-09-14 15:37:59,533 [INFO]  -> trying: https://www.middle-east-online.com/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%85%D8%AB%D9%8A%D8%B1-%D9%84%D9%84%D8%AC%D8%AF%D9%84-%D9%8A%D9%85%D9%86%D8%AD-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D8%B5%D9%84%D8%A7%D8%AD%D9%8A%D8%A9-%D8%B6%D8%A8%D8%B7-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A9
+2025-09-14 15:37:59,764 [INFO]    ✓ extracted (len=3550) https://www.middle-east-online.com/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%85%D8%AB%D9%8A%D8%B1-%D9%84%D9%84%D8%AC%D8%AF%D9%84-%D9%8A%D9%85%D9%86%D8%AD-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D8%B5%D9%84%D8%A7%D8%AD%D9%8A%D8%A9-%D8%B6%D8%A8%D8%B7-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A9
+2025-09-14 15:38:01,725 [INFO]  -> trying: https://www.middle-east-online.com/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%8A%D9%82%D9%88%D8%AF-%D8%AB%D9%88%D8%B1%D8%A9-%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1-%D9%86%D8%AD%D9%88-%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D9%85%D8%AC%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D8%A3%D9%85%D9%86-%D8%A8%D9%8A%D8%A6%D9%8A-%D9%81%D9%8A-%D8%A3%D9%81%D9%82-2030
+2025-09-14 15:38:01,961 [INFO]    ✓ extracted (len=2415) https://www.middle-east-online.com/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%8A%D9%82%D9%88%D8%AF-%D8%AB%D9%88%D8%B1%D8%A9-%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1-%D9%86%D8%AD%D9%88-%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D9%85%D8%AC%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D8%A3%D9%85%D9%86-%D8%A8%D9%8A%D8%A6%D9%8A-%D9%81%D9%8A-%D8%A3%D9%81%D9%82-2030
+2025-09-14 15:38:03,188 [INFO]  -> trying: https://www.middle-east-online.com/%D8%B3%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%AA%D9%85%D8%B3%D9%85%D8%A7%D9%86%D9%8A-369
+2025-09-14 15:38:03,377 [INFO]    ✗ skipped https://www.middle-east-online.com/%D8%B3%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%AA%D9%85%D8%B3%D9%85%D8%A7%D9%86%D9%8A-369
+2025-09-14 15:38:05,334 [INFO]  -> trying: https://www.middle-east-online.com/%D8%B1%D9%88%D8%A8%D9%8A%D9%88-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%81%D9%8A-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AE%D8%B7%D8%A9-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D8%AD%D8%A9
+2025-09-14 15:38:05,587 [INFO]    ✓ extracted (len=4846) https://www.middle-east-online.com/%D8%B1%D9%88%D8%A8%D9%8A%D9%88-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%81%D9%8A-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AE%D8%B7%D8%A9-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D8%AD%D8%A9
+2025-09-14 15:38:06,772 [INFO] SITE: https://www.thenationalnews.com
+2025-09-14 15:38:07,627 [INFO]  -> trying: https://www.thenationalnews.com/news/us/2025/09/12/the-capital-soldiers-on-but-washingtonians-are-growing-weary-of-trumps-military-presence/
+2025-09-14 15:38:07,923 [INFO]    ✓ extracted (len=14357) https://www.thenationalnews.com/news/us/2025/09/12/the-capital-soldiers-on-but-washingtonians-are-growing-weary-of-trumps-military-presence/
+2025-09-14 15:38:09,549 [INFO]  -> trying: https://www.thenationalnews.com/opinion/2025/09/12/iraq-energy-electricity-middle-east/
+2025-09-14 15:38:09,889 [INFO]    ✓ extracted (len=15421) https://www.thenationalnews.com/opinion/2025/09/12/iraq-energy-electricity-middle-east/
+2025-09-14 15:38:11,108 [INFO]  -> trying: https://www.thenationalnews.com/lifestyle/wellbeing/2025/09/12/layan-life-wellness-centre-phuket-wellbeing-fitness/
+2025-09-14 15:38:11,436 [INFO]    ✓ extracted (len=12895) https://www.thenationalnews.com/lifestyle/wellbeing/2025/09/12/layan-life-wellness-centre-phuket-wellbeing-fitness/
+2025-09-14 15:38:12,938 [INFO] SITE: https://arabic.cnn.com
+2025-09-14 15:38:13,428 [INFO]  -> trying: https://arabic.cnn.com/middle-east/article/2025/09/14/satellite-images-destruction-gaza-city-israel-infographic
+2025-09-14 15:38:13,555 [INFO]    ✓ extracted (len=3746) https://arabic.cnn.com/middle-east/article/2025/09/14/satellite-images-destruction-gaza-city-israel-infographic
+2025-09-14 15:38:14,928 [INFO]  -> trying: https://arabic.cnn.com/middle-east/article/2025/09/14/circulating-video-israeli-fighter-jet-yemeni-missile
+2025-09-14 15:38:15,061 [INFO]    ✓ extracted (len=847) https://arabic.cnn.com/middle-east/article/2025/09/14/circulating-video-israeli-fighter-jet-yemeni-missile
+2025-09-14 15:38:16,086 [INFO]  -> trying: https://arabic.cnn.com/middle-east/video/2025/09/14/v180675-amanpour-wael-al-dahdouh-intv1
+2025-09-14 15:38:16,220 [INFO]    ✓ extracted (len=1088) https://arabic.cnn.com/middle-east/video/2025/09/14/v180675-amanpour-wael-al-dahdouh-intv1
+2025-09-14 15:38:17,239 [INFO] SITE: https://www.bbc.com/arabic
+2025-09-14 15:38:17,827 [INFO]  -> trying: https://www.bbc.com/arabic/articles/c62nz5ppgxno
+2025-09-14 15:38:18,277 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/c62nz5ppgxno
+2025-09-14 15:38:19,470 [INFO]  -> trying: https://www.bbc.com/arabic/articles/cvgjneyvw5po
+2025-09-14 15:38:19,771 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/cvgjneyvw5po
+2025-09-14 15:38:21,696 [INFO]  -> trying: https://www.bbc.com/arabic/articles/c3vzwd5rkrxo
+2025-09-14 15:38:22,169 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/c3vzwd5rkrxo
+2025-09-14 15:38:23,577 [INFO]  -> trying: https://www.bbc.com/arabic/articles/cy85qdpj4n2o
+2025-09-14 15:38:23,894 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/cy85qdpj4n2o
+2025-09-14 15:38:25,545 [INFO]  -> trying: https://www.bbc.com/arabic/articles/c3rvww4ez2lo
+2025-09-14 15:38:25,882 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/c3rvww4ez2lo
+2025-09-14 15:38:27,098 [INFO]  -> trying: https://www.bbc.com/arabic/articles/c5yv4p3z00eo
+2025-09-14 15:38:27,415 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/c5yv4p3z00eo
+2025-09-14 15:38:28,606 [INFO]  -> trying: https://www.bbc.com/arabic/articles/c39rjjwkjwwo
+2025-09-14 15:38:28,944 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/c39rjjwkjwwo
+2025-09-14 15:38:30,610 [INFO]  -> trying: https://www.bbc.com/arabic/articles/c62nz65xxp3o
+2025-09-14 15:38:31,237 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/c62nz65xxp3o
+2025-09-14 15:38:32,357 [INFO]  -> trying: https://www.bbc.com/arabic/articles/c1jnepjp09ko
+2025-09-14 15:38:32,688 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/c1jnepjp09ko
+2025-09-14 15:38:33,883 [INFO]  -> trying: https://www.bbc.com/arabic/articles/cj4yn44eepgo
+2025-09-14 15:38:34,122 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/cj4yn44eepgo
+2025-09-14 15:38:35,857 [INFO]  -> trying: https://www.bbc.com/arabic/articles/cn4lw197l27o
+2025-09-14 15:38:36,121 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/cn4lw197l27o
+2025-09-14 15:38:37,390 [INFO]  -> trying: https://www.bbc.com/arabic/articles/cvg01p55xpzo
+2025-09-14 15:38:37,656 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/cvg01p55xpzo
+2025-09-14 15:38:39,124 [INFO]  -> trying: https://www.bbc.com/arabic/articles/c708ql50g5wo
+2025-09-14 15:38:39,414 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/c708ql50g5wo
+2025-09-14 15:38:40,715 [INFO]  -> trying: https://www.bbc.com/arabic/articles/ckg6rvxd0deo
+2025-09-14 15:38:41,042 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/ckg6rvxd0deo
+2025-09-14 15:38:42,106 [INFO]  -> trying: https://www.bbc.com/arabic/bbc_arabic_radio/programmes/w13xtw2g
+2025-09-14 15:38:42,334 [INFO]    ✗ skipped https://www.bbc.com/arabic/bbc_arabic_radio/programmes/w13xtw2g
+2025-09-14 15:38:44,041 [INFO]  -> trying: https://tinyurl.com/5acb6e2c
+2025-09-14 15:38:45,114 [INFO]    ✗ skipped https://tinyurl.com/5acb6e2c
+2025-09-14 15:38:46,290 [INFO]  -> trying: https://tinyurl.com/5ewab7av
+2025-09-14 15:38:46,592 [INFO]    ✓ extracted (len=182) https://tinyurl.com/5ewab7av
+2025-09-14 15:38:47,898 [INFO]  -> trying: https://tinyurl.com/yc5fxtfe
+2025-09-14 15:38:48,506 [INFO]    ✗ skipped https://tinyurl.com/yc5fxtfe
+2025-09-14 15:38:49,976 [INFO]  -> trying: https://www.bbc.com/arabic/articles/cj6xz3z4j8zo
+2025-09-14 15:38:50,288 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/cj6xz3z4j8zo
+2025-09-14 15:38:52,266 [INFO]  -> trying: https://www.bbc.com/arabic/articles/c78z0j23jyyo
+2025-09-14 15:38:52,673 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/c78z0j23jyyo
+2025-09-14 15:38:53,971 [INFO]  -> trying: https://www.bbc.com/arabic/articles/c5ykdp6r6jeo
+2025-09-14 15:38:54,424 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/c5ykdp6r6jeo
+2025-09-14 15:38:56,077 [INFO]  -> trying: https://www.bbc.com/arabic/articles/c3wn79vv6pwo
+2025-09-14 15:38:56,401 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/c3wn79vv6pwo
+2025-09-14 15:38:58,298 [INFO]  -> trying: https://www.bbc.com/arabic/articles/ckmejj6e40mo
+2025-09-14 15:38:58,837 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/ckmejj6e40mo
+2025-09-14 15:38:59,973 [INFO]  -> trying: https://www.bbc.com/arabic/articles/cn4w85p99zyo
+2025-09-14 15:39:00,314 [INFO]    ✗ skipped https://www.bbc.com/arabic/articles/cn4w85p99zyo
+2025-09-14 15:39:01,385 [INFO] SITE: https://www.masaar.com
+2025-09-14 15:39:04,023 [INFO]  -> trying: https://www.masaar.com/technical
+2025-09-14 15:39:04,763 [INFO]    ✓ extracted (len=178) https://www.masaar.com/technical
+2025-09-14 15:39:06,388 [INFO] SITE: https://9elp.com
+2025-09-14 15:39:06,557 [WARNING] Fetch error (HTTPSConnectionPool(host='9elp.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x134219910>: Failed to resolve '9elp.com' ([Errno 8] nodename nor servname provided, or not known)"))) for https://9elp.com
+2025-09-14 15:39:08,433 [WARNING] Fetch error (HTTPSConnectionPool(host='9elp.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x134755100>: Failed to resolve '9elp.com' ([Errno 8] nodename nor servname provided, or not known)"))) for https://9elp.com
+2025-09-14 15:39:09,600 [WARNING] Fetch error (HTTPSConnectionPool(host='9elp.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x134755b80>: Failed to resolve '9elp.com' ([Errno 8] nodename nor servname provided, or not known)"))) for https://9elp.com
+2025-09-14 15:39:10,955 [WARNING] Failed to fetch homepage https://9elp.com
+2025-09-14 15:39:10,955 [WARNING] No candidate links found for https://9elp.com
+2025-09-14 15:39:10,955 [WARNING] Extracted 0 articles for https://9elp.com
+2025-09-14 15:39:10,956 [INFO] SITE: https://www.rt.com
+2025-09-14 15:39:12,735 [INFO]  -> trying: https://www.rt.com/trends/russia-ukraine-conflict/
+2025-09-14 15:39:13,275 [INFO]    ✗ skipped https://www.rt.com/trends/russia-ukraine-conflict/
+2025-09-14 15:39:14,561 [INFO]  -> trying: https://www.rt.com/news/624646-charlie-kirk-suspect-not-cooperating/
+2025-09-14 15:39:15,185 [INFO]    ✓ extracted (len=1223) https://www.rt.com/news/624646-charlie-kirk-suspect-not-cooperating/
+2025-09-14 15:39:16,746 [INFO]  -> trying: https://www.rt.com/russia/624633-russian-toddler-ukrainian-kill-list/
+2025-09-14 15:39:17,535 [INFO]    ✓ extracted (len=2378) https://www.rt.com/russia/624633-russian-toddler-ukrainian-kill-list/
+2025-09-14 15:39:18,869 [INFO]  -> trying: https://www.rt.com/news/624630-nato-dissatisfied-us-reaction-drone/
+2025-09-14 15:39:19,952 [INFO]    ✓ extracted (len=2047) https://www.rt.com/news/624630-nato-dissatisfied-us-reaction-drone/
+2025-09-14 15:39:21,722 [INFO] SITE: https://tass.com
+2025-09-14 15:39:22,486 [INFO]  -> trying: https://tass.com/politics
+2025-09-14 15:39:22,676 [INFO]    ✗ skipped https://tass.com/politics
+2025-09-14 15:39:24,213 [INFO]  -> trying: https://tass.com/oil-gas-industry
+2025-09-14 15:39:24,453 [INFO]    ✗ skipped https://tass.com/oil-gas-industry
+2025-09-14 15:39:25,746 [INFO]  -> trying: https://cdn.tass.ru/data/files/ru/politika-obrabotki-dannyh-tassru.docx
+2025-09-14 15:39:28,257 [INFO]    ✗ skipped https://cdn.tass.ru/data/files/ru/politika-obrabotki-dannyh-tassru.docx
+2025-09-14 15:39:30,137 [INFO]  -> trying: https://tass.com/politics/2016603
+2025-09-14 15:39:30,768 [INFO]    ✓ extracted (len=1452) https://tass.com/politics/2016603
+2025-09-14 15:39:32,251 [INFO]  -> trying: https://tass.com/world/2016597
+2025-09-14 15:39:32,692 [INFO]    ✓ extracted (len=1136) https://tass.com/world/2016597
+2025-09-14 15:39:33,988 [INFO]  -> trying: https://tass.com/world/2016587
+2025-09-14 15:39:34,467 [INFO]    ✓ extracted (len=854) https://tass.com/world/2016587
+2025-09-14 15:39:35,634 [INFO] SITE: https://www.rbc.ru
+2025-09-14 15:39:36,457 [INFO]  -> trying: https://www.rbc.ru/story/68822f889a79475439ba67bb?from=topline
+2025-09-14 15:39:36,884 [INFO]    ✗ skipped https://www.rbc.ru/story/68822f889a79475439ba67bb?from=topline
+2025-09-14 15:39:38,639 [INFO]  -> trying: https://www.rbc.ru/story/68822f889a79475439ba67bb
+2025-09-14 15:39:39,070 [INFO]    ✗ skipped https://www.rbc.ru/story/68822f889a79475439ba67bb
+2025-09-14 15:39:40,210 [INFO]  -> trying: https://www.rbc.ru/story/647591c69a79473807ed34f0
+2025-09-14 15:39:41,008 [INFO]    ✓ extracted (len=4730) https://www.rbc.ru/story/647591c69a79473807ed34f0
+2025-09-14 15:39:42,189 [INFO]  -> trying: https://www.rbc.ru/story/61ee7c0f9a7947051824f535
+2025-09-14 15:39:42,594 [INFO]    ✗ skipped https://www.rbc.ru/story/61ee7c0f9a7947051824f535
+2025-09-14 15:39:44,527 [INFO]  -> trying: https://www.rbc.ru/story/5d6fda159a79479756104497
+2025-09-14 15:39:45,039 [INFO]    ✗ skipped https://www.rbc.ru/story/5d6fda159a79479756104497
+2025-09-14 15:39:46,300 [INFO]  -> trying: https://www.rbc.ru/story/68c0206c9a7947a8c37541c6
+2025-09-14 15:39:46,944 [INFO]    ✓ extracted (len=468) https://www.rbc.ru/story/68c0206c9a7947a8c37541c6
+2025-09-14 15:39:48,578 [INFO]  -> trying: https://www.rbc.ru/story/65214c3c9a794755045e4232
+2025-09-14 15:39:49,274 [INFO]    ✓ extracted (len=1123) https://www.rbc.ru/story/65214c3c9a794755045e4232
+2025-09-14 15:39:50,452 [INFO] SITE: https://meduza.io
+2025-09-14 15:39:51,088 [INFO]  -> trying: https://meduza.io/news/2025/09/14/podozrevaemyy-v-ubiystve-konservativnogo-aktivista-charli-kirka-otkazalsya-priznat-vinu
+2025-09-14 15:39:51,294 [INFO]    ✓ extracted (len=1529) https://meduza.io/news/2025/09/14/podozrevaemyy-v-ubiystve-konservativnogo-aktivista-charli-kirka-otkazalsya-priznat-vinu
+2025-09-14 15:39:53,276 [INFO]  -> trying: https://meduza.io/news/2025/09/14/ukrainskaya-razvedka-utverzhdaet-chto-ustroila-vzryvy-na-zheleznoy-doroge-v-rossii-i-narushila-snabzhenie-vs-rf-v-ukraine
+2025-09-14 15:39:53,539 [INFO]    ✓ extracted (len=2491) https://meduza.io/news/2025/09/14/ukrainskaya-razvedka-utverzhdaet-chto-ustroila-vzryvy-na-zheleznoy-doroge-v-rossii-i-narushila-snabzhenie-vs-rf-v-ukraine
+2025-09-14 15:39:55,424 [INFO]  -> trying: https://meduza.io/news/2025/09/14/konsulstvo-ispanii-v-moskve-po-tehnicheskim-prichinam-perestalo-prinimat-zayavleniya-na-vizy
+2025-09-14 15:39:55,644 [INFO]    ✓ extracted (len=1364) https://meduza.io/news/2025/09/14/konsulstvo-ispanii-v-moskve-po-tehnicheskim-prichinam-perestalo-prinimat-zayavleniya-na-vizy
+2025-09-14 15:39:56,846 [INFO] SITE: https://echo.msk.ru
+2025-09-14 15:39:59,050 [INFO]  -> trying: https://echo.msk.ru/news/data-vyhoda/bolshaya-malenkaya-lozh-3-sezon-data-vyhoda-i-chto-ozhidat-ot-novyh-seriy/
+2025-09-14 15:39:59,580 [INFO]    ✓ extracted (len=1233) https://echo.msk.ru/news/data-vyhoda/bolshaya-malenkaya-lozh-3-sezon-data-vyhoda-i-chto-ozhidat-ot-novyh-seriy/
+2025-09-14 15:40:01,067 [INFO]  -> trying: https://echo.msk.ru/news/data-vyhoda/bessmertnyy-3-sezon-data-vyhoda-grafik-seriy-i-vse-chto-nuzhno-znat-fanatam/
+2025-09-14 15:40:01,617 [INFO]    ✓ extracted (len=1413) https://echo.msk.ru/news/data-vyhoda/bessmertnyy-3-sezon-data-vyhoda-grafik-seriy-i-vse-chto-nuzhno-znat-fanatam/
+2025-09-14 15:40:03,262 [INFO]  -> trying: https://echo.msk.ru/news/data-vyhoda/chetvertyy-sezon-osnovanie-na-apple-tv-data-vyhoda-i-podrobnosti/
+2025-09-14 15:40:03,795 [INFO]    ✓ extracted (len=1388) https://echo.msk.ru/news/data-vyhoda/chetvertyy-sezon-osnovanie-na-apple-tv-data-vyhoda-i-podrobnosti/
+2025-09-14 15:40:05,720 [INFO] Saved 92 articles to news_hybrid_training.csv and news_hybrid_training.json
+2025-09-14 15:40:06,011 [INFO] Inserted/updated 92 rows into articles table
+2025-09-14 17:08:49,622 [INFO] Starting scraper (mode=train, per-site=3)
+2025-09-14 17:08:49,626 [INFO] SITE: https://www.independent.co.uk
+2025-09-14 17:08:50,166 [INFO]  -> trying: https://www.independent.co.uk/sport/boxing/ricky-hatton-death-cause-tributes-manchester-boxing-latest-news-b2826218.html
+2025-09-14 17:08:50,493 [INFO]    ✓ extracted (len=3775) https://www.independent.co.uk/sport/boxing/ricky-hatton-death-cause-tributes-manchester-boxing-latest-news-b2826218.html
+2025-09-14 17:08:52,063 [INFO]  -> trying: https://www.independent.co.uk/news/uk/politics/keir-starmer-lord-mandelson-sacking-b2826160.html
+2025-09-14 17:08:52,276 [INFO]    ✓ extracted (len=4681) https://www.independent.co.uk/news/uk/politics/keir-starmer-lord-mandelson-sacking-b2826160.html
+2025-09-14 17:08:54,049 [INFO]  -> trying: https://www.independent.co.uk/news/uk/home-news/london-protests-live-tommy-robinson-unite-the-kingdom-march-news-b2825881.html
+2025-09-14 17:08:54,287 [INFO]    ✓ extracted (len=6573) https://www.independent.co.uk/news/uk/home-news/london-protests-live-tommy-robinson-unite-the-kingdom-march-news-b2825881.html
+2025-09-14 17:08:55,527 [INFO] SITE: https://www.chinadaily.com.cn
+2025-09-14 17:08:56,088 [INFO]  -> trying: https://www.chinadaily.com.cn/a/202509/14/WS68c6d913a3108622abca0a8f.html
+2025-09-14 17:08:57,012 [INFO]    ✓ extracted (len=5481) https://www.chinadaily.com.cn/a/202509/14/WS68c6d913a3108622abca0a8f.html
+2025-09-14 17:08:58,580 [INFO]  -> trying: http://newspress.chinadaily.net.cn/outline?page=3&ChannelID=22000&randno=21659&templet=&resultid=1774
+2025-09-14 17:09:11,089 [WARNING] Fetch error (HTTPConnectionPool(host='newspress.chinadaily.net.cn', port=80): Max retries exceeded with url: /outline?page=3&ChannelID=22000&randno=21659&templet=&resultid=1774 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1161a2270>, 'Connection to newspress.chinadaily.net.cn timed out. (connect timeout=12)'))) for http://newspress.chinadaily.net.cn/outline?page=3&ChannelID=22000&randno=21659&templet=&resultid=1774
+2025-09-14 17:09:24,230 [WARNING] Fetch error (HTTPConnectionPool(host='newspress.chinadaily.net.cn', port=80): Max retries exceeded with url: /outline?page=3&ChannelID=22000&randno=21659&templet=&resultid=1774 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1214b9250>, 'Connection to newspress.chinadaily.net.cn timed out. (connect timeout=12)'))) for http://newspress.chinadaily.net.cn/outline?page=3&ChannelID=22000&randno=21659&templet=&resultid=1774
+2025-09-14 17:09:38,109 [WARNING] Fetch error (HTTPConnectionPool(host='newspress.chinadaily.net.cn', port=80): Max retries exceeded with url: /outline?page=3&ChannelID=22000&randno=21659&templet=&resultid=1774 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1214b9730>, 'Connection to newspress.chinadaily.net.cn timed out. (connect timeout=12)'))) for http://newspress.chinadaily.net.cn/outline?page=3&ChannelID=22000&randno=21659&templet=&resultid=1774
+2025-09-14 17:09:39,993 [INFO]    ✗ skipped http://newspress.chinadaily.net.cn/outline?page=3&ChannelID=22000&randno=21659&templet=&resultid=1774
+2025-09-14 17:09:41,816 [INFO]  -> trying: http://epaper.chinadaily.com.cn/global
+2025-09-14 17:09:43,036 [INFO]    ✗ skipped http://epaper.chinadaily.com.cn/global
+2025-09-14 17:09:44,417 [INFO]  -> trying: https://www.chinadaily.com.cn/a/202509/14/WS68c6893fa3108622abca0a5e.html
+2025-09-14 17:09:44,841 [INFO]    ✗ skipped https://www.chinadaily.com.cn/a/202509/14/WS68c6893fa3108622abca0a5e.html
+2025-09-14 17:09:46,548 [INFO]  -> trying: https://www.chinadaily.com.cn/a/202509/13/WS68c4d514a3108622abca0939.html
+2025-09-14 17:09:46,992 [INFO]    ✗ skipped https://www.chinadaily.com.cn/a/202509/13/WS68c4d514a3108622abca0939.html
+2025-09-14 17:09:48,852 [INFO]  -> trying: https://www.chinadaily.com.cn/a/202509/13/WS68c4c816a3108622abca091e.html
+2025-09-14 17:09:49,401 [INFO]    ✓ extracted (len=2999) https://www.chinadaily.com.cn/a/202509/13/WS68c4c816a3108622abca091e.html
+2025-09-14 17:09:50,804 [INFO]  -> trying: https://www.chinadaily.com.cn/a/202509/12/WS68c3b4c2a3108622abca074f.html
+2025-09-14 17:09:51,331 [INFO]    ✗ skipped https://www.chinadaily.com.cn/a/202509/12/WS68c3b4c2a3108622abca074f.html
+2025-09-14 17:09:52,864 [INFO]  -> trying: https://www.chinadaily.com.cn/a/202509/13/WS68c57e92a3108622abca09fd.html
+2025-09-14 17:09:53,380 [INFO]    ✗ skipped https://www.chinadaily.com.cn/a/202509/13/WS68c57e92a3108622abca09fd.html
+2025-09-14 17:09:55,131 [INFO]  -> trying: https://www.chinadaily.com.cn/a/202509/13/WS68c4d74da3108622abca093e.html
+2025-09-14 17:09:55,611 [INFO]    ✓ extracted (len=6113) https://www.chinadaily.com.cn/a/202509/13/WS68c4d74da3108622abca093e.html
+2025-09-14 17:09:57,405 [INFO] SITE: https://www.japantimes.co.jp
+2025-09-14 17:09:59,108 [INFO]  -> trying: https://www.japantimes.co.jp/archive/2025/09/15/
+2025-09-14 17:10:00,626 [INFO]    ✗ skipped https://www.japantimes.co.jp/archive/2025/09/15/
+2025-09-14 17:10:02,449 [INFO]  -> trying: https://www.japantimes.co.jp/news/japan/politics/
+2025-09-14 17:10:03,855 [INFO]    ✗ skipped https://www.japantimes.co.jp/news/japan/politics/
+2025-09-14 17:10:05,033 [INFO]  -> trying: https://www.japantimes.co.jp/news/japan/society/
+2025-09-14 17:10:06,283 [INFO]    ✗ skipped https://www.japantimes.co.jp/news/japan/society/
+2025-09-14 17:10:07,871 [INFO]  -> trying: https://www.japantimes.co.jp/news/japan/crime-legal/
+2025-09-14 17:10:08,620 [INFO]    ✗ skipped https://www.japantimes.co.jp/news/japan/crime-legal/
+2025-09-14 17:10:09,653 [INFO]  -> trying: https://www.japantimes.co.jp/news/japan/science-health/
+2025-09-14 17:10:11,307 [INFO]    ✗ skipped https://www.japantimes.co.jp/news/japan/science-health/
+2025-09-14 17:10:12,751 [INFO]  -> trying: https://www.japantimes.co.jp/news/japan/explainer/
+2025-09-14 17:10:13,684 [INFO]    ✗ skipped https://www.japantimes.co.jp/news/japan/explainer/
+2025-09-14 17:10:15,230 [INFO]  -> trying: https://www.japantimes.co.jp/news/japan/history/
+2025-09-14 17:10:16,207 [INFO]    ✗ skipped https://www.japantimes.co.jp/news/japan/history/
+2025-09-14 17:10:17,565 [INFO]  -> trying: https://www.japantimes.co.jp/news/world/politics/
+2025-09-14 17:10:18,484 [INFO]    ✗ skipped https://www.japantimes.co.jp/news/world/politics/
+2025-09-14 17:10:20,424 [INFO]  -> trying: https://www.japantimes.co.jp/news/world/crime-legal/
+2025-09-14 17:10:21,269 [INFO]    ✗ skipped https://www.japantimes.co.jp/news/world/crime-legal/
+2025-09-14 17:10:22,671 [INFO]  -> trying: https://www.japantimes.co.jp/news/world/science-health/
+2025-09-14 17:10:23,107 [INFO]    ✗ skipped https://www.japantimes.co.jp/news/world/science-health/
+2025-09-14 17:10:24,421 [INFO]  -> trying: https://www.japantimes.co.jp/news/world/society/
+2025-09-14 17:10:26,032 [INFO]    ✗ skipped https://www.japantimes.co.jp/news/world/society/
+2025-09-14 17:10:27,110 [INFO]  -> trying: https://www.japantimes.co.jp/news/asia-pacific/politics/
+2025-09-14 17:10:28,199 [INFO]    ✗ skipped https://www.japantimes.co.jp/news/asia-pacific/politics/
+2025-09-14 17:10:30,020 [INFO]  -> trying: https://www.japantimes.co.jp/news/asia-pacific/crime-legal/
+2025-09-14 17:10:31,611 [INFO]    ✗ skipped https://www.japantimes.co.jp/news/asia-pacific/crime-legal/
+2025-09-14 17:10:33,533 [INFO]  -> trying: https://www.japantimes.co.jp/news/asia-pacific/science-health/
+2025-09-14 17:10:34,193 [INFO]    ✗ skipped https://www.japantimes.co.jp/news/asia-pacific/science-health/
+2025-09-14 17:10:35,757 [INFO]  -> trying: https://www.japantimes.co.jp/news/asia-pacific/society/
+2025-09-14 17:10:37,256 [INFO]    ✗ skipped https://www.japantimes.co.jp/news/asia-pacific/society/
+2025-09-14 17:10:39,199 [INFO]  -> trying: https://www.japantimes.co.jp/news/2025/09/14/world/politics/us-friend-trump-focus/
+2025-09-14 17:10:40,418 [INFO]    ✓ extracted (len=1074) https://www.japantimes.co.jp/news/2025/09/14/world/politics/us-friend-trump-focus/
+2025-09-14 17:10:41,928 [INFO]  -> trying: https://www.japantimes.co.jp/news/2025/09/14/japan/osaka-expo/
+2025-09-14 17:10:43,485 [INFO]    ✓ extracted (len=960) https://www.japantimes.co.jp/news/2025/09/14/japan/osaka-expo/
+2025-09-14 17:10:45,367 [INFO]  -> trying: https://www.japantimes.co.jp/news/2025/09/14/japan/politics/renaming-hometown-project/
+2025-09-14 17:10:46,953 [INFO]    ✓ extracted (len=994) https://www.japantimes.co.jp/news/2025/09/14/japan/politics/renaming-hometown-project/
+2025-09-14 17:10:48,450 [INFO] SITE: https://www.france24.com
+2025-09-14 17:10:48,914 [WARNING] Non-200 403 for https://www.france24.com
+2025-09-14 17:10:50,150 [WARNING] Non-200 403 for https://www.france24.com
+2025-09-14 17:10:51,757 [WARNING] Non-200 403 for https://www.france24.com
+2025-09-14 17:10:52,760 [WARNING] Failed to fetch homepage https://www.france24.com
+2025-09-14 17:10:52,760 [WARNING] No candidate links found for https://www.france24.com
+2025-09-14 17:10:52,760 [WARNING] Extracted 0 articles for https://www.france24.com
+2025-09-14 17:10:52,760 [INFO] SITE: https://www.dw.com
+2025-09-14 17:10:53,233 [WARNING] No candidate links found for https://www.dw.com
+2025-09-14 17:10:53,233 [WARNING] Extracted 0 articles for https://www.dw.com
+2025-09-14 17:10:53,233 [INFO] SITE: https://www.haaretz.com
+2025-09-14 17:10:53,916 [INFO]  -> trying: https://www.haaretz.com/israel-news/2025-09-14/ty-article-live/rubio-hamas-cannot-continue-to-exist-if-peace-in-the-region-is-the-goal/00000199-45cb-d336-addd-6fffa5380000
+2025-09-14 17:10:54,132 [INFO]    ✓ extracted (len=12357) https://www.haaretz.com/israel-news/2025-09-14/ty-article-live/rubio-hamas-cannot-continue-to-exist-if-peace-in-the-region-is-the-goal/00000199-45cb-d336-addd-6fffa5380000
+2025-09-14 17:10:55,666 [INFO]  -> trying: https://www.haaretz.com/israel-news/2025-09-14/ty-article/.premium/israeli-forces-raid-west-bank-home-of-palestinian-no-other-land-co-director-basel-adra/00000199-47b6-d6e0-a7fb-cffe0e4c0000
+2025-09-14 17:10:55,944 [INFO]    ✓ extracted (len=611) https://www.haaretz.com/israel-news/2025-09-14/ty-article/.premium/israeli-forces-raid-west-bank-home-of-palestinian-no-other-land-co-director-basel-adra/00000199-47b6-d6e0-a7fb-cffe0e4c0000
+2025-09-14 17:10:57,321 [INFO]  -> trying: https://promotion.haaretz.com/offers?htm_source=site&htm_medium=button&htm_campaign=subscription&htm_campaign_type=subscription&htm_content=hello_default
+2025-09-14 17:10:58,115 [INFO]    ✓ extracted (len=1131) https://promotion.haaretz.com/offers?htm_source=site&htm_medium=button&htm_campaign=subscription&htm_campaign_type=subscription&htm_content=hello_default
+2025-09-14 17:10:59,935 [INFO] SITE: https://www.scmp.com
+2025-09-14 17:11:02,284 [INFO]  -> trying: https://www.scmp.com/news/china/military?module=top_story&pgtype=homepage
+2025-09-14 17:11:02,948 [INFO]    ✗ skipped https://www.scmp.com/news/china/military?module=top_story&pgtype=homepage
+2025-09-14 17:11:04,212 [INFO]  -> trying: https://www.scmp.com/news/hong-kong/society?module=top_story&pgtype=homepage
+2025-09-14 17:11:04,614 [INFO]    ✗ skipped https://www.scmp.com/news/hong-kong/society?module=top_story&pgtype=homepage
+2025-09-14 17:11:05,973 [INFO]  -> trying: https://www.scmp.com/news/china/science?module=top_story&pgtype=homepage
+2025-09-14 17:11:06,381 [INFO]    ✗ skipped https://www.scmp.com/news/china/science?module=top_story&pgtype=homepage
+2025-09-14 17:11:07,960 [INFO]  -> trying: https://www.scmp.com/news/china/diplomacy?module=top_story&pgtype=homepage
+2025-09-14 17:11:08,400 [INFO]    ✗ skipped https://www.scmp.com/news/china/diplomacy?module=top_story&pgtype=homepage
+2025-09-14 17:11:09,938 [INFO]  -> trying: https://www.scmp.com/news/asia/australasia?module=top_story&pgtype=homepage
+2025-09-14 17:11:10,643 [INFO]    ✗ skipped https://www.scmp.com/news/asia/australasia?module=top_story&pgtype=homepage
+2025-09-14 17:11:11,994 [INFO]  -> trying: https://www.scmp.com/news/hong-kong/hong-kong-economy?module=top_story&pgtype=homepage
+2025-09-14 17:11:12,760 [INFO]    ✗ skipped https://www.scmp.com/news/hong-kong/hong-kong-economy?module=top_story&pgtype=homepage
+2025-09-14 17:11:14,410 [INFO]  -> trying: https://www.scmp.com/news/asia/south-asia?module=top_story&pgtype=homepage
+2025-09-14 17:11:14,802 [INFO]    ✗ skipped https://www.scmp.com/news/asia/south-asia?module=top_story&pgtype=homepage
+2025-09-14 17:11:16,743 [INFO]  -> trying: https://www.scmp.com/news/world/europe?module=top_story&pgtype=homepage
+2025-09-14 17:11:17,306 [INFO]    ✗ skipped https://www.scmp.com/news/world/europe?module=top_story&pgtype=homepage
+2025-09-14 17:11:18,539 [INFO]  -> trying: https://www.scmp.com/news/world/united-states-canada?module=top_story&pgtype=homepage
+2025-09-14 17:11:19,095 [INFO]    ✗ skipped https://www.scmp.com/news/world/united-states-canada?module=top_story&pgtype=homepage
+2025-09-14 17:11:20,237 [INFO]  -> trying: https://www.scmp.com/news/hong-kong/society?module=latest&pgtype=homepage
+2025-09-14 17:11:20,674 [INFO]    ✗ skipped https://www.scmp.com/news/hong-kong/society?module=latest&pgtype=homepage
+2025-09-14 17:11:22,623 [INFO]  -> trying: https://www.scmp.com/news/asia/australasia?module=latest&pgtype=homepage
+2025-09-14 17:11:23,021 [INFO]    ✗ skipped https://www.scmp.com/news/asia/australasia?module=latest&pgtype=homepage
+2025-09-14 17:11:24,208 [INFO]  -> trying: https://www.scmp.com/news/china/science?module=latest&pgtype=homepage
+2025-09-14 17:11:26,813 [INFO]    ✗ skipped https://www.scmp.com/news/china/science?module=latest&pgtype=homepage
+2025-09-14 17:11:28,486 [INFO]  -> trying: https://www.scmp.com/news/china/science?module=feature_package_2&pgtype=homepage
+2025-09-14 17:11:28,884 [INFO]    ✗ skipped https://www.scmp.com/news/china/science?module=feature_package_2&pgtype=homepage
+2025-09-14 17:11:30,684 [INFO]  -> trying: https://www.scmp.com/news/china/diplomacy?module=feature_package_2&pgtype=homepage
+2025-09-14 17:11:31,123 [INFO]    ✗ skipped https://www.scmp.com/news/china/diplomacy?module=feature_package_2&pgtype=homepage
+2025-09-14 17:11:32,401 [INFO]  -> trying: https://www.scmp.com/news/china/science?module=spotlight&pgtype=homepage
+2025-09-14 17:11:33,368 [INFO]    ✗ skipped https://www.scmp.com/news/china/science?module=spotlight&pgtype=homepage
+2025-09-14 17:11:34,469 [INFO]  -> trying: https://www.scmp.com/news/china/politics?module=spotlight&pgtype=homepage
+2025-09-14 17:11:34,876 [INFO]    ✗ skipped https://www.scmp.com/news/china/politics?module=spotlight&pgtype=homepage
+2025-09-14 17:11:36,225 [INFO]  -> trying: https://www.scmp.com/news/china/science/article/3325470/or-out-death-bright-young-scientists-highlights-chinas-ruthless-academic-system?module=top_story&pgtype=homepage
+2025-09-14 17:11:38,766 [INFO]    ✓ extracted (len=825) https://www.scmp.com/news/china/science/article/3325470/or-out-death-bright-young-scientists-highlights-chinas-ruthless-academic-system?module=top_story&pgtype=homepage
+2025-09-14 17:11:40,375 [INFO]  -> trying: https://www.scmp.com/economy/global-economy/article/3325494/china-us-trade-delegations-kick-fourth-round-talks-madrid?module=top_story&pgtype=homepage
+2025-09-14 17:11:41,327 [INFO]    ✓ extracted (len=882) https://www.scmp.com/economy/global-economy/article/3325494/china-us-trade-delegations-kick-fourth-round-talks-madrid?module=top_story&pgtype=homepage
+2025-09-14 17:11:43,167 [INFO]  -> trying: https://www.scmp.com/news/china/military/article/3325481/china-holds-routine-patrol-south-china-sea-it-warns-philippines-tensions?module=top_story&pgtype=homepage
+2025-09-14 17:11:44,700 [INFO]    ✓ extracted (len=495) https://www.scmp.com/news/china/military/article/3325481/china-holds-routine-patrol-south-china-sea-it-warns-philippines-tensions?module=top_story&pgtype=homepage
+2025-09-14 17:11:46,471 [INFO] SITE: https://www.lemonde.fr
+2025-09-14 17:11:47,070 [INFO]  -> trying: https://www.lemonde.fr/politique/article/2025/09/14/a-la-fete-de-l-humanite-les-insoumis-en-terrain-conquis-fustigent-les-socialistes_6641169_823448.html
+2025-09-14 17:11:47,274 [INFO]    ✓ extracted (len=6726) https://www.lemonde.fr/politique/article/2025/09/14/a-la-fete-de-l-humanite-les-insoumis-en-terrain-conquis-fustigent-les-socialistes_6641169_823448.html
+2025-09-14 17:11:48,283 [INFO]  -> trying: https://secure.lemonde.fr/sfuser/connexion
+2025-09-14 17:11:48,866 [INFO]    ✗ skipped https://secure.lemonde.fr/sfuser/connexion
+2025-09-14 17:11:49,913 [INFO]  -> trying: https://www.lemonde.fr/economie/article/2025/09/14/la-folie-des-labubu-et-des-jouets-collectionnables-gagne-la-france_6641140_3234.html
+2025-09-14 17:11:50,225 [INFO]    ✓ extracted (len=6858) https://www.lemonde.fr/economie/article/2025/09/14/la-folie-des-labubu-et-des-jouets-collectionnables-gagne-la-france_6641140_3234.html
+2025-09-14 17:11:51,582 [INFO]  -> trying: https://www.lemonde.fr/economie/article/2025/09/03/aux-etats-unis-google-echappe-au-demantelement_6638494_3234.html
+2025-09-14 17:11:51,809 [INFO]    ✓ extracted (len=6460) https://www.lemonde.fr/economie/article/2025/09/03/aux-etats-unis-google-echappe-au-demantelement_6638494_3234.html
+2025-09-14 17:11:53,488 [INFO] SITE: https://www.latimes.com
+2025-09-14 17:11:54,314 [INFO]  -> trying: https://www.latimes.com/california/story/2025-09-14/crimes-of-the-times-the-fall-of-l-a-sheriff-lee-baca
+2025-09-14 17:11:55,061 [INFO]    ✓ extracted (len=15667) https://www.latimes.com/california/story/2025-09-14/crimes-of-the-times-the-fall-of-l-a-sheriff-lee-baca
+2025-09-14 17:11:56,510 [INFO]  -> trying: https://www.latimes.com/entertainment-arts/tv/story/2025-09-14/emmy-awards-security-lapd
+2025-09-14 17:11:56,880 [INFO]    ✓ extracted (len=3639) https://www.latimes.com/entertainment-arts/tv/story/2025-09-14/emmy-awards-security-lapd
+2025-09-14 17:11:58,362 [INFO]  -> trying: https://www.latimes.com/california/story/2025-09-14/oscar-eagle-wrongful-conviction-lapd
+2025-09-14 17:11:58,878 [INFO]    ✓ extracted (len=9991) https://www.latimes.com/california/story/2025-09-14/oscar-eagle-wrongful-conviction-lapd
+2025-09-14 17:11:59,986 [INFO] SITE: https://www.timesofindia.com
+2025-09-14 17:12:02,537 [INFO]  -> trying: https://timesofindia.indiatimes.com/news/trending-news
+2025-09-14 17:12:03,363 [INFO]    ✗ skipped https://timesofindia.indiatimes.com/news/trending-news
+2025-09-14 17:12:04,921 [INFO]  -> trying: https://timesofindia.indiatimes.com/life-style/health-fitness
+2025-09-14 17:12:06,394 [INFO]    ✓ extracted (len=7064) https://timesofindia.indiatimes.com/life-style/health-fitness
+2025-09-14 17:12:08,361 [INFO]  -> trying: https://timesofindia.indiatimes.com/toireporter/author-Korean-Desk-479270092.cms
+2025-09-14 17:12:10,525 [INFO]    ✗ skipped https://timesofindia.indiatimes.com/toireporter/author-Korean-Desk-479270092.cms
+2025-09-14 17:12:12,471 [INFO]  -> trying: https://timesofindia.indiatimes.com/india/opinions-and-features
+2025-09-14 17:12:13,852 [INFO]    ✗ skipped https://timesofindia.indiatimes.com/india/opinions-and-features
+2025-09-14 17:12:15,673 [INFO]  -> trying: https://timesofindia.indiatimes.com/voice-of-conscience
+2025-09-14 17:12:17,034 [INFO]    ✗ skipped https://timesofindia.indiatimes.com/voice-of-conscience
+2025-09-14 17:12:18,623 [INFO]  -> trying: https://timesofindia.indiatimes.com/world/times-evoke
+2025-09-14 17:12:20,260 [INFO]    ✗ skipped https://timesofindia.indiatimes.com/world/times-evoke
+2025-09-14 17:12:21,929 [INFO]  -> trying: https://timesofindia.indiatimes.com/india/andaman-and-nicobar-islands
+2025-09-14 17:12:23,817 [INFO]    ✗ skipped https://timesofindia.indiatimes.com/india/andaman-and-nicobar-islands
+2025-09-14 17:12:25,804 [INFO]  -> trying: https://timesofindia.indiatimes.com/india/dadra-and-nagar-haveli
+2025-09-14 17:12:26,999 [INFO]    ✗ skipped https://timesofindia.indiatimes.com/india/dadra-and-nagar-haveli
+2025-09-14 17:12:28,762 [INFO]  -> trying: https://timesofindia.indiatimes.com/sports/cricket/asia-cup/schedule
+2025-09-14 17:12:29,868 [INFO]    ✗ skipped https://timesofindia.indiatimes.com/sports/cricket/asia-cup/schedule
+2025-09-14 17:12:31,483 [INFO]  -> trying: http://toi.in/Indulgence2025?utm_source=TOI&utm_medium=L2+&utm_campaign=powercreatorawardsindulgence
+2025-09-14 17:12:33,768 [INFO]    ✗ skipped http://toi.in/Indulgence2025?utm_source=TOI&utm_medium=L2+&utm_campaign=powercreatorawardsindulgence
+2025-09-14 17:12:35,594 [INFO]  -> trying: https://timesofindia.indiatimes.com/world/south-asia/nepal-gen-z-protests-live-updates-social-media-ban-pm-resignation-nepal-army-kathmandu-sushila-karki/liveblog/123820729.cms
+2025-09-14 17:12:36,861 [INFO]    ✓ extracted (len=11084) https://timesofindia.indiatimes.com/world/south-asia/nepal-gen-z-protests-live-updates-social-media-ban-pm-resignation-nepal-army-kathmandu-sushila-karki/liveblog/123820729.cms
+2025-09-14 17:12:38,606 [INFO]  -> trying: https://timesofindia.indiatimes.com/sports/cricket/india-vs-pakistan-live-score-today-cricket-match-ind-vs-pak-asia-cup-2025-live-scorecard-suryakumar-yadav-shubman-gill-abhishek-sharma/liveblog/123881021.cms
+2025-09-14 17:12:39,079 [INFO]    ✓ extracted (len=13658) https://timesofindia.indiatimes.com/sports/cricket/india-vs-pakistan-live-score-today-cricket-match-ind-vs-pak-asia-cup-2025-live-scorecard-suryakumar-yadav-shubman-gill-abhishek-sharma/liveblog/123881021.cms
+2025-09-14 17:12:40,500 [INFO] Saved 24 articles to news_hybrid_training.csv and news_hybrid_training.json
+2025-09-14 17:12:40,592 [INFO] Inserted/updated 24 rows into articles table
+2025-09-15 00:19:47,361 [INFO] Starting scraper (mode=train, per-site=3)
+2025-09-15 00:19:47,363 [INFO] SITE: https://www.independent.co.uk
+2025-09-15 00:19:47,938 [INFO]  -> trying: https://www.independent.co.uk/news/uk/home-news/house-prices-rent-gen-z-labour-b2802891.html
+2025-09-15 00:19:48,290 [INFO]    ✓ extracted (len=8782) https://www.independent.co.uk/news/uk/home-news/house-prices-rent-gen-z-labour-b2802891.html
+2025-09-15 00:19:49,326 [INFO]  -> trying: https://www.independent.co.uk/news/uk/politics/trump-starmer-free-speech-state-visit-b2826264.html
+2025-09-15 00:19:49,566 [INFO]    ✓ extracted (len=6481) https://www.independent.co.uk/news/uk/politics/trump-starmer-free-speech-state-visit-b2826264.html
+2025-09-15 00:19:51,466 [INFO]  -> trying: https://www.independent.co.uk/news/uk/home-news/london-protests-live-tommy-robinson-unite-the-kingdom-march-news-b2825881.html
+2025-09-15 00:19:52,139 [INFO]    ✓ extracted (len=6573) https://www.independent.co.uk/news/uk/home-news/london-protests-live-tommy-robinson-unite-the-kingdom-march-news-b2825881.html
+2025-09-15 00:19:53,427 [INFO] SITE: https://www.chinadaily.com.cn
+2025-09-15 00:19:54,294 [INFO]  -> trying: https://www.chinadaily.com.cn/a/202509/15/WS68c744fea3108622abca0aa0.html
+2025-09-15 00:19:54,976 [INFO]    ✓ extracted (len=5679) https://www.chinadaily.com.cn/a/202509/15/WS68c744fea3108622abca0aa0.html
+2025-09-15 00:19:56,661 [INFO]  -> trying: http://newspress.chinadaily.net.cn/outline?page=3&ChannelID=22000&randno=21659&templet=&resultid=1774

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ article.title }} - InsightBot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='article.css') }}">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="nav-left">
+      <a class="brand" href="/">InsightBot News</a>
+    </div>
+    <div class="nav-right">
+      {% if current_user.is_authenticated %}
+        <span class="welcome">Hi, {{ current_user.username }}</span>
+        {% if current_user.is_admin %}
+          <a class="btn warning" href="{{ url_for('admin_approve') }}">Admin Panel</a>
+        {% endif %}
+        <a class="btn outline" href="{{ url_for('logout') }}">Logout</a>
+      {% endif %}
+    </div>
+  </nav>
+
+  <!-- Article Container -->
+  <div class="article-container">
+    <!-- Title + Meta -->
+    <h2 class="mb-2">{{ article.title }}</h2>
+    <p class="meta">
+      <em>{{ article.site }} — {{ article.published if article.published else "No date" }}</em>
+    </p>
+
+    <!-- Article body -->
+    <div class="article-body">
+      {% if article.body %}
+        {% set sentences = article.body.replace("?", "?.").replace("!", "!.").split(".") %}
+        {% for sentence in sentences %}
+          {% if sentence.strip() %}
+            <p>{{ sentence.strip() }}.</p>
+          {% endif %}
+        {% endfor %}
+      {% else %}
+        <p><em>No content available</em></p>
+      {% endif %}
+    </div>
+
+    <!-- Source link -->
+    <p class="mt-3">
+      <a href="{{ article.url }}" target="_blank" class="btn primary">
+        🔗 Read on Source Site
+      </a>
+    </p>
+  </div>
+
+</body>
+</html>

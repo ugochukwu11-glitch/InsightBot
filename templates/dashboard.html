@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>InsightBot Dashboard</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='dashboard.css') }}">
+</head>
+<body>
+
+ <nav class="navbar">
+  <div class="navbar-brand">
+    <a href="/" class="brand-main">InsightBot News</a>
+    <span class="brand-sub">Refined News at its Best</span>
+  </div>
+  <div class="navbar-controls">
+    {% if current_user.is_authenticated %}
+      <span class="nav-username">Hi, {{ current_user.username }}</span>
+      {% if current_user.is_admin %}
+        <a href="{{ url_for('admin_approve') }}" class="btn-warning">Admin Panel</a>
+      {% endif %}
+      <a href="{{ url_for('logout') }}" class="btn-outline">Logout</a>
+    {% else %}
+      <a href="{{ url_for('login') }}" class="btn-outline">Login</a>
+      <a href="{{ url_for('register') }}" class="btn-outline">Register</a>
+    {% endif %}
+  </div>
+</nav>
+
+
+  <!-- Tableau Dashboard -->
+  <div class="container text-center">
+    <h2 class="page-title">📊 News Insights Dashboard</h2>
+    <div class="dashboard-frame">
+      <div class='tableauPlaceholder' id='viz1757888699432' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;in&#47;insightbot&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='insightbot&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;in&#47;insightbot&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1757888699432');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1200px';vizElement.style.height='677px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+    </div>
+  </div>
+
+  <script type='text/javascript'>
+    var divElement = document.getElementById('viz1757744267339');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    vizElement.style.width = '100%';   // responsive width
+    vizElement.style.height = '800px'; // fixed height
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+  </script>
+
+</body>
+</html>

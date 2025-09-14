@@ -1,0 +1,173 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #222;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px 30px;
+}
+
+.navbar-brand {
+  display: flex;
+  flex-direction: column;
+}
+
+.brand-main {
+  font-size: 1.9rem;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+.brand-sub {
+  font-size: 0.9rem;
+  color: #aaa;
+  font-style: italic;
+  padding-top: 15px;
+}
+
+.navbar-controls {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.nav-username {
+  margin-right: 12px;
+}
+
+/* Buttons */
+.btn-primary,
+.btn-info,
+.btn-warning,
+.btn-outline {
+  text-decoration: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  transition: background 0.3s;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: white;
+}
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.btn-info {
+  background-color: grey;
+  color: white;
+
+}
+.btn-info:hover {
+  background-color: #138496;
+}
+
+.btn-warning {
+  background-color: #ffc107;
+  color: #000;
+}
+.btn-warning:hover {
+  background-color: #e0a800;
+}
+
+.btn-outline {
+  border: 1px solid white;
+  color: white;
+}
+.btn-outline:hover {
+  background-color: white;
+  color: #222;
+}
+
+/* Container */
+.container {
+  max-width: 1100px;
+  margin: 20px auto;
+  padding: 0 20px;
+}
+
+/* Header row */
+.header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.controls {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+select {
+  padding: 4px 6px;
+}
+
+/* Cards */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.card {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 16px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.card-title a {
+  text-decoration: none;
+  font-size: 1.1rem;
+  color: #333;
+  font-weight: bold;
+}
+
+.card-title a:hover {
+  color: #007bff;
+}
+
+.card-meta {
+  font-size: 0.85rem;
+  color: #777;
+  margin: 6px 0;
+}
+
+.card-preview {
+  font-size: 0.9rem;
+  margin-bottom: 12px;
+}
+
+/* More news */
+.more-news {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.news-list {
+  list-style: none;
+  padding: 0;
+}
+
+.news-item {
+  background: white;
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 4px;
+}

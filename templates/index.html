@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>InsightBot News</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='index.css') }}">
+</head>
+
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="navbar-brand">
+      <a href="/" class="brand-main">InsightBot News</a>
+      <span class="brand-sub">Refined News at its Best</span>
+    </div>
+
+    <div class="navbar-controls">
+      {% if current_user.is_authenticated %}
+        <span class="nav-username">Hi, {{ current_user.username }}</span>
+        {% if current_user.is_admin %}
+          <a class="btn-warning" href="{{ url_for('admin_approve') }}">Admin Panel</a>
+        {% endif %}
+        <a class="btn-outline" href="{{ url_for('logout') }}">Logout</a>
+      {% else %}
+        <a class="btn-outline" href="{{ url_for('login') }}">Login</a>
+        <a class="btn-outline" href="{{ url_for('register') }}">Register</a>
+      {% endif %}
+    </div>
+  </nav>
+
+  <main class="container">
+
+    <!-- Header row -->
+    <div class="header-row">
+      <h2>Latest Articles</h2>
+      <div class="controls">
+        <form method="get">
+          <label for="lang">Filter by Language:</label>
+          <select name="lang" id="lang" onchange="this.form.submit()">
+            <option value="">All</option>
+            {% for lang in languages %}
+              <option value="{{ lang }}" {% if selected_lang == lang %}selected{% endif %}>{{ lang }}</option>
+            {% endfor %}
+          </select>
+        </form>
+        <a href="{{ url_for('dashboard') }}" class="btn-info">📊 View Insights</a>
+      </div>
+    </div>
+
+    <!-- Featured articles -->
+    <div class="card-grid">
+      {% for article in articles[:6] %}
+      <div class="card">
+        <h5 class="card-title">
+          <a href="/article/{{ loop.index0 }}{% if selected_lang %}?lang={{ selected_lang }}{% endif %}">
+            {{ article.title }}
+          </a>
+        </h5>
+        <p class="card-meta">{{ article.site }} — {{ article.date }}</p>
+        <p class="card-preview">{{ article.body[:200] }}...</p>
+        <a href="/article/{{ loop.index0 }}{% if selected_lang %}?lang={{ selected_lang }}{% endif %}" class="btn-primary">
+          Read More
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+
+    <!-- More news -->
+    <h4 class="more-news">More News</h4>
+    <ul class="news-list">
+      {% for article in articles[6:] %}
+      <li class="news-item">
+        <a href="{{ url_for('article', article_id=loop.index0, lang=selected_lang) }}">
+          <strong>{{ article.title }}</strong>
+        </a><br>
+        <small>{{ article.site }} — {{ article.date }}</small>
+      </li>
+      {% endfor %}
+    </ul>
+  </main>
+
+</body>
+</html>

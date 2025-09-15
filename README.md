@@ -72,7 +72,7 @@ Update DB_CONFIG in insightbot_hybrid_scraper.py with your credentials
 ---
 
 ## 🛠️ Tech Stack
-**Backend:** Python, Flask
+-  **Backend:** Python, Flask
 - **Scraping:** BeautifulSoup, Requests
 - **Database:** MySQL
 - **Scheduler:** APScheduler
